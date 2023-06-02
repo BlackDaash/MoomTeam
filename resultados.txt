@@ -1,0 +1,6517 @@
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.03805631763450693
+Correlación con emisiones de CO2: 0.00019028158817253467
+------------------------
+Promedio de vegetación: 0.03421020042676421
+Correlación con emisiones de CO2: 0.00017105100213382106
+------------------------
+Promedio de vegetación: 0.03076893766194178
+Correlación con emisiones de CO2: 0.00015384468830970888
+------------------------
+Promedio de vegetación: 0.029351947111720775
+Correlación con emisiones de CO2: 0.00014675973555860388
+------------------------
+Promedio de vegetación: 0.027732529340039627
+Correlación con emisiones de CO2: 0.00013866264670019815
+------------------------
+Promedio de vegetación: 0.025100975461057766
+Correlación con emisiones de CO2: 0.00012550487730528882
+------------------------
+Promedio de vegetación: 0.019433013260173753
+Correlación con emisiones de CO2: 9.716506630086876e-05
+------------------------
+Promedio de vegetación: 0.00931165218716659
+Correlación con emisiones de CO2: 4.655826093583295e-05
+------------------------
+Promedio de vegetación: 0.005060680536503582
+Correlación con emisiones de CO2: 2.530340268251791e-05
+------------------------
+Promedio de vegetación: 1.3348050983081847
+Correlación con emisiones de CO2: 0.0066740254915409235
+------------------------
+Promedio de vegetación: 53.07236892242036
+Correlación con emisiones de CO2: 0.26536184461210177
+------------------------
+Promedio de vegetación: 162.75128362673374
+Correlación con emisiones de CO2: 0.8137564181336687
+------------------------
+Promedio de vegetación: 129.2827765393995
+Correlación con emisiones de CO2: 0.6464138826969975
+------------------------
+Promedio de vegetación: 114.40457818930041
+Correlación con emisiones de CO2: 0.572022890946502
+------------------------
+Promedio de vegetación: 170.23441072245083
+Correlación con emisiones de CO2: 0.8511720536122541
+------------------------
+Promedio de vegetación: 237.7586662665752
+Correlación con emisiones de CO2: 1.188793331332876
+------------------------
+Promedio de vegetación: 249.5134125895443
+Correlación con emisiones de CO2: 1.2475670629477214
+------------------------
+Promedio de vegetación: 249.65571892623075
+Correlación con emisiones de CO2: 1.2482785946311536
+------------------------
+Promedio de vegetación: 231.54030445054107
+Correlación con emisiones de CO2: 1.1577015222527054
+------------------------
+Promedio de vegetación: 225.17498047172688
+Correlación con emisiones de CO2: 1.1258749023586345
+------------------------
+Promedio de vegetación: 240.77564157521718
+Correlación con emisiones de CO2: 1.203878207876086
+------------------------
+Promedio de vegetación: 207.157135916781
+Correlación con emisiones de CO2: 1.0357856795839049
+------------------------
+Promedio de vegetación: 205.8350837334248
+Correlación con emisiones de CO2: 1.029175418667124
+------------------------
+Promedio de vegetación: 200.74505124980948
+Correlación con emisiones de CO2: 1.0037252562490473
+------------------------
+Promedio de vegetación: 133.33030883249504
+Correlación con emisiones de CO2: 0.6666515441624752
+------------------------
+Promedio de vegetación: 146.81722488949856
+Correlación con emisiones de CO2: 0.7340861244474928
+------------------------
+Promedio de vegetación: 205.8415614045115
+Correlación con emisiones de CO2: 1.0292078070225577
+------------------------
+Promedio de vegetación: 229.59174001676573
+Correlación con emisiones de CO2: 1.1479587000838287
+------------------------
+Promedio de vegetación: 239.76148119570186
+Correlación con emisiones de CO2: 1.1988074059785092
+------------------------
+Promedio de vegetación: 196.34286646471574
+Correlación con emisiones de CO2: 0.9817143323235787
+------------------------
+Promedio de vegetación: 121.41746684956561
+Correlación con emisiones de CO2: 0.607087334247828
+------------------------
+Promedio de vegetación: 162.66950302926384
+Correlación con emisiones de CO2: 0.8133475151463192
+------------------------
+Promedio de vegetación: 198.6051930917543
+Correlación con emisiones de CO2: 0.9930259654587715
+------------------------
+Promedio de vegetación: 182.05190948407255
+Correlación con emisiones de CO2: 0.9102595474203627
+------------------------
+Promedio de vegetación: 219.50256487197075
+Correlación con emisiones de CO2: 1.0975128243598538
+------------------------
+Promedio de vegetación: 244.1926130734644
+Correlación con emisiones de CO2: 1.220963065367322
+------------------------
+Promedio de vegetación: 251.47553964715743
+Correlación con emisiones de CO2: 1.2573776982357872
+------------------------
+Promedio de vegetación: 250.3915418762384
+Correlación con emisiones de CO2: 1.251957709381192
+------------------------
+Promedio de vegetación: 248.0607948483463
+Correlación con emisiones de CO2: 1.2403039742417314
+------------------------
+Promedio de vegetación: 247.17112721002897
+Correlación con emisiones de CO2: 1.235855636050145
+------------------------
+Promedio de vegetación: 248.42071044810243
+Correlación con emisiones de CO2: 1.2421035522405122
+------------------------
+Promedio de vegetación: 250.24599670400855
+Correlación con emisiones de CO2: 1.2512299835200427
+------------------------
+Promedio de vegetación: 233.66842182975157
+Correlación con emisiones de CO2: 1.1683421091487578
+------------------------
+Promedio de vegetación: 233.8906869189148
+Correlación con emisiones de CO2: 1.169453434594574
+------------------------
+Promedio de vegetación: 212.0560771033379
+Correlación con emisiones de CO2: 1.0602803855166896
+------------------------
+Promedio de vegetación: 162.82132344535893
+Correlación con emisiones de CO2: 0.8141066172267947
+------------------------
+Promedio de vegetación: 157.34485739597622
+Correlación con emisiones de CO2: 0.7867242869798811
+------------------------
+Promedio de vegetación: 154.73820206523396
+Correlación con emisiones de CO2: 0.7736910103261698
+------------------------
+Promedio de vegetación: 142.7747532769395
+Correlación con emisiones de CO2: 0.7138737663846975
+------------------------
+Promedio de vegetación: 190.0641813366865
+Correlación con emisiones de CO2: 0.9503209066834324
+------------------------
+Promedio de vegetación: 230.88322568968144
+Correlación con emisiones de CO2: 1.1544161284484071
+------------------------
+Promedio de vegetación: 201.02865178707515
+Correlación con emisiones de CO2: 1.0051432589353757
+------------------------
+Promedio de vegetación: 120.72253419829295
+Correlación con emisiones de CO2: 0.6036126709914648
+------------------------
+Promedio de vegetación: 147.64677164304223
+Correlación con emisiones de CO2: 0.7382338582152111
+------------------------
+Promedio de vegetación: 225.66566405654626
+Correlación con emisiones de CO2: 1.1283283202827312
+------------------------
+Promedio de vegetación: 195.3740497828075
+Correlación con emisiones de CO2: 0.9768702489140375
+------------------------
+Promedio de vegetación: 192.1789385192806
+Correlación con emisiones de CO2: 0.9608946925964029
+------------------------
+Promedio de vegetación: 122.7243369913123
+Correlación con emisiones de CO2: 0.6136216849565614
+------------------------
+Promedio de vegetación: 127.58198302469135
+Correlación con emisiones de CO2: 0.6379099151234567
+------------------------
+Promedio de vegetación: 99.11686957018748
+Correlación con emisiones de CO2: 0.49558434785093736
+------------------------
+Promedio de vegetación: 132.779504362902
+Correlación con emisiones de CO2: 0.66389752181451
+------------------------
+Promedio de vegetación: 124.72067424935223
+Correlación con emisiones de CO2: 0.6236033712467611
+------------------------
+Promedio de vegetación: 128.0546505868008
+Correlación con emisiones de CO2: 0.640273252934004
+------------------------
+Promedio de vegetación: 82.12371161027282
+Correlación con emisiones de CO2: 0.4106185580513641
+------------------------
+Promedio de vegetación: 109.33519328227405
+Correlación con emisiones de CO2: 0.5466759664113703
+------------------------
+Promedio de vegetación: 105.39535227099528
+Correlación con emisiones de CO2: 0.5269767613549764
+------------------------
+Promedio de vegetación: 118.90595231290962
+Correlación con emisiones de CO2: 0.5945297615645481
+------------------------
+Promedio de vegetación: 131.06919676878525
+Correlación con emisiones de CO2: 0.6553459838439263
+------------------------
+Promedio de vegetación: 163.0561390222527
+Correlación con emisiones de CO2: 0.8152806951112634
+------------------------
+Promedio de vegetación: 208.00692539247066
+Correlación con emisiones de CO2: 1.0400346269623533
+------------------------
+Promedio de vegetación: 226.86059194482547
+Correlación con emisiones de CO2: 1.1343029597241274
+------------------------
+Promedio de vegetación: 251.02594878829447
+Correlación con emisiones de CO2: 1.2551297439414724
+------------------------
+Promedio de vegetación: 250.009966563786
+Correlación con emisiones de CO2: 1.25004983281893
+------------------------
+Promedio de vegetación: 241.3764455685109
+Correlación con emisiones de CO2: 1.2068822278425544
+------------------------
+Promedio de vegetación: 232.87875323883554
+Correlación con emisiones de CO2: 1.1643937661941777
+------------------------
+Promedio de vegetación: 228.450252914952
+Correlación con emisiones de CO2: 1.14225126457476
+------------------------
+Promedio de vegetación: 218.03921848803537
+Correlación con emisiones de CO2: 1.0901960924401768
+------------------------
+Promedio de vegetación: 171.78135954884925
+Correlación con emisiones de CO2: 0.8589067977442463
+------------------------
+Promedio de vegetación: 167.34638155387898
+Correlación con emisiones de CO2: 0.8367319077693949
+------------------------
+Promedio de vegetación: 219.0918400396281
+Correlación con emisiones de CO2: 1.0954592001981405
+------------------------
+Promedio de vegetación: 221.58614826246
+Correlación con emisiones de CO2: 1.1079307413123
+------------------------
+Promedio de vegetación: 225.3276105967078
+Correlación con emisiones de CO2: 1.1266380529835391
+------------------------
+Promedio de vegetación: 219.5819163427831
+Correlación con emisiones de CO2: 1.0979095817139155
+------------------------
+Promedio de vegetación: 209.55063538332573
+Correlación con emisiones de CO2: 1.0477531769166286
+------------------------
+Promedio de vegetación: 238.4718173677793
+Correlación con emisiones de CO2: 1.1923590868388965
+------------------------
+Promedio de vegetación: 234.70343221307726
+Correlación con emisiones de CO2: 1.1735171610653863
+------------------------
+Promedio de vegetación: 168.69515413046793
+Correlación con emisiones de CO2: 0.8434757706523396
+------------------------
+Promedio de vegetación: 128.2663894604481
+Correlación con emisiones de CO2: 0.6413319473022405
+------------------------
+Promedio de vegetación: 153.42161541685718
+Correlación con emisiones de CO2: 0.7671080770842859
+------------------------
+Promedio de vegetación: 186.39599765660722
+Correlación con emisiones de CO2: 0.9319799882830361
+------------------------
+Promedio de vegetación: 194.58923944520652
+Correlación con emisiones de CO2: 0.9729461972260326
+------------------------
+Promedio de vegetación: 209.56561499771377
+Correlación con emisiones de CO2: 1.047828074988569
+------------------------
+Promedio de vegetación: 232.97510859625058
+Correlación con emisiones de CO2: 1.164875542981253
+------------------------
+Promedio de vegetación: 249.888105376467
+Correlación con emisiones de CO2: 1.249440526882335
+------------------------
+Promedio de vegetación: 251.31663427831123
+Correlación con emisiones de CO2: 1.256583171391556
+------------------------
+Promedio de vegetación: 248.46706628181678
+Correlación con emisiones de CO2: 1.242335331409084
+------------------------
+Promedio de vegetación: 241.04669162475233
+Correlación con emisiones de CO2: 1.2052334581237616
+------------------------
+Promedio de vegetación: 248.369496361073
+Correlación con emisiones de CO2: 1.241847481805365
+------------------------
+Promedio de vegetación: 244.27196454427678
+Correlación con emisiones de CO2: 1.221359822721384
+------------------------
+Promedio de vegetación: 242.21975737311385
+Correlación con emisiones de CO2: 1.2110987868655692
+------------------------
+Promedio de vegetación: 223.24503934232587
+Correlación con emisiones de CO2: 1.1162251967116292
+------------------------
+Promedio de vegetación: 121.34985615759793
+Correlación con emisiones de CO2: 0.6067492807879896
+------------------------
+Promedio de vegetación: 36.672727575826855
+Correlación con emisiones de CO2: 0.18336363787913426
+------------------------
+Promedio de vegetación: 2.6843873837829597
+Correlación con emisiones de CO2: 0.013421936918914799
+------------------------
+Promedio de vegetación: 0.04250971650663009
+Correlación con emisiones de CO2: 0.00021254858253315045
+------------------------
+Promedio de vegetación: 0.03663932708428593
+Correlación con emisiones de CO2: 0.00018319663542142967
+------------------------
+Promedio de vegetación: 0.03846117207742722
+Correlación con emisiones de CO2: 0.00019230586038713609
+------------------------
+Promedio de vegetación: 0.05829903978052126
+Correlación con emisiones de CO2: 0.0002914951989026063
+------------------------
+Promedio de vegetación: 0.1141689529035208
+Correlación con emisiones de CO2: 0.000570844764517604
+------------------------
+Promedio de vegetación: 0.1637636221612559
+Correlación con emisiones de CO2: 0.0008188181108062794
+------------------------
+Promedio de vegetación: 0.19959324035970127
+Correlación con emisiones de CO2: 0.0009979662017985064
+------------------------
+Promedio de vegetación: 0.18562576207895137
+Correlación con emisiones de CO2: 0.0009281288103947569
+------------------------
+Promedio de vegetación: 0.09574807575064777
+Correlación con emisiones de CO2: 0.00047874037875323886
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0210524310318549
+Correlación con emisiones de CO2: 0.0001052621551592745
+------------------------
+Promedio de vegetación: 0.020242722146014327
+Correlación con emisiones de CO2: 0.00010121361073007164
+------------------------
+Promedio de vegetación: 0.017611168267032466
+Correlación con emisiones de CO2: 8.805584133516233e-05
+------------------------
+Promedio de vegetación: 0.014574759945130316
+Correlación con emisiones de CO2: 7.287379972565158e-05
+------------------------
+Promedio de vegetación: 0.014979614388050603
+Correlación con emisiones de CO2: 7.489807194025302e-05
+------------------------
+Promedio de vegetación: 0.013157769394909313
+Correlación con emisiones de CO2: 6.578884697454657e-05
+------------------------
+Promedio de vegetación: 0.008299516079865874
+Correlación con emisiones de CO2: 4.149758039932937e-05
+------------------------
+Promedio de vegetación: 0.004250971650663009
+Correlación con emisiones de CO2: 2.1254858253315043e-05
+------------------------
+Promedio de vegetación: 0.0026315538789818626
+Correlación con emisiones de CO2: 1.3157769394909313e-05
+------------------------
+Promedio de vegetación: 1.1516084628867551
+Correlación con emisiones de CO2: 0.0057580423144337756
+------------------------
+Promedio de vegetación: 88.52709190672154
+Correlación con emisiones de CO2: 0.44263545953360767
+------------------------
+Promedio de vegetación: 227.40491874333182
+Correlación con emisiones de CO2: 1.1370245937166592
+------------------------
+Promedio de vegetación: 248.4425725880201
+Correlación con emisiones de CO2: 1.2422128629401006
+------------------------
+Promedio de vegetación: 216.82708428593202
+Correlación con emisiones de CO2: 1.0841354214296601
+------------------------
+Promedio de vegetación: 135.48615874104559
+Correlación con emisiones de CO2: 0.677430793705228
+------------------------
+Promedio de vegetación: 150.85848193872886
+Correlación con emisiones de CO2: 0.7542924096936443
+------------------------
+Promedio de vegetación: 228.73081704389574
+Correlación con emisiones de CO2: 1.1436540852194788
+------------------------
+Promedio de vegetación: 248.48265317786922
+Correlación con emisiones de CO2: 1.242413265889346
+------------------------
+Promedio de vegetación: 227.18852404359092
+Correlación con emisiones de CO2: 1.1359426202179546
+------------------------
+Promedio de vegetación: 189.63220164609052
+Correlación con emisiones de CO2: 0.9481610082304526
+------------------------
+Promedio de vegetación: 148.00668724279836
+Correlación con emisiones de CO2: 0.7400334362139919
+------------------------
+Promedio de vegetación: 161.89643347050753
+Correlación con emisiones de CO2: 0.8094821673525376
+------------------------
+Promedio de vegetación: 223.69017680231673
+Correlación con emisiones de CO2: 1.1184508840115837
+------------------------
+Promedio de vegetación: 234.9694215820759
+Correlación con emisiones de CO2: 1.1748471079103795
+------------------------
+Promedio de vegetación: 200.06914675735405
+Correlación con emisiones de CO2: 1.0003457337867703
+------------------------
+Promedio de vegetación: 203.6668857643652
+Correlación con emisiones de CO2: 1.018334428821826
+------------------------
+Promedio de vegetación: 239.20845002667275
+Correlación con emisiones de CO2: 1.1960422501333638
+------------------------
+Promedio de vegetación: 250.13425687776254
+Correlación con emisiones de CO2: 1.2506712843888126
+------------------------
+Promedio de vegetación: 233.59898929279072
+Correlación con emisiones de CO2: 1.1679949464639536
+------------------------
+Promedio de vegetación: 165.9328322664228
+Correlación con emisiones de CO2: 0.829664161332114
+------------------------
+Promedio de vegetación: 116.21711153025453
+Correlación con emisiones de CO2: 0.5810855576512727
+------------------------
+Promedio de vegetación: 95.69180098308185
+Correlación con emisiones de CO2: 0.4784590049154092
+------------------------
+Promedio de vegetación: 48.36067291571407
+Correlación con emisiones de CO2: 0.24180336457857035
+------------------------
+Promedio de vegetación: 60.95164609053498
+Correlación con emisiones de CO2: 0.3047582304526749
+------------------------
+Promedio de vegetación: 104.24090982700808
+Correlación con emisiones de CO2: 0.5212045491350404
+------------------------
+Promedio de vegetación: 121.14196340115836
+Correlación con emisiones de CO2: 0.6057098170057919
+------------------------
+Promedio de vegetación: 126.73705180231671
+Correlación con emisiones de CO2: 0.6336852590115836
+------------------------
+Promedio de vegetación: 73.18695463725042
+Correlación con emisiones de CO2: 0.3659347731862521
+------------------------
+Promedio de vegetación: 108.00443672839506
+Correlación con emisiones de CO2: 0.5400221836419753
+------------------------
+Promedio de vegetación: 116.60010383325712
+Correlación con emisiones de CO2: 0.5830005191662856
+------------------------
+Promedio de vegetación: 92.39608339048925
+Correlación con emisiones de CO2: 0.46198041695244624
+------------------------
+Promedio de vegetación: 127.74392480185948
+Correlación con emisiones de CO2: 0.6387196240092974
+------------------------
+Promedio de vegetación: 164.73223641594268
+Correlación con emisiones de CO2: 0.8236611820797134
+------------------------
+Promedio de vegetación: 229.70489683356195
+Correlación con emisiones de CO2: 1.1485244841678097
+------------------------
+Promedio de vegetación: 249.18548049077884
+Correlación con emisiones de CO2: 1.2459274024538942
+------------------------
+Promedio de vegetación: 252.3127786351166
+Correlación con emisiones de CO2: 1.261563893175583
+------------------------
+Promedio de vegetación: 216.85420953360767
+Correlación con emisiones de CO2: 1.0842710476680384
+------------------------
+Promedio de vegetación: 158.9108343811919
+Correlación con emisiones de CO2: 0.7945541719059596
+------------------------
+Promedio de vegetación: 155.45904540085354
+Correlación con emisiones de CO2: 0.7772952270042677
+------------------------
+Promedio de vegetación: 145.67452322435605
+Correlación con emisiones de CO2: 0.7283726161217803
+------------------------
+Promedio de vegetación: 111.55015193949093
+Correlación con emisiones de CO2: 0.5577507596974547
+------------------------
+Promedio de vegetación: 124.04132849413199
+Correlación con emisiones de CO2: 0.6202066424706599
+------------------------
+Promedio de vegetación: 132.70602328151196
+Correlación con emisiones de CO2: 0.6635301164075598
+------------------------
+Promedio de vegetación: 133.28820397043134
+Correlación con emisiones de CO2: 0.6664410198521566
+------------------------
+Promedio de vegetación: 124.25994989330894
+Correlación con emisiones de CO2: 0.6212997494665448
+------------------------
+Promedio de vegetación: 99.56807984682213
+Correlación con emisiones de CO2: 0.49784039923411066
+------------------------
+Promedio de vegetación: 100.06159741274196
+Correlación con emisiones de CO2: 0.5003079870637098
+------------------------
+Promedio de vegetación: 65.03500800182898
+Correlación con emisiones de CO2: 0.32517504000914493
+------------------------
+Promedio de vegetación: 69.4626986168267
+Correlación con emisiones de CO2: 0.3473134930841335
+------------------------
+Promedio de vegetación: 92.52098098613017
+Correlación con emisiones de CO2: 0.4626049049306509
+------------------------
+Promedio de vegetación: 75.37924144566377
+Correlación con emisiones de CO2: 0.37689620722831885
+------------------------
+Promedio de vegetación: 138.9980686061576
+Correlación con emisiones de CO2: 0.694990343030788
+------------------------
+Promedio de vegetación: 178.95376085962505
+Correlación con emisiones de CO2: 0.8947688042981252
+------------------------
+Promedio de vegetación: 110.47303669410151
+Correlación con emisiones de CO2: 0.5523651834705076
+------------------------
+Promedio de vegetación: 82.5783631496723
+Correlación con emisiones de CO2: 0.4128918157483615
+------------------------
+Promedio de vegetación: 81.8227023319616
+Correlación con emisiones de CO2: 0.40911351165980797
+------------------------
+Promedio de vegetación: 57.25249104557232
+Correlación con emisiones de CO2: 0.2862624552278616
+------------------------
+Promedio de vegetación: 100.92575922115532
+Correlación con emisiones de CO2: 0.5046287961057766
+------------------------
+Promedio de vegetación: 134.5475037151349
+Correlación con emisiones de CO2: 0.6727375185756744
+------------------------
+Promedio de vegetación: 135.80923258649597
+Correlación con emisiones de CO2: 0.6790461629324799
+------------------------
+Promedio de vegetación: 126.68199159807956
+Correlación con emisiones de CO2: 0.6334099579903978
+------------------------
+Promedio de vegetación: 79.98142432556013
+Correlación con emisiones de CO2: 0.3999071216278006
+------------------------
+Promedio de vegetación: 88.97081237616217
+Correlación con emisiones de CO2: 0.44485406188081084
+------------------------
+Promedio de vegetación: 105.25527263374485
+Correlación con emisiones de CO2: 0.5262763631687243
+------------------------
+Promedio de vegetación: 79.28669410150891
+Correlación con emisiones de CO2: 0.39643347050754457
+------------------------
+Promedio de vegetación: 78.17071282959914
+Correlación con emisiones de CO2: 0.3908535641479957
+------------------------
+Promedio de vegetación: 89.25238864121323
+Correlación con emisiones de CO2: 0.44626194320606616
+------------------------
+Promedio de vegetación: 100.01848041457094
+Correlación con emisiones de CO2: 0.5000924020728548
+------------------------
+Promedio de vegetación: 148.12551202179546
+Correlación con emisiones de CO2: 0.7406275601089773
+------------------------
+Promedio de vegetación: 210.96479195244626
+Correlación con emisiones de CO2: 1.0548239597622313
+------------------------
+Promedio de vegetación: 216.63700512498096
+Correlación con emisiones de CO2: 1.0831850256249047
+------------------------
+Promedio de vegetación: 136.67906235711018
+Correlación con emisiones de CO2: 0.6833953117855509
+------------------------
+Promedio de vegetación: 104.64839582380735
+Correlación con emisiones de CO2: 0.5232419791190367
+------------------------
+Promedio de vegetación: 102.58424544657827
+Correlación con emisiones de CO2: 0.5129212272328914
+------------------------
+Promedio de vegetación: 109.5898467268709
+Correlación con emisiones de CO2: 0.5479492336343545
+------------------------
+Promedio de vegetación: 131.83538380201188
+Correlación con emisiones de CO2: 0.6591769190100594
+------------------------
+Promedio de vegetación: 128.18541857186403
+Correlación con emisiones de CO2: 0.6409270928593201
+------------------------
+Promedio de vegetación: 138.83167343011735
+Correlación con emisiones de CO2: 0.6941583671505868
+------------------------
+Promedio de vegetación: 145.5036746494437
+Correlación con emisiones de CO2: 0.7275183732472185
+------------------------
+Promedio de vegetación: 141.57010888203018
+Correlación con emisiones de CO2: 0.7078505444101509
+------------------------
+Promedio de vegetación: 175.13031550068587
+Correlación con emisiones de CO2: 0.8756515775034294
+------------------------
+Promedio de vegetación: 178.3359529797287
+Correlación con emisiones de CO2: 0.8916797648986434
+------------------------
+Promedio de vegetación: 172.42811452141441
+Correlación con emisiones de CO2: 0.8621405726070721
+------------------------
+Promedio de vegetación: 155.28313614540465
+Correlación con emisiones de CO2: 0.7764156807270233
+------------------------
+Promedio de vegetación: 125.82795115073921
+Correlación con emisiones de CO2: 0.6291397557536961
+------------------------
+Promedio de vegetación: 113.90215382563633
+Correlación con emisiones de CO2: 0.5695107691281817
+------------------------
+Promedio de vegetación: 103.6795791418991
+Correlación con emisiones de CO2: 0.5183978957094955
+------------------------
+Promedio de vegetación: 62.09596717344917
+Correlación con emisiones de CO2: 0.3104798358672458
+------------------------
+Promedio de vegetación: 58.02090477823503
+Correlación con emisiones de CO2: 0.29010452389117514
+------------------------
+Promedio de vegetación: 205.26747780445055
+Correlación con emisiones de CO2: 1.0263373890222527
+------------------------
+Promedio de vegetación: 197.59366426611797
+Correlación con emisiones de CO2: 0.9879683213305899
+------------------------
+Promedio de vegetación: 108.35989892927907
+Correlación con emisiones de CO2: 0.5417994946463953
+------------------------
+Promedio de vegetación: 37.56401463191587
+Correlación con emisiones de CO2: 0.18782007315957933
+------------------------
+Promedio de vegetación: 1.0817710714830056
+Correlación con emisiones de CO2: 0.005408855357415028
+------------------------
+Promedio de vegetación: 0.04797525148605396
+Correlación con emisiones de CO2: 0.0002398762574302698
+------------------------
+Promedio de vegetación: 0.04149758039932937
+Correlación con emisiones de CO2: 0.00020748790199664685
+------------------------
+Promedio de vegetación: 0.043116998171010515
+Correlación con emisiones de CO2: 0.00021558499085505258
+------------------------
+Promedio de vegetación: 0.06700341030330742
+Correlación con emisiones de CO2: 0.0003350170515165371
+------------------------
+Promedio de vegetación: 0.12732672229843012
+Correlación con emisiones de CO2: 0.0006366336114921506
+------------------------
+Promedio de vegetación: 0.1819820720926688
+Correlación con emisiones de CO2: 0.0009099103604633441
+------------------------
+Promedio de vegetación: 0.20424906645328456
+Correlación con emisiones de CO2: 0.0010212453322664228
+------------------------
+Promedio de vegetación: 0.22793305136412131
+Correlación con emisiones de CO2: 0.0011396652568206067
+------------------------
+Promedio de vegetación: 0.04878496037189453
+Correlación con emisiones de CO2: 0.00024392480185947267
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Promedio de vegetación: 0.0
+Correlación con emisiones de CO2: 0.0
+------------------------
+Imagen 1:
+Fecha/hora: 2023-04-29 16:58:35.171569
+Latitud: 4.841038668555158
+Longitud: 100.56762163090778
+Temperatura: 33.4652
+Humedad: 52.6253
+Promedio de vegetación: 0.0
+------------------------
+Imagen 2:
+Fecha/hora: 2023-04-29 16:59:05.783378
+Latitud: 6.39706233682416
+Longitud: 101.67835533830987
+Temperatura: 33.5727
+Humedad: 52.7387
+Promedio de vegetación: 0.0
+------------------------
+Imagen 3:
+Fecha/hora: 2023-04-29 16:59:41.817204
+Latitud: 8.224792701076028
+Longitud: 102.99565285803011
+Temperatura: 33.3936
+Humedad: 52.846
+Promedio de vegetación: 0.0
+------------------------
+Imagen 4:
+Fecha/hora: 2023-04-29 17:00:12.324699
+Latitud: 9.767922020381212
+Longitud: 104.12132344044602
+Temperatura: 33.4294
+Humedad: 52.8583
+Promedio de vegetación: 0.0
+------------------------
+Imagen 5:
+Fecha/hora: 2023-04-29 17:00:42.819339
+Latitud: 11.30563057812641
+Longitud: 105.2580744668788
+Temperatura: 33.4832
+Humedad: 52.8276
+Promedio de vegetación: 0.0
+------------------------
+Imagen 6:
+Fecha/hora: 2023-04-29 17:01:13.329330
+Latitud: 12.838504741514965
+Longitud: 106.40890178525692
+Temperatura: 33.5548
+Humedad: 52.7908
+Promedio de vegetación: 0.0
+------------------------
+Imagen 7:
+Fecha/hora: 2023-04-29 17:01:43.849558
+Latitud: 14.365419829017329
+Longitud: 107.57562945960126
+Temperatura: 33.3757
+Humedad: 52.7019
+Promedio de vegetación: 0.0
+------------------------
+Imagen 8:
+Fecha/hora: 2023-04-29 17:02:14.358350
+Latitud: 15.88441901797975
+Longitud: 108.75950329905957
+Temperatura: 33.3399
+Humedad: 52.8675
+Promedio de vegetación: 0.0
+------------------------
+Imagen 9:
+Fecha/hora: 2023-04-29 17:02:44.866566
+Latitud: 17.39510920982054
+Longitud: 109.96305488848154
+Temperatura: 33.3578
+Humedad: 53.0085
+Promedio de vegetación: 0.0
+------------------------
+Imagen 10:
+Fecha/hora: 2023-04-29 17:03:15.375846
+Latitud: 18.896602993881444
+Longitud: 111.1885532757894
+Temperatura: 33.4115
+Humedad: 52.8154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 11:
+Fecha/hora: 2023-04-29 17:03:45.887317
+Latitud: 20.38793934955948
+Longitud: 112.43833378749113
+Temperatura: 33.3399
+Humedad: 52.892
+Promedio de vegetación: 0.0
+------------------------
+Imagen 12:
+Fecha/hora: 2023-04-29 17:04:16.397754
+Latitud: 21.867887032582104
+Longitud: 113.71463612289068
+Temperatura: 33.3399
+Humedad: 52.8031
+Promedio de vegetación: 0.0
+------------------------
+Imagen 13:
+Fecha/hora: 2023-04-29 17:04:46.906274
+Latitud: 23.335274821653215
+Longitud: 115.01988511035542
+Temperatura: 33.322
+Humedad: 52.8337
+Promedio de vegetación: 0.0
+------------------------
+Imagen 14:
+Fecha/hora: 2023-04-29 17:05:17.420889
+Latitud: 24.789276578348392
+Longitud: 116.35698292201513
+Temperatura: 33.1966
+Humedad: 52.7755
+Promedio de vegetación: 0.0
+------------------------
+Imagen 15:
+Fecha/hora: 2023-04-29 17:05:47.932055
+Latitud: 26.22817885710346
+Longitud: 117.72819410552724
+Temperatura: 33.2862
+Humedad: 52.7694
+Promedio de vegetación: 0.0
+------------------------
+Imagen 16:
+Fecha/hora: 2023-04-29 17:06:18.437085
+Latitud: 27.650501591630697
+Longitud: 119.13614270937303
+Temperatura: 33.2683
+Humedad: 53.1924
+Promedio de vegetación: 0.0
+------------------------
+Imagen 17:
+Fecha/hora: 2023-04-29 17:06:48.945046
+Latitud: 29.055221331096398
+Longitud: 120.58410649293457
+Temperatura: 33.3578
+Humedad: 52.9226
+Promedio de vegetación: 0.0
+------------------------
+Imagen 18:
+Fecha/hora: 2023-04-29 17:07:19.455672
+Latitud: 30.44078693903643
+Longitud: 122.07506442730606
+Temperatura: 33.2324
+Humedad: 52.7602
+Promedio de vegetación: 0.0
+------------------------
+Imagen 19:
+Fecha/hora: 2023-04-29 17:07:49.949277
+Latitud: 31.80467449364321
+Longitud: 123.6110946942222
+Temperatura: 33.1966
+Humedad: 52.8123
+Promedio de vegetación: 0.0
+------------------------
+Imagen 20:
+Fecha/hora: 2023-04-29 17:08:20.473131
+Latitud: 33.147214368157265
+Longitud: 125.19775977465423
+Temperatura: 33.2504
+Humedad: 52.9196
+Promedio de vegetación: 0.0
+------------------------
+Imagen 21:
+Fecha/hora: 2023-04-29 17:08:50.979688
+Latitud: 34.46443851380605
+Longitud: 126.8358810047746
+Temperatura: 33.2324
+Humedad: 52.8889
+Promedio de vegetación: 0.0
+------------------------
+Imagen 22:
+Fecha/hora: 2023-04-29 17:09:21.479344
+Latitud: 35.754800466200734
+Longitud: 128.52923244378215
+Temperatura: 33.0713
+Humedad: 52.9134
+Promedio de vegetación: 0.0
+------------------------
+Imagen 23:
+Fecha/hora: 2023-04-29 17:09:51.993602
+Latitud: 37.017052089176154
+Longitud: 130.2823595739959
+Temperatura: 33.1429
+Humedad: 52.7602
+Promedio de vegetación: 0.0
+------------------------
+Imagen 24:
+Fecha/hora: 2023-04-29 17:10:22.499555
+Latitud: 38.24795046022802
+Longitud: 132.09730272112532
+Temperatura: 33.1429
+Humedad: 52.8583
+Promedio de vegetación: 0.0
+------------------------
+Imagen 25:
+Fecha/hora: 2023-04-29 17:10:53.006499
+Latitud: 39.44542390940248
+Longitud: 133.97785576517703
+Temperatura: 33.2683
+Humedad: 52.7142
+Promedio de vegetación: 0.0
+------------------------
+Imagen 26:
+Fecha/hora: 2023-04-29 17:11:23.512564
+Latitud: 40.60679426869782
+Longitud: 135.9270767655121
+Temperatura: 33.125
+Humedad: 52.938
+Promedio de vegetación: 0.0
+------------------------
+Imagen 27:
+Fecha/hora: 2023-04-29 17:11:54.021284
+Latitud: 41.72945169512879
+Longitud: 137.94824188462144
+Temperatura: 33.0713
+Humedad: 52.7541
+Promedio de vegetación: 0.0
+------------------------
+Imagen 28:
+Fecha/hora: 2023-04-29 17:12:24.509307
+Latitud: 42.809651805681426
+Longitud: 140.04249339879917
+Temperatura: 33.125
+Humedad: 52.8859
+Promedio de vegetación: 0.0
+------------------------
+Imagen 29:
+Fecha/hora: 2023-04-29 17:12:55.033345
+Latitud: 43.84629126299777
+Longitud: 142.21618310511602
+Temperatura: 33.1608
+Humedad: 52.8246
+Promedio de vegetación: 0.0
+------------------------
+Imagen 30:
+Fecha/hora: 2023-04-29 17:13:25.540843
+Latitud: 44.83435663723587
+Longitud: 144.4676680603331
+Temperatura: 33.2145
+Humedad: 52.8889
+Promedio de vegetación: 0.03805631763450693
+------------------------
+Imagen 31:
+Fecha/hora: 2023-04-29 17:13:56.049904
+Latitud: 45.77113369671843
+Longitud: 146.79963502795798
+Temperatura: 33.1071
+Humedad: 52.8889
+Promedio de vegetación: 0.03421020042676421
+------------------------
+Imagen 32:
+Fecha/hora: 2023-04-29 17:14:26.565401
+Latitud: 46.65331407229794
+Longitud: 149.21319710347254
+Temperatura: 33.2683
+Humedad: 53.1709
+Promedio de vegetación: 0.03076893766194178
+------------------------
+Imagen 33:
+Fecha/hora: 2023-04-29 17:14:57.070297
+Latitud: 47.47691947469157
+Longitud: 151.70689095456245
+Temperatura: 33.125
+Humedad: 52.8429
+Promedio de vegetación: 0.029351947111720775
+------------------------
+Imagen 34:
+Fecha/hora: 2023-04-29 17:15:27.578139
+Latitud: 48.23880979036531
+Longitud: 154.28073055636233
+Temperatura: 33.0713
+Humedad: 53.1096
+Promedio de vegetación: 0.027732529340039627
+------------------------
+Imagen 35:
+Fecha/hora: 2023-04-29 17:15:58.078886
+Latitud: 48.935217795691514
+Longitud: 156.93161973968088
+Temperatura: 33.1787
+Humedad: 52.941
+Promedio de vegetación: 0.025100975461057766
+------------------------
+Imagen 36:
+Fecha/hora: 2023-04-29 17:16:28.579288
+Latitud: 49.56292232470665
+Longitud: 159.6569009733988
+Temperatura: 33.0892
+Humedad: 52.5548
+Promedio de vegetación: 0.019433013260173753
+------------------------
+Imagen 37:
+Fecha/hora: 2023-04-29 17:16:59.091525
+Latitud: 50.1187901202136
+Longitud: 162.4528661661216
+Temperatura: 33.0892
+Humedad: 52.7939
+Promedio de vegetación: 0.00931165218716659
+------------------------
+Imagen 38:
+Fecha/hora: 2023-04-29 17:17:29.600508
+Latitud: 50.599434663774915
+Longitud: 165.31223068453593
+Temperatura: 33.2145
+Humedad: 52.8368
+Promedio de vegetación: 0.005060680536503582
+------------------------
+Imagen 39:
+Fecha/hora: 2023-04-29 17:18:00.103530
+Latitud: 51.002023111569244
+Longitud: 168.22734730567745
+Temperatura: 33.0892
+Humedad: 53.0269
+Promedio de vegetación: 1.3348050983081847
+------------------------
+Imagen 40:
+Fecha/hora: 2023-04-29 17:18:30.596885
+Latitud: 51.32410253874732
+Longitud: 171.18924534609408
+Temperatura: 33.1787
+Humedad: 52.7908
+Promedio de vegetación: 53.07236892242036
+------------------------
+Imagen 41:
+Fecha/hora: 2023-04-29 17:19:01.082380
+Latitud: 51.56370717329941
+Longitud: 174.1882495853844
+Temperatura: 33.1608
+Humedad: 52.8399
+Promedio de vegetación: 162.75128362673374
+------------------------
+Imagen 42:
+Fecha/hora: 2023-04-29 17:19:31.569773
+Latitud: 51.71937402261567
+Longitud: 177.2146500005603
+Temperatura: 33.0176
+Humedad: 52.8613
+Promedio de vegetación: 129.2827765393995
+------------------------
+Imagen 43:
+Fecha/hora: 2023-04-29 17:20:02.024761
+Latitud: 51.79001619825453
+Longitud: -179.7461697125188
+Temperatura: 33.125
+Humedad: 52.8154
+Promedio de vegetación: 114.40457818930041
+------------------------
+Imagen 44:
+Fecha/hora: 2023-04-29 17:20:32.412387
+Latitud: 51.775486532316215
+Longitud: -176.71027887347222
+Temperatura: 33.0534
+Humedad: 52.9747
+Promedio de vegetación: 170.23441072245083
+------------------------
+Imagen 45:
+Fecha/hora: 2023-04-29 17:21:02.868674
+Latitud: 51.67581380427525
+Longitud: -173.67514011943373
+Temperatura: 33.0892
+Humedad: 53.0943
+Promedio de vegetación: 237.7586662665752
+------------------------
+Imagen 46:
+Fecha/hora: 2023-04-29 17:21:33.319814
+Latitud: 51.491650293913274
+Longitud: -170.66032805572428
+Temperatura: 33.1608
+Humedad: 53.1311
+Promedio de vegetación: 249.5134125895443
+------------------------
+Imagen 47:
+Fecha/hora: 2023-04-29 17:22:03.769352
+Latitud: 51.22419908544673
+Longitud: -167.67631675926032
+Temperatura: 33.0176
+Humedad: 53.1096
+Promedio de vegetación: 249.65571892623075
+------------------------
+Imagen 48:
+Fecha/hora: 2023-04-29 17:22:34.213716
+Latitud: 50.87525847330994
+Longitud: -164.7340143273709
+Temperatura: 33.1608
+Humedad: 53.0514
+Promedio de vegetación: 231.54030445054107
+------------------------
+Imagen 49:
+Fecha/hora: 2023-04-29 17:23:04.684878
+Latitud: 50.44655872312314
+Longitud: -161.839691316973
+Temperatura: 33.125
+Humedad: 53.2476
+Promedio de vegetación: 225.17498047172688
+------------------------
+Imagen 50:
+Fecha/hora: 2023-04-29 17:23:35.136625
+Latitud: 49.941298140386145
+Longitud: -159.00590397957373
+Temperatura: 33.125
+Humedad: 52.8429
+Promedio de vegetación: 240.77564157521718
+------------------------
+Imagen 51:
+Fecha/hora: 2023-04-29 17:24:05.602250
+Latitud: 49.36185966835568
+Longitud: -156.23645594907336
+Temperatura: 33.125
+Humedad: 52.9441
+Promedio de vegetación: 207.157135916781
+------------------------
+Imagen 52:
+Fecha/hora: 2023-04-29 17:24:36.159072
+Latitud: 48.7095526458678
+Longitud: -153.53016515944765
+Temperatura: 33.125
+Humedad: 53.1188
+Promedio de vegetación: 205.8350837334248
+------------------------
+Imagen 53:
+Fecha/hora: 2023-04-29 17:25:06.614003
+Latitud: 47.99189816631177
+Longitud: -150.90838365949762
+Temperatura: 33.1608
+Humedad: 53.0606
+Promedio de vegetación: 200.74505124980948
+------------------------
+Imagen 54:
+Fecha/hora: 2023-04-29 17:25:37.064170
+Latitud: 47.210412692004695
+Longitud: -148.36528888608245
+Temperatura: 33.1608
+Humedad: 53.1679
+Promedio de vegetación: 133.33030883249504
+------------------------
+Imagen 55:
+Fecha/hora: 2023-04-29 17:26:07.507083
+Latitud: 46.36869543162807
+Longitud: -145.90281214744462
+Temperatura: 33.1966
+Humedad: 53.22
+Promedio de vegetación: 146.81722488949856
+------------------------
+Imagen 56:
+Fecha/hora: 2023-04-29 17:26:37.949557
+Latitud: 45.47008969010378
+Longitud: -143.52113031167048
+Temperatura: 33.2504
+Humedad: 53.4529
+Promedio de vegetación: 205.8415614045115
+------------------------
+Imagen 57:
+Fecha/hora: 2023-04-29 17:27:08.389597
+Latitud: 44.51812267477656
+Longitud: -141.22021596829958
+Temperatura: 33.3936
+Humedad: 53.0207
+Promedio de vegetación: 229.59174001676573
+------------------------
+Imagen 58:
+Fecha/hora: 2023-04-29 17:27:38.821378
+Latitud: 43.51637712508515
+Longitud: -138.99950183034542
+Temperatura: 33.2683
+Humedad: 53.1035
+Promedio de vegetación: 239.76148119570186
+------------------------
+Imagen 59:
+Fecha/hora: 2023-04-29 17:28:09.239354
+Latitud: 42.4683450823186
+Longitud: -136.8576877336762
+Temperatura: 33.1966
+Humedad: 53.1525
+Promedio de vegetación: 196.34286646471574
+------------------------
+Imagen 60:
+Fecha/hora: 2023-04-29 17:28:39.686890
+Latitud: 41.375651822941514
+Longitud: -134.78968985492412
+Temperatura: 33.322
+Humedad: 52.9809
+Promedio de vegetación: 121.41746684956561
+------------------------
+Imagen 61:
+Fecha/hora: 2023-04-29 17:29:10.109253
+Latitud: 40.24323968718958
+Longitud: -132.79669873797133
+Temperatura: 33.3041
+Humedad: 53.2445
+Promedio de vegetación: 162.66950302926384
+------------------------
+Imagen 62:
+Fecha/hora: 2023-04-29 17:29:40.528248
+Latitud: 39.0732008441107
+Longitud: -130.8743585983356
+Temperatura: 33.5011
+Humedad: 53.1954
+Promedio de vegetación: 198.6051930917543
+------------------------
+Imagen 63:
+Fecha/hora: 2023-04-29 17:30:10.962852
+Latitud: 37.867476912847586
+Longitud: -129.01846937695615
+Temperatura: 33.3399
+Humedad: 53.2322
+Promedio de vegetación: 182.05190948407255
+------------------------
+Imagen 64:
+Fecha/hora: 2023-04-29 17:30:41.379397
+Latitud: 36.629921595295784
+Longitud: -127.22785994862805
+Temperatura: 33.4473
+Humedad: 53.1985
+Promedio de vegetación: 219.50256487197075
+------------------------
+Imagen 65:
+Fecha/hora: 2023-04-29 17:31:11.788028
+Latitud: 35.36255833989593
+Longitud: -125.49860621680855
+Temperatura: 33.3936
+Humedad: 53.2016
+Promedio de vegetación: 244.1926130734644
+------------------------
+Imagen 66:
+Fecha/hora: 2023-04-29 17:31:42.209332
+Latitud: 34.06674897538543
+Longitud: -123.8262438942006
+Temperatura: 33.3757
+Humedad: 53.128
+Promedio de vegetación: 251.47553964715743
+------------------------
+Imagen 67:
+Fecha/hora: 2023-04-29 17:32:12.630668
+Latitud: 32.74510847249736
+Longitud: -122.20821513810006
+Temperatura: 33.5369
+Humedad: 53.3181
+Promedio de vegetación: 250.3915418762384
+------------------------
+Imagen 68:
+Fecha/hora: 2023-04-29 17:32:43.019402
+Latitud: 31.401035737920825
+Longitud: -120.64290572425047
+Temperatura: 33.4652
+Humedad: 53.2138
+Promedio de vegetación: 248.0607948483463
+------------------------
+Imagen 69:
+Fecha/hora: 2023-04-29 17:33:13.427772
+Latitud: 30.03407459279367
+Longitud: -119.1244213859782
+Temperatura: 33.5369
+Humedad: 53.2353
+Promedio de vegetación: 247.17112721002897
+------------------------
+Imagen 70:
+Fecha/hora: 2023-04-29 17:33:43.842621
+Latitud: 28.646496377756783
+Longitud: -117.6503710339195
+Temperatura: 33.5727
+Humedad: 53.3824
+Promedio de vegetación: 248.42071044810243
+------------------------
+Imagen 71:
+Fecha/hora: 2023-04-29 17:34:14.268056
+Latitud: 27.239698031870386
+Longitud: -116.21757335157103
+Temperatura: 33.716
+Humedad: 52.938
+Promedio de vegetación: 250.24599670400855
+------------------------
+Imagen 72:
+Fecha/hora: 2023-04-29 17:34:44.679344
+Latitud: 25.816306198810224
+Longitud: -114.82424741297021
+Temperatura: 33.6801
+Humedad: 53.0299
+Promedio de vegetación: 233.66842182975157
+------------------------
+Imagen 73:
+Fecha/hora: 2023-04-29 17:35:15.112018
+Latitud: 24.376089656252304
+Longitud: -113.46598962208557
+Temperatura: 33.7339
+Humedad: 53.269
+Promedio de vegetación: 233.8906869189148
+------------------------
+Imagen 74:
+Fecha/hora: 2023-04-29 17:35:45.530826
+Latitud: 22.922010853789068
+Longitud: -112.14165133156523
+Temperatura: 33.7339
+Humedad: 53.174
+Promedio de vegetación: 212.0560771033379
+------------------------
+Imagen 75:
+Fecha/hora: 2023-04-29 17:36:15.959316
+Latitud: 21.454187241224215
+Longitud: -110.84758421034142
+Temperatura: 33.8413
+Humedad: 53.4437
+Promedio de vegetación: 162.82132344535893
+------------------------
+Imagen 76:
+Fecha/hora: 2023-04-29 17:36:46.369572
+Latitud: 19.975168534657325
+Longitud: -109.58247341429507
+Temperatura: 33.9129
+Humedad: 53.2843
+Promedio de vegetación: 157.34485739597622
+------------------------
+Imagen 77:
+Fecha/hora: 2023-04-29 17:37:16.821060
+Latitud: 18.483121661037444
+Longitud: -108.34142408217781
+Temperatura: 33.8771
+Humedad: 53.1096
+Promedio de vegetación: 154.73820206523396
+------------------------
+Imagen 78:
+Fecha/hora: 2023-04-29 17:37:47.279669
+Latitud: 16.98076287485063
+Longitud: -107.12356919988244
+Temperatura: 34.0562
+Humedad: 53.033
+Promedio de vegetación: 142.7747532769395
+------------------------
+Imagen 79:
+Fecha/hora: 2023-04-29 17:38:17.738555
+Latitud: 15.469429868408174
+Longitud: -105.92694139734978
+Temperatura: 34.0204
+Humedad: 53.2292
+Promedio de vegetación: 190.0641813366865
+------------------------
+Imagen 80:
+Fecha/hora: 2023-04-29 17:38:48.169330
+Latitud: 13.95149159404854
+Longitud: -104.75045307374111
+Temperatura: 34.0741
+Humedad: 53.2445
+Promedio de vegetación: 230.88322568968144
+------------------------
+Imagen 81:
+Fecha/hora: 2023-04-29 17:39:18.598552
+Latitud: 12.426549087626762
+Longitud: -103.59095541969796
+Temperatura: 33.9129
+Humedad: 52.9441
+Promedio de vegetación: 201.02865178707515
+------------------------
+Imagen 82:
+Fecha/hora: 2023-04-29 17:39:49.039311
+Latitud: 10.894808787931058
+Longitud: -102.44591819693387
+Temperatura: 34.0025
+Humedad: 52.9196
+Promedio de vegetación: 120.72253419829295
+------------------------
+Imagen 83:
+Fecha/hora: 2023-04-29 17:40:19.481034
+Latitud: 9.357654135297198
+Longitud: -101.31378058618651
+Temperatura: 34.0204
+Humedad: 52.9165
+Promedio de vegetación: 147.64677164304223
+------------------------
+Imagen 84:
+Fecha/hora: 2023-04-29 17:40:49.916173
+Latitud: 7.816272570139559
+Longitud: -100.19288553314718
+Temperatura: 34.0025
+Humedad: 52.8951
+Promedio de vegetación: 225.66566405654626
+------------------------
+Imagen 85:
+Fecha/hora: 2023-04-29 17:41:20.343342
+Latitud: 6.271544373261578
+Longitud: -99.0814048473696
+Temperatura: 34.0025
+Humedad: 52.7694
+Promedio de vegetación: 195.3740497828075
+------------------------
+Imagen 86:
+Fecha/hora: 2023-04-29 17:41:50.774373
+Latitud: 4.723625964750796
+Longitud: -97.97704628745497
+Temperatura: 33.9846
+Humedad: 52.9625
+Promedio de vegetación: 192.1789385192806
+------------------------
+Imagen 87:
+Fecha/hora: 2023-04-29 17:42:21.159389
+Latitud: 3.1758338005367355
+Longitud: -96.87980466223289
+Temperatura: 34.0562
+Humedad: 53.3426
+Promedio de vegetación: 122.7243369913123
+------------------------
+Imagen 88:
+Fecha/hora: 2023-04-29 17:42:51.569936
+Latitud: 1.6252637953496
+Longitud: -95.78529446680753
+Temperatura: 34.1278
+Humedad: 53.1372
+Promedio de vegetación: 127.58198302469135
+------------------------
+Imagen 89:
+Fecha/hora: 2023-04-29 17:43:22.019118
+Latitud: 0.07199327795246055
+Longitud: -94.69128178791884
+Temperatura: 34.092
+Humedad: 52.938
+Promedio de vegetación: 99.11686957018748
+------------------------
+Imagen 90:
+Fecha/hora: 2023-04-29 17:43:52.460873
+Latitud: -1.480886418364352
+Longitud: -93.59765367444042
+Temperatura: 34.0741
+Humedad: 53.0606
+Promedio de vegetación: 132.779504362902
+------------------------
+Imagen 91:
+Fecha/hora: 2023-04-29 17:44:22.891836
+Latitud: -3.032493196111658
+Longitud: -92.50273909594591
+Temperatura: 34.0741
+Humedad: 53.079
+Promedio de vegetación: 124.72067424935223
+------------------------
+Imagen 92:
+Fecha/hora: 2023-04-29 17:44:53.314714
+Latitud: -4.582205937715624
+Longitud: -91.40467834536314
+Temperatura: 34.1457
+Humedad: 52.8583
+Promedio de vegetación: 128.0546505868008
+------------------------
+Imagen 93:
+Fecha/hora: 2023-04-29 17:45:23.743796
+Latitud: -6.13000658951327
+Longitud: -90.30116404340761
+Temperatura: 34.1995
+Humedad: 53.0514
+Promedio de vegetación: 82.12371161027282
+------------------------
+Imagen 94:
+Fecha/hora: 2023-04-29 17:45:54.176694
+Latitud: -7.675021310748621
+Longitud: -89.1904631174288
+Temperatura: 34.1995
+Humedad: 52.9288
+Promedio de vegetación: 109.33519328227405
+------------------------
+Imagen 95:
+Fecha/hora: 2023-04-29 17:46:24.609299
+Latitud: -9.216264560753013
+Longitud: -88.07088695553182
+Temperatura: 34.1457
+Humedad: 52.5579
+Promedio de vegetación: 105.39535227099528
+------------------------
+Imagen 96:
+Fecha/hora: 2023-04-29 17:46:55.032558
+Latitud: -10.752481355734924
+Longitud: -86.9409049249594
+Temperatura: 34.2711
+Humedad: 53.0269
+Promedio de vegetación: 118.90595231290962
+------------------------
+Imagen 97:
+Fecha/hora: 2023-04-29 17:47:25.472818
+Latitud: -12.284206730501527
+Longitud: -85.79760294939531
+Temperatura: 34.1816
+Humedad: 53.0391
+Promedio de vegetación: 131.06919676878525
+------------------------
+Imagen 98:
+Fecha/hora: 2023-04-29 17:47:55.903883
+Latitud: -13.809271046093935
+Longitud: -84.64000172618991
+Temperatura: 34.2353
+Humedad: 52.6744
+Promedio de vegetación: 163.0561390222527
+------------------------
+Imagen 99:
+Fecha/hora: 2023-04-29 17:48:26.330074
+Latitud: -15.32699562605078
+Longitud: -83.46594929091356
+Temperatura: 34.2353
+Humedad: 53.082
+Promedio de vegetación: 208.00692539247066
+------------------------
+Imagen 100:
+Fecha/hora: 2023-04-29 17:48:56.767268
+Latitud: -16.837366260477935
+Longitud: -82.27266351147705
+Temperatura: 34.3248
+Humedad: 52.8736
+Promedio de vegetación: 226.86059194482547
+------------------------
+Imagen 101:
+Fecha/hora: 2023-04-29 17:49:27.196970
+Latitud: -18.338417466584815
+Longitud: -81.05879018279035
+Temperatura: 34.2711
+Humedad: 52.9962
+Promedio de vegetación: 251.02594878829447
+------------------------
+Imagen 102:
+Fecha/hora: 2023-04-29 17:49:57.620402
+Latitud: -19.829261379234314
+Longitud: -79.82203567138238
+Temperatura: 34.3069
+Humedad: 52.6682
+Promedio de vegetación: 250.009966563786
+------------------------
+Imagen 103:
+Fecha/hora: 2023-04-29 17:50:28.033113
+Latitud: -21.30867602924884
+Longitud: -78.56026406200512
+Temperatura: 34.289
+Humedad: 52.892
+Promedio de vegetación: 241.3764455685109
+------------------------
+Imagen 104:
+Fecha/hora: 2023-04-29 17:50:58.467602
+Latitud: -22.77706403519426
+Longitud: -77.26977405538776
+Temperatura: 34.3069
+Humedad: 52.8981
+Promedio de vegetación: 232.87875323883554
+------------------------
+Imagen 105:
+Fecha/hora: 2023-04-29 17:51:28.886544
+Latitud: -24.231525970719932
+Longitud: -75.94958691751954
+Temperatura: 34.3248
+Humedad: 52.9196
+Promedio de vegetación: 228.450252914952
+------------------------
+Imagen 106:
+Fecha/hora: 2023-04-29 17:51:59.314113
+Latitud: -25.67194598507369
+Longitud: -74.59611018192714
+Temperatura: 34.4144
+Humedad: 52.9257
+Promedio de vegetación: 218.03921848803537
+------------------------
+Imagen 107:
+Fecha/hora: 2023-04-29 17:52:29.743333
+Latitud: -27.096771203216512
+Longitud: -73.20685120688914
+Temperatura: 34.4502
+Humedad: 52.6222
+Promedio de vegetación: 171.78135954884925
+------------------------
+Imagen 108:
+Fecha/hora: 2023-04-29 17:53:00.173453
+Latitud: -28.504511120772086
+Longitud: -71.77909449375058
+Temperatura: 34.3069
+Humedad: 53.3303
+Promedio de vegetación: 167.34638155387898
+------------------------
+Imagen 109:
+Fecha/hora: 2023-04-29 17:53:30.615914
+Latitud: -29.89413969459566
+Longitud: -70.30943524788691
+Temperatura: 34.486
+Humedad: 52.8644
+Promedio de vegetación: 219.0918400396281
+------------------------
+Imagen 110:
+Fecha/hora: 2023-04-29 17:54:01.049317
+Latitud: -31.26317495412884
+Longitud: -68.79580991843793
+Temperatura: 34.3606
+Humedad: 52.8797
+Promedio de vegetación: 221.58614826246
+------------------------
+Imagen 111:
+Fecha/hora: 2023-04-29 17:54:31.493162
+Latitud: -32.61076725177805
+Longitud: -67.23418058860813
+Temperatura: 34.5397
+Humedad: 52.7816
+Promedio de vegetación: 225.3276105967078
+------------------------
+Imagen 112:
+Fecha/hora: 2023-04-29 17:55:01.929769
+Latitud: -33.93445092567315
+Longitud: -65.62210532819202
+Temperatura: 34.4323
+Humedad: 52.8276
+Promedio de vegetación: 219.5819163427831
+------------------------
+Imagen 113:
+Fecha/hora: 2023-04-29 17:55:32.334899
+Latitud: -35.230955719781804
+Longitud: -63.95813597244713
+Temperatura: 34.5397
+Humedad: 52.6161
+Promedio de vegetación: 209.55063538332573
+------------------------
+Imagen 114:
+Fecha/hora: 2023-04-29 17:56:02.743323
+Latitud: -36.499965829732204
+Longitud: -62.236891932735254
+Temperatura: 34.5039
+Humedad: 53.0483
+Promedio de vegetación: 238.4718173677793
+------------------------
+Imagen 115:
+Fecha/hora: 2023-04-29 17:56:33.160046
+Latitud: -37.73948866449614
+Longitud: -60.45473582308228
+Temperatura: 34.4681
+Humedad: 52.5947
+Promedio de vegetación: 234.70343221307726
+------------------------
+Imagen 116:
+Fecha/hora: 2023-04-29 17:57:03.612040
+Latitud: -38.94814573005426
+Longitud: -58.60676576881811
+Temperatura: 34.5934
+Humedad: 52.8368
+Promedio de vegetación: 168.69515413046793
+------------------------
+Imagen 117:
+Fecha/hora: 2023-04-29 17:57:34.059901
+Latitud: -40.12183652078857
+Longitud: -56.6920428284797
+Temperatura: 34.5576
+Humedad: 52.613
+Promedio de vegetación: 128.2663894604481
+------------------------
+Imagen 118:
+Fecha/hora: 2023-04-29 17:58:04.506459
+Latitud: -41.25799004694776
+Longitud: -54.70738489024631
+Temperatura: 34.6293
+Humedad: 52.7173
+Promedio de vegetación: 153.42161541685718
+------------------------
+Imagen 119:
+Fecha/hora: 2023-04-29 17:58:34.955348
+Latitud: -42.35393156462898
+Longitud: -52.64968039773232
+Temperatura: 34.5039
+Humedad: 52.6989
+Promedio de vegetación: 186.39599765660722
+------------------------
+Imagen 120:
+Fecha/hora: 2023-04-29 17:59:05.397185
+Latitud: -43.40635727104805
+Longitud: -50.517034623430796
+Temperatura: 34.4681
+Humedad: 52.6927
+Promedio de vegetación: 194.58923944520652
+------------------------
+Imagen 121:
+Fecha/hora: 2023-04-29 17:59:35.838786
+Latitud: -44.41241310917522
+Longitud: -48.306820687894884
+Temperatura: 34.4681
+Humedad: 52.6161
+Promedio de vegetación: 209.56561499771377
+------------------------
+Imagen 122:
+Fecha/hora: 2023-04-29 18:00:06.281961
+Latitud: -45.36890123206506
+Longitud: -46.017276036954186
+Temperatura: 34.4144
+Humedad: 52.6989
+Promedio de vegetación: 232.97510859625058
+------------------------
+Imagen 123:
+Fecha/hora: 2023-04-29 18:00:36.719341
+Latitud: -46.272272420124835
+Longitud: -43.647889981900136
+Temperatura: 34.4681
+Humedad: 52.7541
+Promedio de vegetación: 249.888105376467
+------------------------
+Imagen 124:
+Fecha/hora: 2023-04-29 18:01:07.149318
+Latitud: -47.11906452664512
+Longitud: -41.19861732322169
+Temperatura: 34.5039
+Humedad: 52.5609
+Promedio de vegetación: 251.31663427831123
+------------------------
+Imagen 125:
+Fecha/hora: 2023-04-29 18:01:37.612650
+Latitud: -47.906856252140166
+Longitud: -38.66670215615376
+Temperatura: 34.486
+Humedad: 52.5732
+Promedio de vegetación: 248.46706628181678
+------------------------
+Imagen 126:
+Fecha/hora: 2023-04-29 18:02:08.064698
+Latitud: -48.63094411874809
+Longitud: -36.05740349448863
+Temperatura: 34.3965
+Humedad: 52.6222
+Promedio de vegetación: 241.04669162475233
+------------------------
+Imagen 127:
+Fecha/hora: 2023-04-29 18:02:38.522022
+Latitud: -49.2882920225583
+Longitud: -33.37214137993176
+Temperatura: 34.4323
+Humedad: 52.8705
+Promedio de vegetación: 248.369496361073
+------------------------
+Imagen 128:
+Fecha/hora: 2023-04-29 18:03:08.952645
+Latitud: -49.874940015837424
+Longitud: -30.61789155214911
+Temperatura: 34.5576
+Humedad: 52.6284
+Promedio de vegetación: 244.27196454427678
+------------------------
+Imagen 129:
+Fecha/hora: 2023-04-29 18:03:39.414274
+Latitud: -50.38884290997544
+Longitud: -27.794652653716224
+Temperatura: 34.3248
+Humedad: 52.8
+Promedio de vegetación: 242.21975737311385
+------------------------
+Imagen 130:
+Fecha/hora: 2023-04-29 18:04:09.864714
+Latitud: -50.82626926842181
+Longitud: -24.913077844235957
+Temperatura: 34.3785
+Humedad: 52.7479
+Promedio de vegetación: 223.24503934232587
+------------------------
+Imagen 131:
+Fecha/hora: 2023-04-29 18:04:40.329349
+Latitud: -51.18497070331553
+Longitud: -21.978680632907
+Temperatura: 34.3965
+Humedad: 52.4966
+Promedio de vegetación: 121.34985615759793
+------------------------
+Imagen 132:
+Fecha/hora: 2023-04-29 18:05:10.809144
+Latitud: -51.462612768769176
+Longitud: -19.00049093291599
+Temperatura: 34.3606
+Humedad: 52.5242
+Promedio de vegetación: 36.672727575826855
+------------------------
+Imagen 133:
+Fecha/hora: 2023-04-29 18:05:41.259312
+Latitud: -51.65706602093324
+Longitud: -15.99312888419428
+Temperatura: 34.3785
+Humedad: 52.9134
+Promedio de vegetación: 2.6843873837829597
+------------------------
+Imagen 134:
+Fecha/hora: 2023-04-29 18:06:11.734827
+Latitud: -51.76741963403792
+Longitud: -12.962246561374474
+Temperatura: 34.3965
+Humedad: 52.9502
+Promedio de vegetación: 0.04250971650663009
+------------------------
+Imagen 135:
+Fecha/hora: 2023-04-29 18:06:42.226773
+Latitud: -51.7927330627125
+Longitud: -9.920275103112246
+Temperatura: 34.3606
+Humedad: 52.5977
+Promedio de vegetación: 0.03663932708428593
+------------------------
+Imagen 136:
+Fecha/hora: 2023-04-29 18:07:12.726738
+Latitud: -51.73272791352408
+Longitud: -6.879965975672876
+Temperatura: 34.3785
+Humedad: 52.7418
+Promedio de vegetación: 0.03846117207742722
+------------------------
+Imagen 137:
+Fecha/hora: 2023-04-29 18:07:43.226141
+Latitud: -51.58779624023554
+Longitud: -3.8539962750253762
+Temperatura: 34.2532
+Humedad: 52.7387
+Promedio de vegetación: 0.05829903978052126
+------------------------
+Imagen 138:
+Fecha/hora: 2023-04-29 18:08:13.722258
+Latitud: -51.35893513381347
+Longitud: -0.8540858760466056
+Temperatura: 34.3785
+Humedad: 52.6989
+Promedio de vegetación: 0.1141689529035208
+------------------------
+Imagen 139:
+Fecha/hora: 2023-04-29 18:08:44.217427
+Latitud: -51.047640390817186
+Longitud: 2.109248718829784
+Temperatura: 34.2532
+Humedad: 52.7816
+Promedio de vegetación: 0.1637636221612559
+------------------------
+Imagen 140:
+Fecha/hora: 2023-04-29 18:09:14.704544
+Latitud: -50.65599491901244
+Longitud: 5.0255252288673535
+Temperatura: 34.2711
+Humedad: 52.6805
+Promedio de vegetación: 0.19959324035970127
+------------------------
+Imagen 141:
+Fecha/hora: 2023-04-29 18:09:45.186119
+Latitud: -50.186446827104206
+Longitud: 7.8861406292108605
+Temperatura: 34.2711
+Humedad: 52.6835
+Promedio de vegetación: 0.18562576207895137
+------------------------
+Imagen 142:
+Fecha/hora: 2023-04-29 18:10:15.665175
+Latitud: -49.64171485981622
+Longitud: 10.684096884972329
+Temperatura: 34.2532
+Humedad: 52.9257
+Promedio de vegetación: 0.09574807575064777
+------------------------
+Imagen 143:
+Fecha/hora: 2023-04-29 18:10:46.159340
+Latitud: -49.024487982743715
+Longitud: 13.414782069140864
+Temperatura: 34.1816
+Humedad: 52.9073
+Promedio de vegetación: 0.0
+------------------------
+Imagen 144:
+Fecha/hora: 2023-04-29 18:11:16.639310
+Latitud: -48.33861533552311
+Longitud: 16.07074028616462
+Temperatura: 34.1816
+Humedad: 52.6713
+Promedio de vegetación: 0.0
+------------------------
+Imagen 145:
+Fecha/hora: 2023-04-29 18:11:47.144929
+Latitud: -47.58657075143251
+Longitud: 18.651859720363735
+Temperatura: 34.1995
+Humedad: 52.8154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 146:
+Fecha/hora: 2023-04-29 18:12:17.655641
+Latitud: -46.77224512707759
+Longitud: 21.153985982548573
+Temperatura: 34.1637
+Humedad: 52.8675
+Promedio de vegetación: 0.0
+------------------------
+Imagen 147:
+Fecha/hora: 2023-04-29 18:12:48.164277
+Latitud: -45.899339610601956
+Longitud: 23.575290523042636
+Temperatura: 34.1816
+Humedad: 52.9226
+Promedio de vegetación: 0.0
+------------------------
+Imagen 148:
+Fecha/hora: 2023-04-29 18:13:18.669522
+Latitud: -44.9713920690268
+Longitud: 25.915469499633247
+Temperatura: 34.289
+Humedad: 52.331
+Promedio de vegetación: 0.0
+------------------------
+Imagen 149:
+Fecha/hora: 2023-04-29 18:13:49.178020
+Latitud: -43.99162907701331
+Longitud: 28.175635102101523
+Temperatura: 34.1278
+Humedad: 52.6835
+Promedio de vegetación: 0.0
+------------------------
+Imagen 150:
+Fecha/hora: 2023-04-29 18:14:19.664570
+Latitud: -42.96423406051231
+Longitud: 30.355309498028245
+Temperatura: 34.1637
+Humedad: 53.1341
+Promedio de vegetación: 0.0
+------------------------
+Imagen 151:
+Fecha/hora: 2023-04-29 18:14:50.184545
+Latitud: -41.89051850405141
+Longitud: 32.460317525685184
+Temperatura: 34.0025
+Humedad: 52.8981
+Promedio de vegetación: 0.0
+------------------------
+Imagen 152:
+Fecha/hora: 2023-04-29 18:15:20.687408
+Latitud: -40.775294855860636
+Longitud: 34.48947128909834
+Temperatura: 34.092
+Humedad: 52.9778
+Promedio de vegetación: 0.0
+------------------------
+Imagen 153:
+Fecha/hora: 2023-04-29 18:15:51.195031
+Latitud: -39.62071871484075
+Longitud: 36.44697225921929
+Temperatura: 34.0025
+Humedad: 53.0882
+Promedio de vegetación: 0.0
+------------------------
+Imagen 154:
+Fecha/hora: 2023-04-29 18:16:21.699775
+Latitud: -38.429831501758706
+Longitud: 38.3353132217758
+Temperatura: 33.8592
+Humedad: 53.0483
+Promedio de vegetación: 0.0
+------------------------
+Imagen 155:
+Fecha/hora: 2023-04-29 18:16:52.205041
+Latitud: -37.20512786135796
+Longitud: 40.157840117121616
+Temperatura: 34.1099
+Humedad: 53.1403
+Promedio de vegetación: 0.0
+------------------------
+Imagen 156:
+Fecha/hora: 2023-04-29 18:17:22.710881
+Latitud: -35.94906690013165
+Longitud: 41.91780007186043
+Temperatura: 33.895
+Humedad: 53.2353
+Promedio de vegetación: 0.0
+------------------------
+Imagen 157:
+Fecha/hora: 2023-04-29 18:17:53.216679
+Latitud: -34.66394637841729
+Longitud: 43.6185079990232
+Temperatura: 33.8413
+Humedad: 53.2445
+Promedio de vegetación: 0.0
+------------------------
+Imagen 158:
+Fecha/hora: 2023-04-29 18:18:23.686636
+Latitud: -33.35351802615596
+Longitud: 45.26133227291763
+Temperatura: 33.9309
+Humedad: 53.3058
+Promedio de vegetación: 0.0
+------------------------
+Imagen 159:
+Fecha/hora: 2023-04-29 18:18:54.156700
+Latitud: -32.01828514166656
+Longitud: 46.85160698420975
+Temperatura: 33.8413
+Humedad: 53.2935
+Promedio de vegetación: 0.0
+------------------------
+Imagen 160:
+Fecha/hora: 2023-04-29 18:19:24.630941
+Latitud: -30.65995331474026
+Longitud: 48.39275442724309
+Temperatura: 33.9488
+Humedad: 53.2782
+Promedio de vegetación: 0.0
+------------------------
+Imagen 161:
+Fecha/hora: 2023-04-29 18:19:55.096367
+Latitud: -29.28085553865327
+Longitud: 49.88729506607358
+Temperatura: 33.8234
+Humedad: 53.551
+Promedio de vegetación: 0.0
+------------------------
+Imagen 162:
+Fecha/hora: 2023-04-29 18:20:25.559457
+Latitud: -27.882373942764875
+Longitud: 51.33861818173989
+Temperatura: 33.8234
+Humedad: 53.3273
+Promedio de vegetación: 0.0
+------------------------
+Imagen 163:
+Fecha/hora: 2023-04-29 18:20:56.009300
+Latitud: -26.466550019054917
+Longitud: 52.74921788768229
+Temperatura: 33.8413
+Humedad: 53.6276
+Promedio de vegetación: 0.0
+------------------------
+Imagen 164:
+Fecha/hora: 2023-04-29 18:21:26.478834
+Latitud: -25.033312325212663
+Longitud: 54.12345330994468
+Temperatura: 33.8055
+Humedad: 53.5725
+Promedio de vegetación: 0.0
+------------------------
+Imagen 165:
+Fecha/hora: 2023-04-29 18:21:56.947466
+Latitud: -23.58495359129553
+Longitud: 55.463142120478565
+Temperatura: 33.7339
+Humedad: 53.364
+Promedio de vegetación: 0.0
+------------------------
+Imagen 166:
+Fecha/hora: 2023-04-29 18:22:27.417446
+Latitud: -22.12264701622838
+Longitud: 56.771039359018566
+Temperatura: 33.6981
+Humedad: 53.3027
+Promedio de vegetación: 0.0
+------------------------
+Imagen 167:
+Fecha/hora: 2023-04-29 18:22:57.859316
+Latitud: -20.64902047558839
+Longitud: 58.04848217629336
+Temperatura: 33.716
+Humedad: 53.6093
+Promedio de vegetación: 0.0
+------------------------
+Imagen 168:
+Fecha/hora: 2023-04-29 18:23:28.328642
+Latitud: -19.162529898814896
+Longitud: 59.300254829097284
+Temperatura: 33.716
+Humedad: 53.7411
+Promedio de vegetación: 0.0
+------------------------
+Imagen 169:
+Fecha/hora: 2023-04-29 18:23:58.798476
+Latitud: -17.665535476708648
+Longitud: 60.527594002024316
+Temperatura: 33.716
+Humedad: 53.6154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 170:
+Fecha/hora: 2023-04-29 18:24:29.273346
+Latitud: -16.15884215726034
+Longitud: 61.73295168083011
+Temperatura: 33.5906
+Humedad: 53.5878
+Promedio de vegetación: 0.0
+------------------------
+Imagen 171:
+Fecha/hora: 2023-04-29 18:24:59.747185
+Latitud: -14.643693358266287
+Longitud: 62.918308053741484
+Temperatura: 33.5906
+Humedad: 53.8024
+Promedio de vegetación: 0.0
+------------------------
+Imagen 172:
+Fecha/hora: 2023-04-29 18:25:30.216744
+Latitud: -13.121209046649103
+Longitud: 64.08564888510936
+Temperatura: 33.4832
+Humedad: 53.7503
+Promedio de vegetación: 0.0
+------------------------
+Imagen 173:
+Fecha/hora: 2023-04-29 18:26:00.686549
+Latitud: -11.592039016817006
+Longitud: 65.2372246103496
+Temperatura: 33.6801
+Humedad: 53.7227
+Promedio de vegetación: 0.0
+------------------------
+Imagen 174:
+Fecha/hora: 2023-04-29 18:26:31.159363
+Latitud: -10.056905528574067
+Longitud: 66.37513452937884
+Temperatura: 33.5906
+Humedad: 53.9526
+Promedio de vegetación: 0.0
+------------------------
+Imagen 175:
+Fecha/hora: 2023-04-29 18:27:01.622826
+Latitud: -8.517306322020069
+Longitud: 67.50083552704822
+Temperatura: 33.4652
+Humedad: 53.8422
+Promedio de vegetación: 0.0
+------------------------
+Imagen 176:
+Fecha/hora: 2023-04-29 18:27:32.038199
+Latitud: -6.9758598331033435
+Longitud: 68.61493679918472
+Temperatura: 33.6264
+Humedad: 53.971
+Promedio de vegetación: 0.0
+------------------------
+Imagen 177:
+Fecha/hora: 2023-04-29 18:28:02.501162
+Latitud: -5.428517994020581
+Longitud: 69.722786669562
+Temperatura: 33.5727
+Humedad: 54.0752
+Promedio de vegetación: 0.0
+------------------------
+Imagen 178:
+Fecha/hora: 2023-04-29 18:28:32.966088
+Latitud: -3.8787055103138917
+Longitud: 70.8242868629928
+Temperatura: 33.5369
+Humedad: 53.9188
+Promedio de vegetación: 0.0
+------------------------
+Imagen 179:
+Fecha/hora: 2023-04-29 18:29:03.434472
+Latitud: -2.326703054646898
+Longitud: 71.92157868430284
+Temperatura: 33.5727
+Humedad: 54.1763
+Promedio de vegetación: 0.0
+------------------------
+Imagen 180:
+Fecha/hora: 2023-04-29 18:29:33.906097
+Latitud: -0.7733842101081682
+Longitud: 73.01635793254037
+Temperatura: 33.5369
+Humedad: 53.9005
+Promedio de vegetación: 0.0
+------------------------
+Imagen 181:
+Fecha/hora: 2023-04-29 18:30:04.377849
+Latitud: 0.7803423568824008
+Longitud: 74.11028434611073
+Temperatura: 33.4473
+Humedad: 54.1671
+Promedio de vegetación: 0.0
+------------------------
+Imagen 182:
+Fecha/hora: 2023-04-29 18:30:34.843367
+Latitud: 2.3334122970432234
+Longitud: 75.20490387942198
+Temperatura: 33.4294
+Humedad: 54.302
+Promedio de vegetación: 0.0
+------------------------
+Imagen 183:
+Fecha/hora: 2023-04-29 18:31:05.321302
+Latitud: 3.8860403249899376
+Longitud: 76.30267019249129
+Temperatura: 33.322
+Humedad: 54.0476
+Promedio de vegetación: 0.0
+------------------------
+Imagen 184:
+Fecha/hora: 2023-04-29 18:31:35.766137
+Latitud: 5.435176676883208
+Longitud: 77.40373793243361
+Temperatura: 33.4473
+Humedad: 54.1886
+Promedio de vegetación: 0.0
+------------------------
+Imagen 185:
+Fecha/hora: 2023-04-29 18:32:06.241066
+Latitud: 6.983260920215162
+Longitud: 78.51218424761146
+Temperatura: 33.4294
+Humedad: 54.4154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 186:
+Fecha/hora: 2023-04-29 18:32:36.711959
+Latitud: 8.52780576428372
+Longitud: 79.62862142134716
+Temperatura: 33.4294
+Humedad: 53.8453
+Promedio de vegetación: 0.0
+------------------------
+Imagen 187:
+Fecha/hora: 2023-04-29 18:33:07.181840
+Latitud: 10.068172733338384
+Longitud: 80.75501805147415
+Temperatura: 33.4832
+Humedad: 54.1825
+Promedio de vegetación: 0.0
+------------------------
+Imagen 188:
+Fecha/hora: 2023-04-29 18:33:37.653315
+Latitud: 11.60369528440838
+Longitud: 81.89338098958096
+Temperatura: 33.4294
+Humedad: 54.3173
+Promedio de vegetación: 0.0
+------------------------
+Imagen 189:
+Fecha/hora: 2023-04-29 18:34:08.127810
+Latitud: 13.13361617058708
+Longitud: 83.04572007067219
+Temperatura: 33.4294
+Humedad: 54.3173
+Promedio de vegetación: 0.0
+------------------------
+Imagen 190:
+Fecha/hora: 2023-04-29 18:34:38.599303
+Latitud: 14.656765246495318
+Longitud: 84.21380688736676
+Temperatura: 33.2862
+Humedad: 54.069
+Promedio de vegetación: 0.0
+------------------------
+Imagen 191:
+Fecha/hora: 2023-04-29 18:35:09.075408
+Latitud: 16.172636446491722
+Longitud: 85.40000706247386
+Temperatura: 33.3399
+Humedad: 54.3296
+Promedio de vegetación: 0.0
+------------------------
+Imagen 192:
+Fecha/hora: 2023-04-29 18:35:39.545641
+Latitud: 17.679778247854244
+Longitud: 86.6060468876046
+Temperatura: 33.3041
+Humedad: 54.2775
+Promedio de vegetación: 0.0
+------------------------
+Imagen 193:
+Fecha/hora: 2023-04-29 18:36:10.012058
+Latitud: 19.17731359117876
+Longitud: 87.83420041063857
+Temperatura: 33.322
+Humedad: 54.0568
+Promedio de vegetación: 0.0
+------------------------
+Imagen 194:
+Fecha/hora: 2023-04-29 18:36:40.479294
+Latitud: 20.664469047676242
+Longitud: 89.08695872756745
+Temperatura: 33.322
+Humedad: 54.1334
+Promedio de vegetación: 0.0
+------------------------
+Imagen 195:
+Fecha/hora: 2023-04-29 18:37:10.949333
+Latitud: 22.140239984920743
+Longitud: 90.36676849230831
+Temperatura: 33.3041
+Humedad: 54.069
+Promedio de vegetación: 0.0
+------------------------
+Imagen 196:
+Fecha/hora: 2023-04-29 18:37:41.427221
+Latitud: 23.60373455414481
+Longitud: 91.6763372162403
+Temperatura: 33.3041
+Humedad: 54.0139
+Promedio de vegetación: 0.0
+------------------------
+Imagen 197:
+Fecha/hora: 2023-04-29 18:38:11.871888
+Latitud: 25.05178671605814
+Longitud: 93.01642651149395
+Temperatura: 33.322
+Humedad: 54.2928
+Promedio de vegetación: 0.0
+------------------------
+Imagen 198:
+Fecha/hora: 2023-04-29 18:38:42.371457
+Latitud: 26.48729069096992
+Longitud: 94.393625149254
+Temperatura: 33.1608
+Humedad: 54.161
+Promedio de vegetación: 0.0
+------------------------
+Imagen 199:
+Fecha/hora: 2023-04-29 18:39:12.844957
+Latitud: 27.905056450932705
+Longitud: 95.80711135344552
+Temperatura: 33.3399
+Humedad: 54.0844
+Promedio de vegetación: 0.0
+------------------------
+Imagen 200:
+Fecha/hora: 2023-04-29 18:39:43.286076
+Latitud: 29.303382223735838
+Longitud: 97.25935754344961
+Temperatura: 33.2504
+Humedad: 54.161
+Promedio de vegetación: 0.0
+------------------------
+Imagen 201:
+Fecha/hora: 2023-04-29 18:40:13.756819
+Latitud: 30.683554280905984
+Longitud: 98.7562811357598
+Temperatura: 33.322
+Humedad: 54.1518
+Promedio de vegetación: 0.0
+------------------------
+Imagen 202:
+Fecha/hora: 2023-04-29 18:40:44.226461
+Latitud: 32.042510107721625
+Longitud: 100.29952539270853
+Temperatura: 33.2324
+Humedad: 54.1947
+Promedio de vegetación: 0.0
+------------------------
+Imagen 203:
+Fecha/hora: 2023-04-29 18:41:14.699364
+Latitud: 33.37866316121095
+Longitud: 101.89247552257623
+Temperatura: 33.1429
+Humedad: 54.3143
+Promedio de vegetación: 0.0
+------------------------
+Imagen 204:
+Fecha/hora: 2023-04-29 18:41:45.173365
+Latitud: 34.6900167803837
+Longitud: 103.53826762898122
+Temperatura: 33.3578
+Humedad: 54.3786
+Promedio de vegetación: 0.0
+------------------------
+Imagen 205:
+Fecha/hora: 2023-04-29 18:42:15.644121
+Latitud: 35.97436198243031
+Longitud: 105.23995726341555
+Temperatura: 33.1429
+Humedad: 54.3756
+Promedio de vegetación: 0.0
+------------------------
+Imagen 206:
+Fecha/hora: 2023-04-29 18:42:46.120684
+Latitud: 37.22990852668554
+Longitud: 107.00137497589463
+Temperatura: 33.2683
+Humedad: 54.1855
+Promedio de vegetación: 0.0
+------------------------
+Imagen 207:
+Fecha/hora: 2023-04-29 18:43:16.593806
+Latitud: 38.45396031924459
+Longitud: 108.82530531820318
+Temperatura: 33.1608
+Humedad: 54.3204
+Promedio de vegetación: 0.0
+------------------------
+Imagen 208:
+Fecha/hora: 2023-04-29 18:43:47.043008
+Latitud: 39.643299509374266
+Longitud: 110.71372846961908
+Temperatura: 33.1071
+Humedad: 54.2683
+Promedio de vegetación: 0.0
+------------------------
+Imagen 209:
+Fecha/hora: 2023-04-29 18:44:17.528831
+Latitud: 40.797575590677816
+Longitud: 112.67346530508247
+Temperatura: 33.0892
+Humedad: 53.9526
+Promedio de vegetación: 0.0
+------------------------
+Imagen 210:
+Fecha/hora: 2023-04-29 18:44:47.998986
+Latitud: 41.91206053130009
+Longitud: 114.70429873717639
+Temperatura: 33.0713
+Humedad: 54.2039
+Promedio de vegetación: 0.0
+------------------------
+Imagen 211:
+Fecha/hora: 2023-04-29 18:45:18.459411
+Latitud: 42.98408822941899
+Longitud: 116.80924004389742
+Temperatura: 33.1429
+Humedad: 54.115
+Promedio de vegetación: 0.0
+------------------------
+Imagen 212:
+Fecha/hora: 2023-04-29 18:45:48.935798
+Latitud: 44.01145356217571
+Longitud: 118.9924083302155
+Temperatura: 33.0892
+Humedad: 54.5442
+Promedio de vegetación: 0.0
+------------------------
+Imagen 213:
+Fecha/hora: 2023-04-29 18:46:19.416248
+Latitud: 44.99050102478452
+Longitud: 121.25493602465852
+Temperatura: 33.1071
+Humedad: 54.1733
+Promedio de vegetación: 0.0210524310318549
+------------------------
+Imagen 214:
+Fecha/hora: 2023-04-29 18:46:49.909909
+Latitud: 45.91813699574917
+Longitud: 123.59886852849593
+Temperatura: 33.1966
+Humedad: 54.3664
+Promedio de vegetación: 0.020242722146014327
+------------------------
+Imagen 215:
+Fecha/hora: 2023-04-29 18:47:20.412214
+Latitud: 46.790728245257775
+Longitud: 126.02454124386729
+Temperatura: 33.1071
+Humedad: 54.2192
+Promedio de vegetación: 0.017611168267032466
+------------------------
+Imagen 216:
+Fecha/hora: 2023-04-29 18:47:50.910090
+Latitud: 47.604393508396036
+Longitud: 128.53070448146136
+Temperatura: 33.0713
+Humedad: 54.0476
+Promedio de vegetación: 0.014574759945130316
+------------------------
+Imagen 217:
+Fecha/hora: 2023-04-29 18:48:21.404257
+Latitud: 48.355635686037054
+Longitud: 131.11610697375878
+Temperatura: 33.0534
+Humedad: 54.0445
+Promedio de vegetación: 0.014979614388050603
+------------------------
+Imagen 218:
+Fecha/hora: 2023-04-29 18:48:51.909314
+Latitud: 49.0412978067241
+Longitud: 133.77969016191045
+Temperatura: 33.0176
+Humedad: 54.1671
+Promedio de vegetación: 0.013157769394909313
+------------------------
+Imagen 219:
+Fecha/hora: 2023-04-29 18:49:22.399327
+Latitud: 49.657385988822945
+Longitud: 136.51557815740674
+Temperatura: 33.0892
+Humedad: 54.4767
+Promedio de vegetación: 0.008299516079865874
+------------------------
+Imagen 220:
+Fecha/hora: 2023-04-29 18:49:52.905593
+Latitud: 50.20125460126175
+Longitud: 139.32170159626338
+Temperatura: 33.0534
+Humedad: 54.3909
+Promedio de vegetación: 0.004250971650663009
+------------------------
+Imagen 221:
+Fecha/hora: 2023-04-29 18:50:23.403576
+Latitud: 50.66938202666832
+Longitud: 142.18961206145804
+Temperatura: 33.1071
+Humedad: 54.2805
+Promedio de vegetación: 0.0026315538789818626
+------------------------
+Imagen 222:
+Fecha/hora: 2023-04-29 18:50:53.897932
+Latitud: 51.059120096775665
+Longitud: 145.11218294832702
+Temperatura: 33.0534
+Humedad: 54.5993
+Promedio de vegetación: 1.1516084628867551
+------------------------
+Imagen 223:
+Fecha/hora: 2023-04-29 18:51:24.386238
+Latitud: 51.36806768659402
+Longitud: 148.08033214640875
+Temperatura: 33.1071
+Humedad: 54.4246
+Promedio de vegetación: 88.52709190672154
+------------------------
+Imagen 224:
+Fecha/hora: 2023-04-29 18:51:54.867390
+Latitud: 51.59429301662427
+Longitud: 151.0840090739007
+Temperatura: 33.0355
+Humedad: 54.2989
+Promedio de vegetación: 227.40491874333182
+------------------------
+Imagen 225:
+Fecha/hora: 2023-04-29 18:52:25.358739
+Latitud: 51.736429003179424
+Longitud: 154.11416450623204
+Temperatura: 33.0176
+Humedad: 54.1825
+Promedio de vegetación: 248.4425725880201
+------------------------
+Imagen 226:
+Fecha/hora: 2023-04-29 18:52:55.828861
+Latitud: 51.793417177935716
+Longitud: 157.15598761200613
+Temperatura: 33.125
+Humedad: 54.3051
+Promedio de vegetación: 216.82708428593202
+------------------------
+Imagen 227:
+Fecha/hora: 2023-04-29 18:53:26.304365
+Latitud: 51.76499252120245
+Longitud: 160.20042623219476
+Temperatura: 33.0713
+Humedad: 54.2131
+Promedio de vegetación: 135.48615874104559
+------------------------
+Imagen 228:
+Fecha/hora: 2023-04-29 18:53:56.772804
+Latitud: 51.65136160499655
+Longitud: 163.23427526021496
+Temperatura: 33.0713
+Humedad: 54.4399
+Promedio de vegetación: 150.85848193872886
+------------------------
+Imagen 229:
+Fecha/hora: 2023-04-29 18:54:27.226904
+Latitud: 51.45339974666483
+Longitud: 166.24519018832075
+Temperatura: 33.0355
+Humedad: 54.4307
+Promedio de vegetación: 228.73081704389574
+------------------------
+Imagen 230:
+Fecha/hora: 2023-04-29 18:54:57.693854
+Latitud: 51.172242157867345
+Longitud: 169.2247724797979
+Temperatura: 33.1429
+Humedad: 54.5687
+Promedio de vegetación: 248.48265317786922
+------------------------
+Imagen 231:
+Fecha/hora: 2023-04-29 18:55:28.132406
+Latitud: 50.810138807660046
+Longitud: 172.1588012364974
+Temperatura: 32.9996
+Humedad: 54.2438
+Promedio de vegetación: 227.18852404359092
+------------------------
+Imagen 232:
+Fecha/hora: 2023-04-29 18:55:58.593966
+Latitud: 50.36875722568827
+Longitud: 175.043062410291
+Temperatura: 33.125
+Humedad: 54.2989
+Promedio de vegetación: 189.63220164609052
+------------------------
+Imagen 233:
+Fecha/hora: 2023-04-29 18:56:29.053481
+Latitud: 49.85100360644149
+Longitud: 177.86725028576
+Temperatura: 33.1966
+Humedad: 54.6453
+Promedio de vegetación: 148.00668724279836
+------------------------
+Imagen 234:
+Fecha/hora: 2023-04-29 18:56:59.516920
+Latitud: 49.25973607641025
+Longitud: -179.374829807642
+Temperatura: 33.2145
+Humedad: 54.4093
+Promedio de vegetación: 161.89643347050753
+------------------------
+Imagen 235:
+Fecha/hora: 2023-04-29 18:57:29.945840
+Latitud: 48.59899599011277
+Longitud: -176.6918512761916
+Temperatura: 33.1071
+Humedad: 54.4246
+Promedio de vegetación: 223.69017680231673
+------------------------
+Imagen 236:
+Fecha/hora: 2023-04-29 18:58:00.402076
+Latitud: 47.870828001845226
+Longitud: -174.08234853464674
+Temperatura: 33.1071
+Humedad: 54.5871
+Promedio de vegetación: 234.9694215820759
+------------------------
+Imagen 237:
+Fecha/hora: 2023-04-29 18:58:30.843304
+Latitud: 47.07965803677138
+Longitud: -171.5527247511259
+Temperatura: 33.1966
+Humedad: 54.2376
+Promedio de vegetación: 200.06914675735405
+------------------------
+Imagen 238:
+Fecha/hora: 2023-04-29 18:59:01.276371
+Latitud: 46.22883114100045
+Longitud: -169.10378780696826
+Temperatura: 33.2324
+Humedad: 54.3112
+Promedio de vegetación: 203.6668857643652
+------------------------
+Imagen 239:
+Fecha/hora: 2023-04-29 18:59:31.639444
+Latitud: 45.32395076932198
+Longitud: -166.74123604877144
+Temperatura: 33.2324
+Humedad: 54.6116
+Promedio de vegetación: 239.20845002667275
+------------------------
+Imagen 240:
+Fecha/hora: 2023-04-29 19:00:02.060775
+Latitud: 44.36441084880296
+Longitud: -164.45408583201575
+Temperatura: 33.2504
+Humedad: 54.4277
+Promedio de vegetación: 250.13425687776254
+------------------------
+Imagen 241:
+Fecha/hora: 2023-04-29 19:00:32.416272
+Latitud: 43.35780432455487
+Longitud: -162.25132960450418
+Temperatura: 33.2683
+Humedad: 54.3173
+Promedio de vegetación: 233.59898929279072
+------------------------
+Imagen 242:
+Fecha/hora: 2023-04-29 19:01:02.834246
+Latitud: 42.30286450294296
+Longitud: -160.12136701773315
+Temperatura: 33.3041
+Humedad: 54.3756
+Promedio de vegetación: 165.9328322664228
+------------------------
+Imagen 243:
+Fecha/hora: 2023-04-29 19:01:33.268145
+Latitud: 41.2042163453799
+Longitud: -158.0657434465527
+Temperatura: 33.322
+Humedad: 54.2407
+Promedio de vegetación: 116.21711153025453
+------------------------
+Imagen 244:
+Fecha/hora: 2023-04-29 19:02:03.701433
+Latitud: 40.06541116261332
+Longitud: -156.08307701582024
+Temperatura: 33.3041
+Humedad: 54.4246
+Promedio de vegetación: 95.69180098308185
+------------------------
+Imagen 245:
+Fecha/hora: 2023-04-29 19:02:34.141458
+Latitud: 38.888977904525014
+Longitud: -154.17002394403306
+Temperatura: 33.4115
+Humedad: 54.2744
+Promedio de vegetación: 48.36067291571407
+------------------------
+Imagen 246:
+Fecha/hora: 2023-04-29 19:03:04.589332
+Latitud: 37.677513892219196
+Longitud: -152.3234806027419
+Temperatura: 33.3578
+Humedad: 54.4522
+Promedio de vegetación: 60.95164609053498
+------------------------
+Imagen 247:
+Fecha/hora: 2023-04-29 19:03:35.019377
+Latitud: 36.43457738262206
+Longitud: -150.54177101003947
+Temperatura: 33.2862
+Humedad: 54.7495
+Promedio de vegetación: 104.24090982700808
+------------------------
+Imagen 248:
+Fecha/hora: 2023-04-29 19:04:05.455525
+Latitud: 35.161567067855586
+Longitud: -148.82016911779806
+Temperatura: 33.322
+Humedad: 54.1917
+Promedio de vegetación: 121.14196340115836
+------------------------
+Imagen 249:
+Fecha/hora: 2023-04-29 19:04:35.878393
+Latitud: 33.86151496013643
+Longitud: -147.15644412737058
+Temperatura: 33.4652
+Humedad: 54.443
+Promedio de vegetación: 126.73705180231671
+------------------------
+Imagen 250:
+Fecha/hora: 2023-04-29 19:05:06.317440
+Latitud: 32.53523066992191
+Longitud: -145.54570061440452
+Temperatura: 33.4473
+Humedad: 54.2192
+Promedio de vegetación: 73.18695463725042
+------------------------
+Imagen 251:
+Fecha/hora: 2023-04-29 19:05:36.738292
+Latitud: 31.186149959688194
+Longitud: -143.98650374735655
+Temperatura: 33.5548
+Humedad: 54.2652
+Promedio de vegetación: 108.00443672839506
+------------------------
+Imagen 252:
+Fecha/hora: 2023-04-29 19:06:07.159280
+Latitud: 29.81529194074335
+Longitud: -142.47468939081986
+Temperatura: 33.5011
+Humedad: 54.302
+Promedio de vegetación: 116.60010383325712
+------------------------
+Imagen 253:
+Fecha/hora: 2023-04-29 19:06:37.604012
+Latitud: 28.423268319776216
+Longitud: -141.00604399203
+Temperatura: 33.4832
+Humedad: 54.1365
+Promedio de vegetación: 92.39608339048925
+------------------------
+Imagen 254:
+Fecha/hora: 2023-04-29 19:07:08.039716
+Latitud: 27.013134766294808
+Longitud: -139.57915569409474
+Temperatura: 33.5369
+Humedad: 54.0721
+Promedio de vegetación: 127.74392480185948
+------------------------
+Imagen 255:
+Fecha/hora: 2023-04-29 19:07:38.480856
+Latitud: 25.58573082703561
+Longitud: -138.19044832843974
+Temperatura: 33.519
+Humedad: 53.9066
+Promedio de vegetación: 164.73223641594268
+------------------------
+Imagen 256:
+Fecha/hora: 2023-04-29 19:08:08.910294
+Latitud: 24.143239411522543
+Longitud: -136.837867274882
+Temperatura: 33.6085
+Humedad: 54.1426
+Promedio de vegetación: 229.70489683356195
+------------------------
+Imagen 257:
+Fecha/hora: 2023-04-29 19:08:39.341966
+Latitud: 22.686340263664604
+Longitud: -135.5180974052277
+Temperatura: 33.6801
+Humedad: 54.3081
+Promedio de vegetación: 249.18548049077884
+------------------------
+Imagen 258:
+Fecha/hora: 2023-04-29 19:09:09.768016
+Latitud: 21.21660853520279
+Longitud: -134.22884438799642
+Temperatura: 33.5369
+Humedad: 54.3204
+Promedio de vegetación: 252.3127786351166
+------------------------
+Imagen 259:
+Fecha/hora: 2023-04-29 19:09:40.188071
+Latitud: 19.735259911187406
+Longitud: -132.96763469624688
+Temperatura: 33.6801
+Humedad: 53.6583
+Promedio de vegetación: 216.85420953360767
+------------------------
+Imagen 260:
+Fecha/hora: 2023-04-29 19:10:10.608130
+Latitud: 18.24309528771543
+Longitud: -131.73180120392945
+Temperatura: 33.6801
+Humedad: 54.1426
+Promedio de vegetación: 158.9108343811919
+------------------------
+Imagen 261:
+Fecha/hora: 2023-04-29 19:10:41.034524
+Latitud: 16.740841967088585
+Longitud: -130.51878034195644
+Temperatura: 33.6622
+Humedad: 54.2867
+Promedio de vegetación: 155.45904540085354
+------------------------
+Imagen 262:
+Fecha/hora: 2023-04-29 19:11:11.462140
+Latitud: 15.229734872851916
+Longitud: -129.32654963781772
+Temperatura: 33.7518
+Humedad: 54.1579
+Promedio de vegetación: 145.67452322435605
+------------------------
+Imagen 263:
+Fecha/hora: 2023-04-29 19:11:41.898973
+Latitud: 13.710309454055087
+Longitud: -128.152644200964
+Temperatura: 33.6801
+Humedad: 54.0169
+Promedio de vegetación: 111.55015193949093
+------------------------
+Imagen 264:
+Fecha/hora: 2023-04-29 19:12:12.334884
+Latitud: 12.18399549879511
+Longitud: -126.99539310913025
+Temperatura: 33.6981
+Humedad: 53.8453
+Promedio de vegetación: 124.04132849413199
+------------------------
+Imagen 265:
+Fecha/hora: 2023-04-29 19:12:42.769301
+Latitud: 10.651669670586344
+Longitud: -125.85277597263115
+Temperatura: 33.7876
+Humedad: 53.9005
+Promedio de vegetación: 132.70602328151196
+------------------------
+Imagen 266:
+Fecha/hora: 2023-04-29 19:13:13.203011
+Latitud: 9.114148813887901
+Longitud: -124.72280777980565
+Temperatura: 33.8234
+Humedad: 53.8422
+Promedio de vegetación: 133.28820397043134
+------------------------
+Imagen 267:
+Fecha/hora: 2023-04-29 19:13:43.633587
+Latitud: 7.572360353070362
+Longitud: -123.60365285654504
+Temperatura: 33.9129
+Humedad: 53.9311
+Promedio de vegetación: 124.25994989330894
+------------------------
+Imagen 268:
+Fecha/hora: 2023-04-29 19:14:14.057872
+Latitud: 6.027252630282615
+Longitud: -122.49354565262185
+Temperatura: 33.8771
+Humedad: 53.7411
+Promedio de vegetación: 99.56807984682213
+------------------------
+Imagen 269:
+Fecha/hora: 2023-04-29 19:14:44.489897
+Latitud: 4.478913934886751
+Longitud: -121.3901557362317
+Temperatura: 34.0025
+Humedad: 54.0108
+Promedio de vegetación: 100.06159741274196
+------------------------
+Imagen 270:
+Fecha/hora: 2023-04-29 19:15:14.897220
+Latitud: 2.9296797578609426
+Longitud: -120.2927910442342
+Temperatura: 33.9129
+Humedad: 53.5449
+Promedio de vegetación: 65.03500800182898
+------------------------
+Imagen 271:
+Fecha/hora: 2023-04-29 19:15:45.289379
+Latitud: 1.3798942455879524
+Longitud: -119.19936806834352
+Temperatura: 33.8234
+Humedad: 53.6185
+Promedio de vegetación: 69.4626986168267
+------------------------
+Imagen 272:
+Fecha/hora: 2023-04-29 19:16:15.708658
+Latitud: -0.17190024963917058
+Longitud: -118.10656474525065
+Temperatura: 33.9488
+Humedad: 53.9863
+Promedio de vegetación: 92.52098098613017
+------------------------
+Imagen 273:
+Fecha/hora: 2023-04-29 19:16:46.151711
+Latitud: -1.7247794704117794
+Longitud: -117.01274613727428
+Temperatura: 33.895
+Humedad: 53.6828
+Promedio de vegetación: 75.37924144566377
+------------------------
+Imagen 274:
+Fecha/hora: 2023-04-29 19:17:16.569259
+Latitud: -3.275517328855641
+Longitud: -115.91789418863893
+Temperatura: 34.0025
+Humedad: 53.6001
+Promedio de vegetación: 138.9980686061576
+------------------------
+Imagen 275:
+Fecha/hora: 2023-04-29 19:17:47.028692
+Latitud: -4.826786504712682
+Longitud: -114.81781308706772
+Temperatura: 33.9129
+Humedad: 53.5663
+Promedio de vegetación: 178.95376085962505
+------------------------
+Imagen 276:
+Fecha/hora: 2023-04-29 19:18:17.459286
+Latitud: -6.374240346328945
+Longitud: -113.71325515842874
+Temperatura: 33.8592
+Humedad: 53.6981
+Promedio de vegetación: 110.47303669410151
+------------------------
+Imagen 277:
+Fecha/hora: 2023-04-29 19:18:47.879349
+Latitud: -7.918054603704174
+Longitud: -112.60175108729874
+Temperatura: 33.9309
+Humedad: 53.6093
+Promedio de vegetación: 82.5783631496723
+------------------------
+Imagen 278:
+Fecha/hora: 2023-04-29 19:19:18.290143
+Latitud: -9.457525305803879
+Longitud: -111.4814178532239
+Temperatura: 33.9129
+Humedad: 53.7073
+Promedio de vegetación: 81.8227023319616
+------------------------
+Imagen 279:
+Fecha/hora: 2023-04-29 19:19:48.723462
+Latitud: -10.993460966978562
+Longitud: -110.34920222410305
+Temperatura: 33.9846
+Humedad: 53.597
+Promedio de vegetación: 57.25249104557232
+------------------------
+Imagen 280:
+Fecha/hora: 2023-04-29 19:20:19.146059
+Latitud: -12.523380777822574
+Longitud: -109.20440046667416
+Temperatura: 33.9667
+Humedad: 53.83
+Promedio de vegetación: 100.92575922115532
+------------------------
+Imagen 281:
+Fecha/hora: 2023-04-29 19:20:49.559361
+Latitud: -14.04650636125988
+Longitud: -108.0450100679796
+Temperatura: 33.9309
+Humedad: 53.4805
+Promedio de vegetación: 134.5475037151349
+------------------------
+Imagen 282:
+Fecha/hora: 2023-04-29 19:21:19.969324
+Latitud: -15.562274265061951
+Longitud: -106.86878018844571
+Temperatura: 33.9846
+Humedad: 53.456
+Promedio de vegetación: 135.80923258649597
+------------------------
+Imagen 283:
+Fecha/hora: 2023-04-29 19:21:50.387178
+Latitud: -17.07032760073065
+Longitud: -105.67318490840077
+Temperatura: 33.9309
+Humedad: 53.6644
+Promedio de vegetación: 126.68199159807956
+------------------------
+Imagen 284:
+Fecha/hora: 2023-04-29 19:22:20.819838
+Latitud: -18.570056270273714
+Longitud: -104.45575967351321
+Temperatura: 33.9667
+Humedad: 53.6736
+Promedio de vegetación: 79.98142432556013
+------------------------
+Imagen 285:
+Fecha/hora: 2023-04-29 19:22:51.249269
+Latitud: -20.059566479906426
+Longitud: -103.21497140177081
+Temperatura: 33.9667
+Humedad: 53.5633
+Promedio de vegetación: 88.97081237616217
+------------------------
+Imagen 286:
+Fecha/hora: 2023-04-29 19:23:21.662078
+Latitud: -21.537156463225834
+Longitud: -101.94906963637625
+Temperatura: 33.9488
+Humedad: 53.5755
+Promedio de vegetación: 105.25527263374485
+------------------------
+Imagen 287:
+Fecha/hora: 2023-04-29 19:23:52.101922
+Latitud: -23.003851932889635
+Longitud: -100.6537898843545
+Temperatura: 33.9667
+Humedad: 53.4223
+Promedio de vegetación: 79.28669410150891
+------------------------
+Imagen 288:
+Fecha/hora: 2023-04-29 19:24:22.537068
+Latitud: -24.456933689934782
+Longitud: -99.32794055546319
+Temperatura: 33.9846
+Humedad: 53.2322
+Promedio de vegetación: 78.17071282959914
+------------------------
+Imagen 289:
+Fecha/hora: 2023-04-29 19:24:52.981575
+Latitud: -25.895815013265896
+Longitud: -97.96829680730025
+Temperatura: 33.9846
+Humedad: 53.4376
+Promedio de vegetación: 89.25238864121323
+------------------------
+Imagen 290:
+Fecha/hora: 2023-04-29 19:25:23.425042
+Latitud: -27.318686113021062
+Longitud: -96.57258232810209
+Temperatura: 33.895
+Humedad: 53.3671
+Promedio de vegetación: 100.01848041457094
+------------------------
+Imagen 291:
+Fecha/hora: 2023-04-29 19:25:53.867373
+Latitud: -28.724137353521535
+Longitud: -95.13798299678645
+Temperatura: 34.1278
+Humedad: 53.3395
+Promedio de vegetación: 148.12551202179546
+------------------------
+Imagen 292:
+Fecha/hora: 2023-04-29 19:26:24.269327
+Latitud: -30.10888991414892
+Longitud: -93.6635168617092
+Temperatura: 33.9846
+Humedad: 53.4407
+Promedio de vegetación: 210.96479195244626
+------------------------
+Imagen 293:
+Fecha/hora: 2023-04-29 19:26:54.714452
+Latitud: -31.475141690202125
+Longitud: -92.14211243178455
+Temperatura: 33.9667
+Humedad: 53.2997
+Promedio de vegetación: 216.63700512498096
+------------------------
+Imagen 294:
+Fecha/hora: 2023-04-29 19:27:25.151282
+Latitud: -32.81883573217119
+Longitud: -90.57315687334152
+Temperatura: 34.0204
+Humedad: 53.4866
+Promedio de vegetación: 136.67906235711018
+------------------------
+Imagen 295:
+Fecha/hora: 2023-04-29 19:27:55.582321
+Latitud: -34.138294239640366
+Longitud: -88.95333551349735
+Temperatura: 34.0204
+Humedad: 53.3548
+Promedio de vegetación: 104.64839582380735
+------------------------
+Imagen 296:
+Fecha/hora: 2023-04-29 19:28:26.025095
+Latitud: -35.4322877280392
+Longitud: -87.27847981939749
+Temperatura: 34.0025
+Humedad: 53.5725
+Promedio de vegetación: 102.58424544657827
+------------------------
+Imagen 297:
+Fecha/hora: 2023-04-29 19:28:56.468516
+Latitud: -36.698236679941346
+Longitud: -85.54587894487801
+Temperatura: 34.0741
+Humedad: 53.1311
+Promedio de vegetación: 109.5898467268709
+------------------------
+Imagen 298:
+Fecha/hora: 2023-04-29 19:29:26.889364
+Latitud: -37.93297999480284
+Longitud: -83.7536187585747
+Temperatura: 34.0025
+Humedad: 53.5142
+Promedio de vegetación: 131.83538380201188
+------------------------
+Imagen 299:
+Fecha/hora: 2023-04-29 19:29:57.317890
+Latitud: -39.13538620175899
+Longitud: -81.89670986159642
+Temperatura: 34.0562
+Humedad: 53.8453
+Promedio de vegetación: 128.18541857186403
+------------------------
+Imagen 300:
+Fecha/hora: 2023-04-29 19:30:27.748614
+Latitud: -40.30270462874999
+Longitud: -79.97226228874857
+Temperatura: 34.1099
+Humedad: 53.2751
+Promedio de vegetación: 138.83167343011735
+------------------------
+Imagen 301:
+Fecha/hora: 2023-04-29 19:30:58.187443
+Latitud: -41.43244349289491
+Longitud: -77.97686147618737
+Temperatura: 34.0562
+Humedad: 53.3947
+Promedio de vegetación: 145.5036746494437
+------------------------
+Imagen 302:
+Fecha/hora: 2023-04-29 19:31:28.623053
+Latitud: -42.52133171070006
+Longitud: -75.90842826568232
+Temperatura: 34.1278
+Humedad: 53.1249
+Promedio de vegetación: 141.57010888203018
+------------------------
+Imagen 303:
+Fecha/hora: 2023-04-29 19:31:59.064708
+Latitud: -43.56671765226555
+Longitud: -73.76379510582245
+Temperatura: 34.1457
+Humedad: 53.4161
+Promedio de vegetación: 175.13031550068587
+------------------------
+Imagen 304:
+Fecha/hora: 2023-04-29 19:32:29.507143
+Latitud: -44.56526603790469
+Longitud: -71.5412281888653
+Temperatura: 34.1099
+Humedad: 53.4192
+Promedio de vegetación: 178.3359529797287
+------------------------
+Imagen 305:
+Fecha/hora: 2023-04-29 19:32:59.949483
+Latitud: -45.51368281446582
+Longitud: -69.23923062669708
+Temperatura: 34.1457
+Humedad: 53.223
+Promedio de vegetación: 172.42811452141441
+------------------------
+Imagen 306:
+Fecha/hora: 2023-04-29 19:33:30.396262
+Latitud: -46.40873211394283
+Longitud: -66.85652488745853
+Temperatura: 34.0383
+Humedad: 53.4315
+Promedio de vegetación: 155.28313614540465
+------------------------
+Imagen 307:
+Fecha/hora: 2023-04-29 19:34:00.863477
+Latitud: -47.24737124926823
+Longitud: -64.39161944384863
+Temperatura: 34.1099
+Humedad: 53.2721
+Promedio de vegetación: 125.82795115073921
+------------------------
+Imagen 308:
+Fecha/hora: 2023-04-29 19:34:31.279378
+Latitud: -48.0242293157951
+Longitud: -61.85122026464221
+Temperatura: 34.1457
+Humedad: 53.4958
+Promedio de vegetación: 113.90215382563633
+------------------------
+Imagen 309:
+Fecha/hora: 2023-04-29 19:35:01.729946
+Latitud: -48.738132984252765
+Longitud: -59.229785777148564
+Temperatura: 34.1816
+Humedad: 53.2997
+Promedio de vegetación: 103.6795791418991
+------------------------
+Imagen 310:
+Fecha/hora: 2023-04-29 19:35:32.157476
+Latitud: -49.38407364375445
+Longitud: -56.53598491297669
+Temperatura: 34.0562
+Humedad: 53.5878
+Promedio de vegetación: 62.09596717344917
+------------------------
+Imagen 311:
+Fecha/hora: 2023-04-29 19:36:02.587087
+Latitud: -49.9595400786087
+Longitud: -53.7711493870159
+Temperatura: 34.0383
+Humedad: 53.1556
+Promedio de vegetación: 58.02090477823503
+------------------------
+Imagen 312:
+Fecha/hora: 2023-04-29 19:36:33.052105
+Latitud: -50.461832422278604
+Longitud: -50.93794790295376
+Temperatura: 34.0562
+Humedad: 53.315
+Promedio de vegetación: 205.26747780445055
+------------------------
+Imagen 313:
+Fecha/hora: 2023-04-29 19:37:03.519753
+Latitud: -50.88739368521682
+Longitud: -48.04617577172544
+Temperatura: 34.0383
+Humedad: 53.1954
+Promedio de vegetación: 197.59366426611797
+------------------------
+Imagen 314:
+Fecha/hora: 2023-04-29 19:37:34.027819
+Latitud: -51.234023847555044
+Longitud: -45.10031944166269
+Temperatura: 34.0741
+Humedad: 53.2659
+Promedio de vegetación: 108.35989892927907
+------------------------
+Imagen 315:
+Fecha/hora: 2023-04-29 19:38:04.494589
+Latitud: -51.49862939056903
+Longitud: -42.11766637362015
+Temperatura: 33.9846
+Humedad: 53.3732
+Promedio de vegetación: 37.56401463191587
+------------------------
+Imagen 316:
+Fecha/hora: 2023-04-29 19:38:34.969000
+Latitud: -51.680066022203164
+Longitud: -39.10384699556145
+Temperatura: 34.1457
+Humedad: 53.2322
+Promedio de vegetación: 1.0817710714830056
+------------------------
+Imagen 317:
+Fecha/hora: 2023-04-29 19:39:05.439296
+Latitud: -51.77705224656667
+Longitud: -36.071197302448766
+Temperatura: 34.092
+Humedad: 53.2292
+Promedio de vegetación: 0.04797525148605396
+------------------------
+Imagen 318:
+Fecha/hora: 2023-04-29 19:39:35.944188
+Latitud: -51.78893643438604
+Longitud: -33.02754080595828
+Temperatura: 34.1457
+Humedad: 53.4039
+Promedio de vegetación: 0.04149758039932937
+------------------------
+Imagen 319:
+Fecha/hora: 2023-04-29 19:40:06.450144
+Latitud: -51.71547813969899
+Longitud: -29.988090022028416
+Temperatura: 34.0562
+Humedad: 53.3364
+Promedio de vegetación: 0.043116998171010515
+------------------------
+Imagen 320:
+Fecha/hora: 2023-04-29 19:40:36.946217
+Latitud: -51.55723705636537
+Longitud: -26.96575356970803
+Temperatura: 34.0383
+Humedad: 53.4315
+Promedio de vegetación: 0.06700341030330742
+------------------------
+Imagen 321:
+Fecha/hora: 2023-04-29 19:41:07.419329
+Latitud: -51.31546925140349
+Longitud: -23.9731280232732
+Temperatura: 33.9488
+Humedad: 53.0667
+Promedio de vegetación: 0.12732672229843012
+------------------------
+Imagen 322:
+Fecha/hora: 2023-04-29 19:41:37.915329
+Latitud: -50.991389767323874
+Longitud: -21.016369013389024
+Temperatura: 33.9488
+Humedad: 53.3456
+Promedio de vegetación: 0.1819820720926688
+------------------------
+Imagen 323:
+Fecha/hora: 2023-04-29 19:42:08.404164
+Latitud: -50.58730364371296
+Longitud: -18.10807712253916
+Temperatura: 34.0025
+Humedad: 53.174
+Promedio de vegetación: 0.20424906645328456
+------------------------
+Imagen 324:
+Fecha/hora: 2023-04-29 19:42:38.897534
+Latitud: -50.10553003790336
+Longitud: -15.255658512714751
+Temperatura: 33.9129
+Humedad: 53.4192
+Promedio de vegetación: 0.22793305136412131
+------------------------
+Imagen 325:
+Fecha/hora: 2023-04-29 19:43:09.381075
+Latitud: -49.54912974011791
+Longitud: -12.467729823232501
+Temperatura: 33.9488
+Humedad: 53.2506
+Promedio de vegetación: 0.04878496037189453
+------------------------
+Imagen 326:
+Fecha/hora: 2023-04-29 19:43:39.869434
+Latitud: -48.92093231953164
+Longitud: -9.748849960438212
+Temperatura: 33.8413
+Humedad: 53.3824
+Promedio de vegetación: 0.0
+------------------------
+Imagen 327:
+Fecha/hora: 2023-04-29 19:44:10.366951
+Latitud: -48.224086682238685
+Longitud: -7.103298877865589
+Temperatura: 34.0204
+Humedad: 53.2537
+Promedio de vegetación: 0.0
+------------------------
+Imagen 328:
+Fecha/hora: 2023-04-29 19:44:40.860020
+Latitud: -47.46231363458699
+Longitud: -4.535622917115527
+Temperatura: 33.8413
+Humedad: 53.1893
+Promedio de vegetación: 0.0
+------------------------
+Imagen 329:
+Fecha/hora: 2023-04-29 19:45:11.358686
+Latitud: -46.63885056307539
+Longitud: -2.047109159043681
+Temperatura: 33.8055
+Humedad: 53.3456
+Promedio de vegetación: 0.0
+------------------------
+Imagen 330:
+Fecha/hora: 2023-04-29 19:45:41.855120
+Latitud: -45.75740612116406
+Longitud: 0.3605459335516981
+Temperatura: 33.8055
+Humedad: 53.0912
+Promedio de vegetación: 0.0
+------------------------
+Imagen 331:
+Fecha/hora: 2023-04-29 19:46:12.354418
+Latitud: -44.821315382687715
+Longitud: 2.6876359261868084
+Temperatura: 33.8413
+Humedad: 53.3426
+Promedio de vegetación: 0.0
+------------------------
+Imagen 332:
+Fecha/hora: 2023-04-29 19:46:42.848759
+Latitud: -43.834220829751196
+Longitud: 4.934329407362356
+Temperatura: 33.8055
+Humedad: 53.2077
+Promedio de vegetación: 0.0
+------------------------
+Imagen 333:
+Fecha/hora: 2023-04-29 19:47:13.351051
+Latitud: -42.79902270870377
+Longitud: 7.102946852441844
+Temperatura: 33.716
+Humedad: 53.1587
+Promedio de vegetación: 0.0
+------------------------
+Imagen 334:
+Fecha/hora: 2023-04-29 19:47:43.830451
+Latitud: -41.71996181548129
+Longitud: 9.193376845498076
+Temperatura: 33.716
+Humedad: 53.3456
+Promedio de vegetación: 0.0
+------------------------
+Imagen 335:
+Fecha/hora: 2023-04-29 19:48:14.349991
+Latitud: -40.59783664844497
+Longitud: 11.212260289544666
+Temperatura: 33.7697
+Humedad: 53.1801
+Promedio de vegetación: 0.0
+------------------------
+Imagen 336:
+Fecha/hora: 2023-04-29 19:48:44.843511
+Latitud: -39.43794341400447
+Longitud: 13.1579349214319
+Temperatura: 33.8413
+Humedad: 53.0759
+Promedio de vegetación: 0.0
+------------------------
+Imagen 337:
+Fecha/hora: 2023-04-29 19:49:15.338291
+Latitud: -38.24202884758162
+Longitud: 15.035235176004358
+Temperatura: 33.716
+Humedad: 53.223
+Promedio de vegetación: 0.0
+------------------------
+Imagen 338:
+Fecha/hora: 2023-04-29 19:49:45.828903
+Latitud: -37.01289592019012
+Longitud: 16.846997821656792
+Temperatura: 33.6801
+Humedad: 53.1832
+Promedio de vegetación: 0.0
+------------------------
+Imagen 339:
+Fecha/hora: 2023-04-29 19:50:16.317987
+Latitud: -35.75288048974003
+Longitud: 18.596654460270425
+Temperatura: 33.7339
+Humedad: 53.3855
+Promedio de vegetación: 0.0
+------------------------
+Imagen 340:
+Fecha/hora: 2023-04-29 19:50:46.809649
+Latitud: -34.464090413029126
+Longitud: 20.28774555580282
+Temperatura: 33.6264
+Humedad: 53.2414
+Promedio de vegetación: 0.0
+------------------------
+Imagen 341:
+Fecha/hora: 2023-04-29 19:51:17.304481
+Latitud: -33.148630853172584
+Longitud: 21.92359486259174
+Temperatura: 33.6443
+Humedad: 53.2445
+Promedio de vegetación: 0.0
+------------------------
+Imagen 342:
+Fecha/hora: 2023-04-29 19:51:47.799837
+Latitud: -31.808601721875466
+Longitud: 23.507340003585355
+Temperatura: 33.5906
+Humedad: 53.1035
+Promedio de vegetación: 0.0
+------------------------
+Imagen 343:
+Fecha/hora: 2023-04-29 19:52:18.294982
+Latitud: -30.445916138092336
+Longitud: 25.042150996032657
+Temperatura: 33.6443
+Humedad: 53.2506
+Promedio de vegetación: 0.0
+------------------------
+Imagen 1:
+Fecha/hora: 2023-04-29 16:58:35.171569
+Latitud: 4.841038668555158
+Longitud: 100.56762163090778
+Temperatura: 33.4652
+Humedad: 52.6253
+Promedio de vegetación: 0.0
+------------------------
+Imagen 2:
+Fecha/hora: 2023-04-29 16:59:05.783378
+Latitud: 6.39706233682416
+Longitud: 101.67835533830987
+Temperatura: 33.5727
+Humedad: 52.7387
+Promedio de vegetación: 0.0
+------------------------
+Imagen 3:
+Fecha/hora: 2023-04-29 16:59:41.817204
+Latitud: 8.224792701076028
+Longitud: 102.99565285803011
+Temperatura: 33.3936
+Humedad: 52.846
+Promedio de vegetación: 0.0
+------------------------
+Imagen 4:
+Fecha/hora: 2023-04-29 17:00:12.324699
+Latitud: 9.767922020381212
+Longitud: 104.12132344044602
+Temperatura: 33.4294
+Humedad: 52.8583
+Promedio de vegetación: 0.0
+------------------------
+Imagen 5:
+Fecha/hora: 2023-04-29 17:00:42.819339
+Latitud: 11.30563057812641
+Longitud: 105.2580744668788
+Temperatura: 33.4832
+Humedad: 52.8276
+Promedio de vegetación: 0.0
+------------------------
+Imagen 6:
+Fecha/hora: 2023-04-29 17:01:13.329330
+Latitud: 12.838504741514965
+Longitud: 106.40890178525692
+Temperatura: 33.5548
+Humedad: 52.7908
+Promedio de vegetación: 0.0
+------------------------
+Imagen 7:
+Fecha/hora: 2023-04-29 17:01:43.849558
+Latitud: 14.365419829017329
+Longitud: 107.57562945960126
+Temperatura: 33.3757
+Humedad: 52.7019
+Promedio de vegetación: 0.0
+------------------------
+Imagen 8:
+Fecha/hora: 2023-04-29 17:02:14.358350
+Latitud: 15.88441901797975
+Longitud: 108.75950329905957
+Temperatura: 33.3399
+Humedad: 52.8675
+Promedio de vegetación: 0.0
+------------------------
+Imagen 9:
+Fecha/hora: 2023-04-29 17:02:44.866566
+Latitud: 17.39510920982054
+Longitud: 109.96305488848154
+Temperatura: 33.3578
+Humedad: 53.0085
+Promedio de vegetación: 0.0
+------------------------
+Imagen 10:
+Fecha/hora: 2023-04-29 17:03:15.375846
+Latitud: 18.896602993881444
+Longitud: 111.1885532757894
+Temperatura: 33.4115
+Humedad: 52.8154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 11:
+Fecha/hora: 2023-04-29 17:03:45.887317
+Latitud: 20.38793934955948
+Longitud: 112.43833378749113
+Temperatura: 33.3399
+Humedad: 52.892
+Promedio de vegetación: 0.0
+------------------------
+Imagen 12:
+Fecha/hora: 2023-04-29 17:04:16.397754
+Latitud: 21.867887032582104
+Longitud: 113.71463612289068
+Temperatura: 33.3399
+Humedad: 52.8031
+Promedio de vegetación: 0.0
+------------------------
+Imagen 13:
+Fecha/hora: 2023-04-29 17:04:46.906274
+Latitud: 23.335274821653215
+Longitud: 115.01988511035542
+Temperatura: 33.322
+Humedad: 52.8337
+Promedio de vegetación: 0.0
+------------------------
+Imagen 14:
+Fecha/hora: 2023-04-29 17:05:17.420889
+Latitud: 24.789276578348392
+Longitud: 116.35698292201513
+Temperatura: 33.1966
+Humedad: 52.7755
+Promedio de vegetación: 0.0
+------------------------
+Imagen 15:
+Fecha/hora: 2023-04-29 17:05:47.932055
+Latitud: 26.22817885710346
+Longitud: 117.72819410552724
+Temperatura: 33.2862
+Humedad: 52.7694
+Promedio de vegetación: 0.0
+------------------------
+Imagen 16:
+Fecha/hora: 2023-04-29 17:06:18.437085
+Latitud: 27.650501591630697
+Longitud: 119.13614270937303
+Temperatura: 33.2683
+Humedad: 53.1924
+Promedio de vegetación: 0.0
+------------------------
+Imagen 17:
+Fecha/hora: 2023-04-29 17:06:48.945046
+Latitud: 29.055221331096398
+Longitud: 120.58410649293457
+Temperatura: 33.3578
+Humedad: 52.9226
+Promedio de vegetación: 0.0
+------------------------
+Imagen 18:
+Fecha/hora: 2023-04-29 17:07:19.455672
+Latitud: 30.44078693903643
+Longitud: 122.07506442730606
+Temperatura: 33.2324
+Humedad: 52.7602
+Promedio de vegetación: 0.0
+------------------------
+Imagen 19:
+Fecha/hora: 2023-04-29 17:07:49.949277
+Latitud: 31.80467449364321
+Longitud: 123.6110946942222
+Temperatura: 33.1966
+Humedad: 52.8123
+Promedio de vegetación: 0.0
+------------------------
+Imagen 20:
+Fecha/hora: 2023-04-29 17:08:20.473131
+Latitud: 33.147214368157265
+Longitud: 125.19775977465423
+Temperatura: 33.2504
+Humedad: 52.9196
+Promedio de vegetación: 0.0
+------------------------
+Imagen 21:
+Fecha/hora: 2023-04-29 17:08:50.979688
+Latitud: 34.46443851380605
+Longitud: 126.8358810047746
+Temperatura: 33.2324
+Humedad: 52.8889
+Promedio de vegetación: 0.0
+------------------------
+Imagen 22:
+Fecha/hora: 2023-04-29 17:09:21.479344
+Latitud: 35.754800466200734
+Longitud: 128.52923244378215
+Temperatura: 33.0713
+Humedad: 52.9134
+Promedio de vegetación: 0.0
+------------------------
+Imagen 23:
+Fecha/hora: 2023-04-29 17:09:51.993602
+Latitud: 37.017052089176154
+Longitud: 130.2823595739959
+Temperatura: 33.1429
+Humedad: 52.7602
+Promedio de vegetación: 0.0
+------------------------
+Imagen 24:
+Fecha/hora: 2023-04-29 17:10:22.499555
+Latitud: 38.24795046022802
+Longitud: 132.09730272112532
+Temperatura: 33.1429
+Humedad: 52.8583
+Promedio de vegetación: 0.0
+------------------------
+Imagen 25:
+Fecha/hora: 2023-04-29 17:10:53.006499
+Latitud: 39.44542390940248
+Longitud: 133.97785576517703
+Temperatura: 33.2683
+Humedad: 52.7142
+Promedio de vegetación: 0.0
+------------------------
+Imagen 26:
+Fecha/hora: 2023-04-29 17:11:23.512564
+Latitud: 40.60679426869782
+Longitud: 135.9270767655121
+Temperatura: 33.125
+Humedad: 52.938
+Promedio de vegetación: 0.0
+------------------------
+Imagen 27:
+Fecha/hora: 2023-04-29 17:11:54.021284
+Latitud: 41.72945169512879
+Longitud: 137.94824188462144
+Temperatura: 33.0713
+Humedad: 52.7541
+Promedio de vegetación: 0.0
+------------------------
+Imagen 28:
+Fecha/hora: 2023-04-29 17:12:24.509307
+Latitud: 42.809651805681426
+Longitud: 140.04249339879917
+Temperatura: 33.125
+Humedad: 52.8859
+Promedio de vegetación: 0.0
+------------------------
+Imagen 29:
+Fecha/hora: 2023-04-29 17:12:55.033345
+Latitud: 43.84629126299777
+Longitud: 142.21618310511602
+Temperatura: 33.1608
+Humedad: 52.8246
+Promedio de vegetación: 0.0
+------------------------
+Imagen 30:
+Fecha/hora: 2023-04-29 17:13:25.540843
+Latitud: 44.83435663723587
+Longitud: 144.4676680603331
+Temperatura: 33.2145
+Humedad: 52.8889
+Promedio de vegetación: 0.03805631763450693
+------------------------
+Imagen 31:
+Fecha/hora: 2023-04-29 17:13:56.049904
+Latitud: 45.77113369671843
+Longitud: 146.79963502795798
+Temperatura: 33.1071
+Humedad: 52.8889
+Promedio de vegetación: 0.03421020042676421
+------------------------
+Imagen 32:
+Fecha/hora: 2023-04-29 17:14:26.565401
+Latitud: 46.65331407229794
+Longitud: 149.21319710347254
+Temperatura: 33.2683
+Humedad: 53.1709
+Promedio de vegetación: 0.03076893766194178
+------------------------
+Imagen 33:
+Fecha/hora: 2023-04-29 17:14:57.070297
+Latitud: 47.47691947469157
+Longitud: 151.70689095456245
+Temperatura: 33.125
+Humedad: 52.8429
+Promedio de vegetación: 0.029351947111720775
+------------------------
+Imagen 34:
+Fecha/hora: 2023-04-29 17:15:27.578139
+Latitud: 48.23880979036531
+Longitud: 154.28073055636233
+Temperatura: 33.0713
+Humedad: 53.1096
+Promedio de vegetación: 0.027732529340039627
+------------------------
+Imagen 35:
+Fecha/hora: 2023-04-29 17:15:58.078886
+Latitud: 48.935217795691514
+Longitud: 156.93161973968088
+Temperatura: 33.1787
+Humedad: 52.941
+Promedio de vegetación: 0.025100975461057766
+------------------------
+Imagen 36:
+Fecha/hora: 2023-04-29 17:16:28.579288
+Latitud: 49.56292232470665
+Longitud: 159.6569009733988
+Temperatura: 33.0892
+Humedad: 52.5548
+Promedio de vegetación: 0.019433013260173753
+------------------------
+Imagen 37:
+Fecha/hora: 2023-04-29 17:16:59.091525
+Latitud: 50.1187901202136
+Longitud: 162.4528661661216
+Temperatura: 33.0892
+Humedad: 52.7939
+Promedio de vegetación: 0.00931165218716659
+------------------------
+Imagen 38:
+Fecha/hora: 2023-04-29 17:17:29.600508
+Latitud: 50.599434663774915
+Longitud: 165.31223068453593
+Temperatura: 33.2145
+Humedad: 52.8368
+Promedio de vegetación: 0.005060680536503582
+------------------------
+Imagen 39:
+Fecha/hora: 2023-04-29 17:18:00.103530
+Latitud: 51.002023111569244
+Longitud: 168.22734730567745
+Temperatura: 33.0892
+Humedad: 53.0269
+Promedio de vegetación: 1.3348050983081847
+------------------------
+Imagen 40:
+Fecha/hora: 2023-04-29 17:18:30.596885
+Latitud: 51.32410253874732
+Longitud: 171.18924534609408
+Temperatura: 33.1787
+Humedad: 52.7908
+Promedio de vegetación: 53.07236892242036
+------------------------
+Imagen 41:
+Fecha/hora: 2023-04-29 17:19:01.082380
+Latitud: 51.56370717329941
+Longitud: 174.1882495853844
+Temperatura: 33.1608
+Humedad: 52.8399
+Promedio de vegetación: 162.75128362673374
+------------------------
+Imagen 42:
+Fecha/hora: 2023-04-29 17:19:31.569773
+Latitud: 51.71937402261567
+Longitud: 177.2146500005603
+Temperatura: 33.0176
+Humedad: 52.8613
+Promedio de vegetación: 129.2827765393995
+------------------------
+Imagen 43:
+Fecha/hora: 2023-04-29 17:20:02.024761
+Latitud: 51.79001619825453
+Longitud: -179.7461697125188
+Temperatura: 33.125
+Humedad: 52.8154
+Promedio de vegetación: 114.40457818930041
+------------------------
+Imagen 44:
+Fecha/hora: 2023-04-29 17:20:32.412387
+Latitud: 51.775486532316215
+Longitud: -176.71027887347222
+Temperatura: 33.0534
+Humedad: 52.9747
+Promedio de vegetación: 170.23441072245083
+------------------------
+Imagen 45:
+Fecha/hora: 2023-04-29 17:21:02.868674
+Latitud: 51.67581380427525
+Longitud: -173.67514011943373
+Temperatura: 33.0892
+Humedad: 53.0943
+Promedio de vegetación: 237.7586662665752
+------------------------
+Imagen 46:
+Fecha/hora: 2023-04-29 17:21:33.319814
+Latitud: 51.491650293913274
+Longitud: -170.66032805572428
+Temperatura: 33.1608
+Humedad: 53.1311
+Promedio de vegetación: 249.5134125895443
+------------------------
+Imagen 47:
+Fecha/hora: 2023-04-29 17:22:03.769352
+Latitud: 51.22419908544673
+Longitud: -167.67631675926032
+Temperatura: 33.0176
+Humedad: 53.1096
+Promedio de vegetación: 249.65571892623075
+------------------------
+Imagen 48:
+Fecha/hora: 2023-04-29 17:22:34.213716
+Latitud: 50.87525847330994
+Longitud: -164.7340143273709
+Temperatura: 33.1608
+Humedad: 53.0514
+Promedio de vegetación: 231.54030445054107
+------------------------
+Imagen 49:
+Fecha/hora: 2023-04-29 17:23:04.684878
+Latitud: 50.44655872312314
+Longitud: -161.839691316973
+Temperatura: 33.125
+Humedad: 53.2476
+Promedio de vegetación: 225.17498047172688
+------------------------
+Imagen 50:
+Fecha/hora: 2023-04-29 17:23:35.136625
+Latitud: 49.941298140386145
+Longitud: -159.00590397957373
+Temperatura: 33.125
+Humedad: 52.8429
+Promedio de vegetación: 240.77564157521718
+------------------------
+Imagen 51:
+Fecha/hora: 2023-04-29 17:24:05.602250
+Latitud: 49.36185966835568
+Longitud: -156.23645594907336
+Temperatura: 33.125
+Humedad: 52.9441
+Promedio de vegetación: 207.157135916781
+------------------------
+Imagen 52:
+Fecha/hora: 2023-04-29 17:24:36.159072
+Latitud: 48.7095526458678
+Longitud: -153.53016515944765
+Temperatura: 33.125
+Humedad: 53.1188
+Promedio de vegetación: 205.8350837334248
+------------------------
+Imagen 53:
+Fecha/hora: 2023-04-29 17:25:06.614003
+Latitud: 47.99189816631177
+Longitud: -150.90838365949762
+Temperatura: 33.1608
+Humedad: 53.0606
+Promedio de vegetación: 200.74505124980948
+------------------------
+Imagen 54:
+Fecha/hora: 2023-04-29 17:25:37.064170
+Latitud: 47.210412692004695
+Longitud: -148.36528888608245
+Temperatura: 33.1608
+Humedad: 53.1679
+Promedio de vegetación: 133.33030883249504
+------------------------
+Imagen 55:
+Fecha/hora: 2023-04-29 17:26:07.507083
+Latitud: 46.36869543162807
+Longitud: -145.90281214744462
+Temperatura: 33.1966
+Humedad: 53.22
+Promedio de vegetación: 146.81722488949856
+------------------------
+Imagen 56:
+Fecha/hora: 2023-04-29 17:26:37.949557
+Latitud: 45.47008969010378
+Longitud: -143.52113031167048
+Temperatura: 33.2504
+Humedad: 53.4529
+Promedio de vegetación: 205.8415614045115
+------------------------
+Imagen 57:
+Fecha/hora: 2023-04-29 17:27:08.389597
+Latitud: 44.51812267477656
+Longitud: -141.22021596829958
+Temperatura: 33.3936
+Humedad: 53.0207
+Promedio de vegetación: 229.59174001676573
+------------------------
+Imagen 58:
+Fecha/hora: 2023-04-29 17:27:38.821378
+Latitud: 43.51637712508515
+Longitud: -138.99950183034542
+Temperatura: 33.2683
+Humedad: 53.1035
+Promedio de vegetación: 239.76148119570186
+------------------------
+Imagen 59:
+Fecha/hora: 2023-04-29 17:28:09.239354
+Latitud: 42.4683450823186
+Longitud: -136.8576877336762
+Temperatura: 33.1966
+Humedad: 53.1525
+Promedio de vegetación: 196.34286646471574
+------------------------
+Imagen 60:
+Fecha/hora: 2023-04-29 17:28:39.686890
+Latitud: 41.375651822941514
+Longitud: -134.78968985492412
+Temperatura: 33.322
+Humedad: 52.9809
+Promedio de vegetación: 121.41746684956561
+------------------------
+Imagen 61:
+Fecha/hora: 2023-04-29 17:29:10.109253
+Latitud: 40.24323968718958
+Longitud: -132.79669873797133
+Temperatura: 33.3041
+Humedad: 53.2445
+Promedio de vegetación: 162.66950302926384
+------------------------
+Imagen 62:
+Fecha/hora: 2023-04-29 17:29:40.528248
+Latitud: 39.0732008441107
+Longitud: -130.8743585983356
+Temperatura: 33.5011
+Humedad: 53.1954
+Promedio de vegetación: 198.6051930917543
+------------------------
+Imagen 63:
+Fecha/hora: 2023-04-29 17:30:10.962852
+Latitud: 37.867476912847586
+Longitud: -129.01846937695615
+Temperatura: 33.3399
+Humedad: 53.2322
+Promedio de vegetación: 182.05190948407255
+------------------------
+Imagen 64:
+Fecha/hora: 2023-04-29 17:30:41.379397
+Latitud: 36.629921595295784
+Longitud: -127.22785994862805
+Temperatura: 33.4473
+Humedad: 53.1985
+Promedio de vegetación: 219.50256487197075
+------------------------
+Imagen 65:
+Fecha/hora: 2023-04-29 17:31:11.788028
+Latitud: 35.36255833989593
+Longitud: -125.49860621680855
+Temperatura: 33.3936
+Humedad: 53.2016
+Promedio de vegetación: 244.1926130734644
+------------------------
+Imagen 66:
+Fecha/hora: 2023-04-29 17:31:42.209332
+Latitud: 34.06674897538543
+Longitud: -123.8262438942006
+Temperatura: 33.3757
+Humedad: 53.128
+Promedio de vegetación: 251.47553964715743
+------------------------
+Imagen 67:
+Fecha/hora: 2023-04-29 17:32:12.630668
+Latitud: 32.74510847249736
+Longitud: -122.20821513810006
+Temperatura: 33.5369
+Humedad: 53.3181
+Promedio de vegetación: 250.3915418762384
+------------------------
+Imagen 68:
+Fecha/hora: 2023-04-29 17:32:43.019402
+Latitud: 31.401035737920825
+Longitud: -120.64290572425047
+Temperatura: 33.4652
+Humedad: 53.2138
+Promedio de vegetación: 248.0607948483463
+------------------------
+Imagen 69:
+Fecha/hora: 2023-04-29 17:33:13.427772
+Latitud: 30.03407459279367
+Longitud: -119.1244213859782
+Temperatura: 33.5369
+Humedad: 53.2353
+Promedio de vegetación: 247.17112721002897
+------------------------
+Imagen 70:
+Fecha/hora: 2023-04-29 17:33:43.842621
+Latitud: 28.646496377756783
+Longitud: -117.6503710339195
+Temperatura: 33.5727
+Humedad: 53.3824
+Promedio de vegetación: 248.42071044810243
+------------------------
+Imagen 71:
+Fecha/hora: 2023-04-29 17:34:14.268056
+Latitud: 27.239698031870386
+Longitud: -116.21757335157103
+Temperatura: 33.716
+Humedad: 52.938
+Promedio de vegetación: 250.24599670400855
+------------------------
+Imagen 72:
+Fecha/hora: 2023-04-29 17:34:44.679344
+Latitud: 25.816306198810224
+Longitud: -114.82424741297021
+Temperatura: 33.6801
+Humedad: 53.0299
+Promedio de vegetación: 233.66842182975157
+------------------------
+Imagen 73:
+Fecha/hora: 2023-04-29 17:35:15.112018
+Latitud: 24.376089656252304
+Longitud: -113.46598962208557
+Temperatura: 33.7339
+Humedad: 53.269
+Promedio de vegetación: 233.8906869189148
+------------------------
+Imagen 74:
+Fecha/hora: 2023-04-29 17:35:45.530826
+Latitud: 22.922010853789068
+Longitud: -112.14165133156523
+Temperatura: 33.7339
+Humedad: 53.174
+Promedio de vegetación: 212.0560771033379
+------------------------
+Imagen 75:
+Fecha/hora: 2023-04-29 17:36:15.959316
+Latitud: 21.454187241224215
+Longitud: -110.84758421034142
+Temperatura: 33.8413
+Humedad: 53.4437
+Promedio de vegetación: 162.82132344535893
+------------------------
+Imagen 76:
+Fecha/hora: 2023-04-29 17:36:46.369572
+Latitud: 19.975168534657325
+Longitud: -109.58247341429507
+Temperatura: 33.9129
+Humedad: 53.2843
+Promedio de vegetación: 157.34485739597622
+------------------------
+Imagen 77:
+Fecha/hora: 2023-04-29 17:37:16.821060
+Latitud: 18.483121661037444
+Longitud: -108.34142408217781
+Temperatura: 33.8771
+Humedad: 53.1096
+Promedio de vegetación: 154.73820206523396
+------------------------
+Imagen 78:
+Fecha/hora: 2023-04-29 17:37:47.279669
+Latitud: 16.98076287485063
+Longitud: -107.12356919988244
+Temperatura: 34.0562
+Humedad: 53.033
+Promedio de vegetación: 142.7747532769395
+------------------------
+Imagen 79:
+Fecha/hora: 2023-04-29 17:38:17.738555
+Latitud: 15.469429868408174
+Longitud: -105.92694139734978
+Temperatura: 34.0204
+Humedad: 53.2292
+Promedio de vegetación: 190.0641813366865
+------------------------
+Imagen 80:
+Fecha/hora: 2023-04-29 17:38:48.169330
+Latitud: 13.95149159404854
+Longitud: -104.75045307374111
+Temperatura: 34.0741
+Humedad: 53.2445
+Promedio de vegetación: 230.88322568968144
+------------------------
+Imagen 81:
+Fecha/hora: 2023-04-29 17:39:18.598552
+Latitud: 12.426549087626762
+Longitud: -103.59095541969796
+Temperatura: 33.9129
+Humedad: 52.9441
+Promedio de vegetación: 201.02865178707515
+------------------------
+Imagen 82:
+Fecha/hora: 2023-04-29 17:39:49.039311
+Latitud: 10.894808787931058
+Longitud: -102.44591819693387
+Temperatura: 34.0025
+Humedad: 52.9196
+Promedio de vegetación: 120.72253419829295
+------------------------
+Imagen 83:
+Fecha/hora: 2023-04-29 17:40:19.481034
+Latitud: 9.357654135297198
+Longitud: -101.31378058618651
+Temperatura: 34.0204
+Humedad: 52.9165
+Promedio de vegetación: 147.64677164304223
+------------------------
+Imagen 84:
+Fecha/hora: 2023-04-29 17:40:49.916173
+Latitud: 7.816272570139559
+Longitud: -100.19288553314718
+Temperatura: 34.0025
+Humedad: 52.8951
+Promedio de vegetación: 225.66566405654626
+------------------------
+Imagen 85:
+Fecha/hora: 2023-04-29 17:41:20.343342
+Latitud: 6.271544373261578
+Longitud: -99.0814048473696
+Temperatura: 34.0025
+Humedad: 52.7694
+Promedio de vegetación: 195.3740497828075
+------------------------
+Imagen 86:
+Fecha/hora: 2023-04-29 17:41:50.774373
+Latitud: 4.723625964750796
+Longitud: -97.97704628745497
+Temperatura: 33.9846
+Humedad: 52.9625
+Promedio de vegetación: 192.1789385192806
+------------------------
+Imagen 87:
+Fecha/hora: 2023-04-29 17:42:21.159389
+Latitud: 3.1758338005367355
+Longitud: -96.87980466223289
+Temperatura: 34.0562
+Humedad: 53.3426
+Promedio de vegetación: 122.7243369913123
+------------------------
+Imagen 88:
+Fecha/hora: 2023-04-29 17:42:51.569936
+Latitud: 1.6252637953496
+Longitud: -95.78529446680753
+Temperatura: 34.1278
+Humedad: 53.1372
+Promedio de vegetación: 127.58198302469135
+------------------------
+Imagen 89:
+Fecha/hora: 2023-04-29 17:43:22.019118
+Latitud: 0.07199327795246055
+Longitud: -94.69128178791884
+Temperatura: 34.092
+Humedad: 52.938
+Promedio de vegetación: 99.11686957018748
+------------------------
+Imagen 90:
+Fecha/hora: 2023-04-29 17:43:52.460873
+Latitud: -1.480886418364352
+Longitud: -93.59765367444042
+Temperatura: 34.0741
+Humedad: 53.0606
+Promedio de vegetación: 132.779504362902
+------------------------
+Imagen 91:
+Fecha/hora: 2023-04-29 17:44:22.891836
+Latitud: -3.032493196111658
+Longitud: -92.50273909594591
+Temperatura: 34.0741
+Humedad: 53.079
+Promedio de vegetación: 124.72067424935223
+------------------------
+Imagen 92:
+Fecha/hora: 2023-04-29 17:44:53.314714
+Latitud: -4.582205937715624
+Longitud: -91.40467834536314
+Temperatura: 34.1457
+Humedad: 52.8583
+Promedio de vegetación: 128.0546505868008
+------------------------
+Imagen 93:
+Fecha/hora: 2023-04-29 17:45:23.743796
+Latitud: -6.13000658951327
+Longitud: -90.30116404340761
+Temperatura: 34.1995
+Humedad: 53.0514
+Promedio de vegetación: 82.12371161027282
+------------------------
+Imagen 94:
+Fecha/hora: 2023-04-29 17:45:54.176694
+Latitud: -7.675021310748621
+Longitud: -89.1904631174288
+Temperatura: 34.1995
+Humedad: 52.9288
+Promedio de vegetación: 109.33519328227405
+------------------------
+Imagen 95:
+Fecha/hora: 2023-04-29 17:46:24.609299
+Latitud: -9.216264560753013
+Longitud: -88.07088695553182
+Temperatura: 34.1457
+Humedad: 52.5579
+Promedio de vegetación: 105.39535227099528
+------------------------
+Imagen 96:
+Fecha/hora: 2023-04-29 17:46:55.032558
+Latitud: -10.752481355734924
+Longitud: -86.9409049249594
+Temperatura: 34.2711
+Humedad: 53.0269
+Promedio de vegetación: 118.90595231290962
+------------------------
+Imagen 97:
+Fecha/hora: 2023-04-29 17:47:25.472818
+Latitud: -12.284206730501527
+Longitud: -85.79760294939531
+Temperatura: 34.1816
+Humedad: 53.0391
+Promedio de vegetación: 131.06919676878525
+------------------------
+Imagen 98:
+Fecha/hora: 2023-04-29 17:47:55.903883
+Latitud: -13.809271046093935
+Longitud: -84.64000172618991
+Temperatura: 34.2353
+Humedad: 52.6744
+Promedio de vegetación: 163.0561390222527
+------------------------
+Imagen 99:
+Fecha/hora: 2023-04-29 17:48:26.330074
+Latitud: -15.32699562605078
+Longitud: -83.46594929091356
+Temperatura: 34.2353
+Humedad: 53.082
+Promedio de vegetación: 208.00692539247066
+------------------------
+Imagen 100:
+Fecha/hora: 2023-04-29 17:48:56.767268
+Latitud: -16.837366260477935
+Longitud: -82.27266351147705
+Temperatura: 34.3248
+Humedad: 52.8736
+Promedio de vegetación: 226.86059194482547
+------------------------
+Imagen 101:
+Fecha/hora: 2023-04-29 17:49:27.196970
+Latitud: -18.338417466584815
+Longitud: -81.05879018279035
+Temperatura: 34.2711
+Humedad: 52.9962
+Promedio de vegetación: 251.02594878829447
+------------------------
+Imagen 102:
+Fecha/hora: 2023-04-29 17:49:57.620402
+Latitud: -19.829261379234314
+Longitud: -79.82203567138238
+Temperatura: 34.3069
+Humedad: 52.6682
+Promedio de vegetación: 250.009966563786
+------------------------
+Imagen 103:
+Fecha/hora: 2023-04-29 17:50:28.033113
+Latitud: -21.30867602924884
+Longitud: -78.56026406200512
+Temperatura: 34.289
+Humedad: 52.892
+Promedio de vegetación: 241.3764455685109
+------------------------
+Imagen 104:
+Fecha/hora: 2023-04-29 17:50:58.467602
+Latitud: -22.77706403519426
+Longitud: -77.26977405538776
+Temperatura: 34.3069
+Humedad: 52.8981
+Promedio de vegetación: 232.87875323883554
+------------------------
+Imagen 105:
+Fecha/hora: 2023-04-29 17:51:28.886544
+Latitud: -24.231525970719932
+Longitud: -75.94958691751954
+Temperatura: 34.3248
+Humedad: 52.9196
+Promedio de vegetación: 228.450252914952
+------------------------
+Imagen 106:
+Fecha/hora: 2023-04-29 17:51:59.314113
+Latitud: -25.67194598507369
+Longitud: -74.59611018192714
+Temperatura: 34.4144
+Humedad: 52.9257
+Promedio de vegetación: 218.03921848803537
+------------------------
+Imagen 107:
+Fecha/hora: 2023-04-29 17:52:29.743333
+Latitud: -27.096771203216512
+Longitud: -73.20685120688914
+Temperatura: 34.4502
+Humedad: 52.6222
+Promedio de vegetación: 171.78135954884925
+------------------------
+Imagen 108:
+Fecha/hora: 2023-04-29 17:53:00.173453
+Latitud: -28.504511120772086
+Longitud: -71.77909449375058
+Temperatura: 34.3069
+Humedad: 53.3303
+Promedio de vegetación: 167.34638155387898
+------------------------
+Imagen 109:
+Fecha/hora: 2023-04-29 17:53:30.615914
+Latitud: -29.89413969459566
+Longitud: -70.30943524788691
+Temperatura: 34.486
+Humedad: 52.8644
+Promedio de vegetación: 219.0918400396281
+------------------------
+Imagen 110:
+Fecha/hora: 2023-04-29 17:54:01.049317
+Latitud: -31.26317495412884
+Longitud: -68.79580991843793
+Temperatura: 34.3606
+Humedad: 52.8797
+Promedio de vegetación: 221.58614826246
+------------------------
+Imagen 111:
+Fecha/hora: 2023-04-29 17:54:31.493162
+Latitud: -32.61076725177805
+Longitud: -67.23418058860813
+Temperatura: 34.5397
+Humedad: 52.7816
+Promedio de vegetación: 225.3276105967078
+------------------------
+Imagen 112:
+Fecha/hora: 2023-04-29 17:55:01.929769
+Latitud: -33.93445092567315
+Longitud: -65.62210532819202
+Temperatura: 34.4323
+Humedad: 52.8276
+Promedio de vegetación: 219.5819163427831
+------------------------
+Imagen 113:
+Fecha/hora: 2023-04-29 17:55:32.334899
+Latitud: -35.230955719781804
+Longitud: -63.95813597244713
+Temperatura: 34.5397
+Humedad: 52.6161
+Promedio de vegetación: 209.55063538332573
+------------------------
+Imagen 114:
+Fecha/hora: 2023-04-29 17:56:02.743323
+Latitud: -36.499965829732204
+Longitud: -62.236891932735254
+Temperatura: 34.5039
+Humedad: 53.0483
+Promedio de vegetación: 238.4718173677793
+------------------------
+Imagen 115:
+Fecha/hora: 2023-04-29 17:56:33.160046
+Latitud: -37.73948866449614
+Longitud: -60.45473582308228
+Temperatura: 34.4681
+Humedad: 52.5947
+Promedio de vegetación: 234.70343221307726
+------------------------
+Imagen 116:
+Fecha/hora: 2023-04-29 17:57:03.612040
+Latitud: -38.94814573005426
+Longitud: -58.60676576881811
+Temperatura: 34.5934
+Humedad: 52.8368
+Promedio de vegetación: 168.69515413046793
+------------------------
+Imagen 117:
+Fecha/hora: 2023-04-29 17:57:34.059901
+Latitud: -40.12183652078857
+Longitud: -56.6920428284797
+Temperatura: 34.5576
+Humedad: 52.613
+Promedio de vegetación: 128.2663894604481
+------------------------
+Imagen 118:
+Fecha/hora: 2023-04-29 17:58:04.506459
+Latitud: -41.25799004694776
+Longitud: -54.70738489024631
+Temperatura: 34.6293
+Humedad: 52.7173
+Promedio de vegetación: 153.42161541685718
+------------------------
+Imagen 119:
+Fecha/hora: 2023-04-29 17:58:34.955348
+Latitud: -42.35393156462898
+Longitud: -52.64968039773232
+Temperatura: 34.5039
+Humedad: 52.6989
+Promedio de vegetación: 186.39599765660722
+------------------------
+Imagen 120:
+Fecha/hora: 2023-04-29 17:59:05.397185
+Latitud: -43.40635727104805
+Longitud: -50.517034623430796
+Temperatura: 34.4681
+Humedad: 52.6927
+Promedio de vegetación: 194.58923944520652
+------------------------
+Imagen 121:
+Fecha/hora: 2023-04-29 17:59:35.838786
+Latitud: -44.41241310917522
+Longitud: -48.306820687894884
+Temperatura: 34.4681
+Humedad: 52.6161
+Promedio de vegetación: 209.56561499771377
+------------------------
+Imagen 122:
+Fecha/hora: 2023-04-29 18:00:06.281961
+Latitud: -45.36890123206506
+Longitud: -46.017276036954186
+Temperatura: 34.4144
+Humedad: 52.6989
+Promedio de vegetación: 232.97510859625058
+------------------------
+Imagen 123:
+Fecha/hora: 2023-04-29 18:00:36.719341
+Latitud: -46.272272420124835
+Longitud: -43.647889981900136
+Temperatura: 34.4681
+Humedad: 52.7541
+Promedio de vegetación: 249.888105376467
+------------------------
+Imagen 124:
+Fecha/hora: 2023-04-29 18:01:07.149318
+Latitud: -47.11906452664512
+Longitud: -41.19861732322169
+Temperatura: 34.5039
+Humedad: 52.5609
+Promedio de vegetación: 251.31663427831123
+------------------------
+Imagen 125:
+Fecha/hora: 2023-04-29 18:01:37.612650
+Latitud: -47.906856252140166
+Longitud: -38.66670215615376
+Temperatura: 34.486
+Humedad: 52.5732
+Promedio de vegetación: 248.46706628181678
+------------------------
+Imagen 126:
+Fecha/hora: 2023-04-29 18:02:08.064698
+Latitud: -48.63094411874809
+Longitud: -36.05740349448863
+Temperatura: 34.3965
+Humedad: 52.6222
+Promedio de vegetación: 241.04669162475233
+------------------------
+Imagen 127:
+Fecha/hora: 2023-04-29 18:02:38.522022
+Latitud: -49.2882920225583
+Longitud: -33.37214137993176
+Temperatura: 34.4323
+Humedad: 52.8705
+Promedio de vegetación: 248.369496361073
+------------------------
+Imagen 128:
+Fecha/hora: 2023-04-29 18:03:08.952645
+Latitud: -49.874940015837424
+Longitud: -30.61789155214911
+Temperatura: 34.5576
+Humedad: 52.6284
+Promedio de vegetación: 244.27196454427678
+------------------------
+Imagen 129:
+Fecha/hora: 2023-04-29 18:03:39.414274
+Latitud: -50.38884290997544
+Longitud: -27.794652653716224
+Temperatura: 34.3248
+Humedad: 52.8
+Promedio de vegetación: 242.21975737311385
+------------------------
+Imagen 130:
+Fecha/hora: 2023-04-29 18:04:09.864714
+Latitud: -50.82626926842181
+Longitud: -24.913077844235957
+Temperatura: 34.3785
+Humedad: 52.7479
+Promedio de vegetación: 223.24503934232587
+------------------------
+Imagen 131:
+Fecha/hora: 2023-04-29 18:04:40.329349
+Latitud: -51.18497070331553
+Longitud: -21.978680632907
+Temperatura: 34.3965
+Humedad: 52.4966
+Promedio de vegetación: 121.34985615759793
+------------------------
+Imagen 132:
+Fecha/hora: 2023-04-29 18:05:10.809144
+Latitud: -51.462612768769176
+Longitud: -19.00049093291599
+Temperatura: 34.3606
+Humedad: 52.5242
+Promedio de vegetación: 36.672727575826855
+------------------------
+Imagen 133:
+Fecha/hora: 2023-04-29 18:05:41.259312
+Latitud: -51.65706602093324
+Longitud: -15.99312888419428
+Temperatura: 34.3785
+Humedad: 52.9134
+Promedio de vegetación: 2.6843873837829597
+------------------------
+Imagen 134:
+Fecha/hora: 2023-04-29 18:06:11.734827
+Latitud: -51.76741963403792
+Longitud: -12.962246561374474
+Temperatura: 34.3965
+Humedad: 52.9502
+Promedio de vegetación: 0.04250971650663009
+------------------------
+Imagen 135:
+Fecha/hora: 2023-04-29 18:06:42.226773
+Latitud: -51.7927330627125
+Longitud: -9.920275103112246
+Temperatura: 34.3606
+Humedad: 52.5977
+Promedio de vegetación: 0.03663932708428593
+------------------------
+Imagen 136:
+Fecha/hora: 2023-04-29 18:07:12.726738
+Latitud: -51.73272791352408
+Longitud: -6.879965975672876
+Temperatura: 34.3785
+Humedad: 52.7418
+Promedio de vegetación: 0.03846117207742722
+------------------------
+Imagen 137:
+Fecha/hora: 2023-04-29 18:07:43.226141
+Latitud: -51.58779624023554
+Longitud: -3.8539962750253762
+Temperatura: 34.2532
+Humedad: 52.7387
+Promedio de vegetación: 0.05829903978052126
+------------------------
+Imagen 138:
+Fecha/hora: 2023-04-29 18:08:13.722258
+Latitud: -51.35893513381347
+Longitud: -0.8540858760466056
+Temperatura: 34.3785
+Humedad: 52.6989
+Promedio de vegetación: 0.1141689529035208
+------------------------
+Imagen 139:
+Fecha/hora: 2023-04-29 18:08:44.217427
+Latitud: -51.047640390817186
+Longitud: 2.109248718829784
+Temperatura: 34.2532
+Humedad: 52.7816
+Promedio de vegetación: 0.1637636221612559
+------------------------
+Imagen 140:
+Fecha/hora: 2023-04-29 18:09:14.704544
+Latitud: -50.65599491901244
+Longitud: 5.0255252288673535
+Temperatura: 34.2711
+Humedad: 52.6805
+Promedio de vegetación: 0.19959324035970127
+------------------------
+Imagen 141:
+Fecha/hora: 2023-04-29 18:09:45.186119
+Latitud: -50.186446827104206
+Longitud: 7.8861406292108605
+Temperatura: 34.2711
+Humedad: 52.6835
+Promedio de vegetación: 0.18562576207895137
+------------------------
+Imagen 142:
+Fecha/hora: 2023-04-29 18:10:15.665175
+Latitud: -49.64171485981622
+Longitud: 10.684096884972329
+Temperatura: 34.2532
+Humedad: 52.9257
+Promedio de vegetación: 0.09574807575064777
+------------------------
+Imagen 143:
+Fecha/hora: 2023-04-29 18:10:46.159340
+Latitud: -49.024487982743715
+Longitud: 13.414782069140864
+Temperatura: 34.1816
+Humedad: 52.9073
+Promedio de vegetación: 0.0
+------------------------
+Imagen 144:
+Fecha/hora: 2023-04-29 18:11:16.639310
+Latitud: -48.33861533552311
+Longitud: 16.07074028616462
+Temperatura: 34.1816
+Humedad: 52.6713
+Promedio de vegetación: 0.0
+------------------------
+Imagen 145:
+Fecha/hora: 2023-04-29 18:11:47.144929
+Latitud: -47.58657075143251
+Longitud: 18.651859720363735
+Temperatura: 34.1995
+Humedad: 52.8154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 146:
+Fecha/hora: 2023-04-29 18:12:17.655641
+Latitud: -46.77224512707759
+Longitud: 21.153985982548573
+Temperatura: 34.1637
+Humedad: 52.8675
+Promedio de vegetación: 0.0
+------------------------
+Imagen 147:
+Fecha/hora: 2023-04-29 18:12:48.164277
+Latitud: -45.899339610601956
+Longitud: 23.575290523042636
+Temperatura: 34.1816
+Humedad: 52.9226
+Promedio de vegetación: 0.0
+------------------------
+Imagen 148:
+Fecha/hora: 2023-04-29 18:13:18.669522
+Latitud: -44.9713920690268
+Longitud: 25.915469499633247
+Temperatura: 34.289
+Humedad: 52.331
+Promedio de vegetación: 0.0
+------------------------
+Imagen 149:
+Fecha/hora: 2023-04-29 18:13:49.178020
+Latitud: -43.99162907701331
+Longitud: 28.175635102101523
+Temperatura: 34.1278
+Humedad: 52.6835
+Promedio de vegetación: 0.0
+------------------------
+Imagen 150:
+Fecha/hora: 2023-04-29 18:14:19.664570
+Latitud: -42.96423406051231
+Longitud: 30.355309498028245
+Temperatura: 34.1637
+Humedad: 53.1341
+Promedio de vegetación: 0.0
+------------------------
+Imagen 151:
+Fecha/hora: 2023-04-29 18:14:50.184545
+Latitud: -41.89051850405141
+Longitud: 32.460317525685184
+Temperatura: 34.0025
+Humedad: 52.8981
+Promedio de vegetación: 0.0
+------------------------
+Imagen 152:
+Fecha/hora: 2023-04-29 18:15:20.687408
+Latitud: -40.775294855860636
+Longitud: 34.48947128909834
+Temperatura: 34.092
+Humedad: 52.9778
+Promedio de vegetación: 0.0
+------------------------
+Imagen 153:
+Fecha/hora: 2023-04-29 18:15:51.195031
+Latitud: -39.62071871484075
+Longitud: 36.44697225921929
+Temperatura: 34.0025
+Humedad: 53.0882
+Promedio de vegetación: 0.0
+------------------------
+Imagen 154:
+Fecha/hora: 2023-04-29 18:16:21.699775
+Latitud: -38.429831501758706
+Longitud: 38.3353132217758
+Temperatura: 33.8592
+Humedad: 53.0483
+Promedio de vegetación: 0.0
+------------------------
+Imagen 155:
+Fecha/hora: 2023-04-29 18:16:52.205041
+Latitud: -37.20512786135796
+Longitud: 40.157840117121616
+Temperatura: 34.1099
+Humedad: 53.1403
+Promedio de vegetación: 0.0
+------------------------
+Imagen 156:
+Fecha/hora: 2023-04-29 18:17:22.710881
+Latitud: -35.94906690013165
+Longitud: 41.91780007186043
+Temperatura: 33.895
+Humedad: 53.2353
+Promedio de vegetación: 0.0
+------------------------
+Imagen 157:
+Fecha/hora: 2023-04-29 18:17:53.216679
+Latitud: -34.66394637841729
+Longitud: 43.6185079990232
+Temperatura: 33.8413
+Humedad: 53.2445
+Promedio de vegetación: 0.0
+------------------------
+Imagen 158:
+Fecha/hora: 2023-04-29 18:18:23.686636
+Latitud: -33.35351802615596
+Longitud: 45.26133227291763
+Temperatura: 33.9309
+Humedad: 53.3058
+Promedio de vegetación: 0.0
+------------------------
+Imagen 159:
+Fecha/hora: 2023-04-29 18:18:54.156700
+Latitud: -32.01828514166656
+Longitud: 46.85160698420975
+Temperatura: 33.8413
+Humedad: 53.2935
+Promedio de vegetación: 0.0
+------------------------
+Imagen 160:
+Fecha/hora: 2023-04-29 18:19:24.630941
+Latitud: -30.65995331474026
+Longitud: 48.39275442724309
+Temperatura: 33.9488
+Humedad: 53.2782
+Promedio de vegetación: 0.0
+------------------------
+Imagen 161:
+Fecha/hora: 2023-04-29 18:19:55.096367
+Latitud: -29.28085553865327
+Longitud: 49.88729506607358
+Temperatura: 33.8234
+Humedad: 53.551
+Promedio de vegetación: 0.0
+------------------------
+Imagen 162:
+Fecha/hora: 2023-04-29 18:20:25.559457
+Latitud: -27.882373942764875
+Longitud: 51.33861818173989
+Temperatura: 33.8234
+Humedad: 53.3273
+Promedio de vegetación: 0.0
+------------------------
+Imagen 163:
+Fecha/hora: 2023-04-29 18:20:56.009300
+Latitud: -26.466550019054917
+Longitud: 52.74921788768229
+Temperatura: 33.8413
+Humedad: 53.6276
+Promedio de vegetación: 0.0
+------------------------
+Imagen 164:
+Fecha/hora: 2023-04-29 18:21:26.478834
+Latitud: -25.033312325212663
+Longitud: 54.12345330994468
+Temperatura: 33.8055
+Humedad: 53.5725
+Promedio de vegetación: 0.0
+------------------------
+Imagen 165:
+Fecha/hora: 2023-04-29 18:21:56.947466
+Latitud: -23.58495359129553
+Longitud: 55.463142120478565
+Temperatura: 33.7339
+Humedad: 53.364
+Promedio de vegetación: 0.0
+------------------------
+Imagen 166:
+Fecha/hora: 2023-04-29 18:22:27.417446
+Latitud: -22.12264701622838
+Longitud: 56.771039359018566
+Temperatura: 33.6981
+Humedad: 53.3027
+Promedio de vegetación: 0.0
+------------------------
+Imagen 167:
+Fecha/hora: 2023-04-29 18:22:57.859316
+Latitud: -20.64902047558839
+Longitud: 58.04848217629336
+Temperatura: 33.716
+Humedad: 53.6093
+Promedio de vegetación: 0.0
+------------------------
+Imagen 168:
+Fecha/hora: 2023-04-29 18:23:28.328642
+Latitud: -19.162529898814896
+Longitud: 59.300254829097284
+Temperatura: 33.716
+Humedad: 53.7411
+Promedio de vegetación: 0.0
+------------------------
+Imagen 169:
+Fecha/hora: 2023-04-29 18:23:58.798476
+Latitud: -17.665535476708648
+Longitud: 60.527594002024316
+Temperatura: 33.716
+Humedad: 53.6154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 170:
+Fecha/hora: 2023-04-29 18:24:29.273346
+Latitud: -16.15884215726034
+Longitud: 61.73295168083011
+Temperatura: 33.5906
+Humedad: 53.5878
+Promedio de vegetación: 0.0
+------------------------
+Imagen 171:
+Fecha/hora: 2023-04-29 18:24:59.747185
+Latitud: -14.643693358266287
+Longitud: 62.918308053741484
+Temperatura: 33.5906
+Humedad: 53.8024
+Promedio de vegetación: 0.0
+------------------------
+Imagen 172:
+Fecha/hora: 2023-04-29 18:25:30.216744
+Latitud: -13.121209046649103
+Longitud: 64.08564888510936
+Temperatura: 33.4832
+Humedad: 53.7503
+Promedio de vegetación: 0.0
+------------------------
+Imagen 173:
+Fecha/hora: 2023-04-29 18:26:00.686549
+Latitud: -11.592039016817006
+Longitud: 65.2372246103496
+Temperatura: 33.6801
+Humedad: 53.7227
+Promedio de vegetación: 0.0
+------------------------
+Imagen 174:
+Fecha/hora: 2023-04-29 18:26:31.159363
+Latitud: -10.056905528574067
+Longitud: 66.37513452937884
+Temperatura: 33.5906
+Humedad: 53.9526
+Promedio de vegetación: 0.0
+------------------------
+Imagen 175:
+Fecha/hora: 2023-04-29 18:27:01.622826
+Latitud: -8.517306322020069
+Longitud: 67.50083552704822
+Temperatura: 33.4652
+Humedad: 53.8422
+Promedio de vegetación: 0.0
+------------------------
+Imagen 176:
+Fecha/hora: 2023-04-29 18:27:32.038199
+Latitud: -6.9758598331033435
+Longitud: 68.61493679918472
+Temperatura: 33.6264
+Humedad: 53.971
+Promedio de vegetación: 0.0
+------------------------
+Imagen 177:
+Fecha/hora: 2023-04-29 18:28:02.501162
+Latitud: -5.428517994020581
+Longitud: 69.722786669562
+Temperatura: 33.5727
+Humedad: 54.0752
+Promedio de vegetación: 0.0
+------------------------
+Imagen 178:
+Fecha/hora: 2023-04-29 18:28:32.966088
+Latitud: -3.8787055103138917
+Longitud: 70.8242868629928
+Temperatura: 33.5369
+Humedad: 53.9188
+Promedio de vegetación: 0.0
+------------------------
+Imagen 179:
+Fecha/hora: 2023-04-29 18:29:03.434472
+Latitud: -2.326703054646898
+Longitud: 71.92157868430284
+Temperatura: 33.5727
+Humedad: 54.1763
+Promedio de vegetación: 0.0
+------------------------
+Imagen 180:
+Fecha/hora: 2023-04-29 18:29:33.906097
+Latitud: -0.7733842101081682
+Longitud: 73.01635793254037
+Temperatura: 33.5369
+Humedad: 53.9005
+Promedio de vegetación: 0.0
+------------------------
+Imagen 181:
+Fecha/hora: 2023-04-29 18:30:04.377849
+Latitud: 0.7803423568824008
+Longitud: 74.11028434611073
+Temperatura: 33.4473
+Humedad: 54.1671
+Promedio de vegetación: 0.0
+------------------------
+Imagen 182:
+Fecha/hora: 2023-04-29 18:30:34.843367
+Latitud: 2.3334122970432234
+Longitud: 75.20490387942198
+Temperatura: 33.4294
+Humedad: 54.302
+Promedio de vegetación: 0.0
+------------------------
+Imagen 183:
+Fecha/hora: 2023-04-29 18:31:05.321302
+Latitud: 3.8860403249899376
+Longitud: 76.30267019249129
+Temperatura: 33.322
+Humedad: 54.0476
+Promedio de vegetación: 0.0
+------------------------
+Imagen 184:
+Fecha/hora: 2023-04-29 18:31:35.766137
+Latitud: 5.435176676883208
+Longitud: 77.40373793243361
+Temperatura: 33.4473
+Humedad: 54.1886
+Promedio de vegetación: 0.0
+------------------------
+Imagen 185:
+Fecha/hora: 2023-04-29 18:32:06.241066
+Latitud: 6.983260920215162
+Longitud: 78.51218424761146
+Temperatura: 33.4294
+Humedad: 54.4154
+Promedio de vegetación: 0.0
+------------------------
+Imagen 186:
+Fecha/hora: 2023-04-29 18:32:36.711959
+Latitud: 8.52780576428372
+Longitud: 79.62862142134716
+Temperatura: 33.4294
+Humedad: 53.8453
+Promedio de vegetación: 0.0
+------------------------
+Imagen 187:
+Fecha/hora: 2023-04-29 18:33:07.181840
+Latitud: 10.068172733338384
+Longitud: 80.75501805147415
+Temperatura: 33.4832
+Humedad: 54.1825
+Promedio de vegetación: 0.0
+------------------------
+Imagen 188:
+Fecha/hora: 2023-04-29 18:33:37.653315
+Latitud: 11.60369528440838
+Longitud: 81.89338098958096
+Temperatura: 33.4294
+Humedad: 54.3173
+Promedio de vegetación: 0.0
+------------------------
+Imagen 189:
+Fecha/hora: 2023-04-29 18:34:08.127810
+Latitud: 13.13361617058708
+Longitud: 83.04572007067219
+Temperatura: 33.4294
+Humedad: 54.3173
+Promedio de vegetación: 0.0
+------------------------
+Imagen 190:
+Fecha/hora: 2023-04-29 18:34:38.599303
+Latitud: 14.656765246495318
+Longitud: 84.21380688736676
+Temperatura: 33.2862
+Humedad: 54.069
+Promedio de vegetación: 0.0
+------------------------
+Imagen 191:
+Fecha/hora: 2023-04-29 18:35:09.075408
+Latitud: 16.172636446491722
+Longitud: 85.40000706247386
+Temperatura: 33.3399
+Humedad: 54.3296
+Promedio de vegetación: 0.0
+------------------------
+Imagen 192:
+Fecha/hora: 2023-04-29 18:35:39.545641
+Latitud: 17.679778247854244
+Longitud: 86.6060468876046
+Temperatura: 33.3041
+Humedad: 54.2775
+Promedio de vegetación: 0.0
+------------------------
+Imagen 193:
+Fecha/hora: 2023-04-29 18:36:10.012058
+Latitud: 19.17731359117876
+Longitud: 87.83420041063857
+Temperatura: 33.322
+Humedad: 54.0568
+Promedio de vegetación: 0.0
+------------------------
+Imagen 194:
+Fecha/hora: 2023-04-29 18:36:40.479294
+Latitud: 20.664469047676242
+Longitud: 89.08695872756745
+Temperatura: 33.322
+Humedad: 54.1334
+Promedio de vegetación: 0.0
+------------------------
+Imagen 195:
+Fecha/hora: 2023-04-29 18:37:10.949333
+Latitud: 22.140239984920743
+Longitud: 90.36676849230831
+Temperatura: 33.3041
+Humedad: 54.069
+Promedio de vegetación: 0.0
+------------------------
+Imagen 196:
+Fecha/hora: 2023-04-29 18:37:41.427221
+Latitud: 23.60373455414481
+Longitud: 91.6763372162403
+Temperatura: 33.3041
+Humedad: 54.0139
+Promedio de vegetación: 0.0
+------------------------
+Imagen 197:
+Fecha/hora: 2023-04-29 18:38:11.871888
+Latitud: 25.05178671605814
+Longitud: 93.01642651149395
+Temperatura: 33.322
+Humedad: 54.2928
+Promedio de vegetación: 0.0
+------------------------
+Imagen 198:
+Fecha/hora: 2023-04-29 18:38:42.371457
+Latitud: 26.48729069096992
+Longitud: 94.393625149254
+Temperatura: 33.1608
+Humedad: 54.161
+Promedio de vegetación: 0.0
+------------------------
+Imagen 199:
+Fecha/hora: 2023-04-29 18:39:12.844957
+Latitud: 27.905056450932705
+Longitud: 95.80711135344552
+Temperatura: 33.3399
+Humedad: 54.0844
+Promedio de vegetación: 0.0
+------------------------
+Imagen 200:
+Fecha/hora: 2023-04-29 18:39:43.286076
+Latitud: 29.303382223735838
+Longitud: 97.25935754344961
+Temperatura: 33.2504
+Humedad: 54.161
+Promedio de vegetación: 0.0
+------------------------
+Imagen 201:
+Fecha/hora: 2023-04-29 18:40:13.756819
+Latitud: 30.683554280905984
+Longitud: 98.7562811357598
+Temperatura: 33.322
+Humedad: 54.1518
+Promedio de vegetación: 0.0
+------------------------
+Imagen 202:
+Fecha/hora: 2023-04-29 18:40:44.226461
+Latitud: 32.042510107721625
+Longitud: 100.29952539270853
+Temperatura: 33.2324
+Humedad: 54.1947
+Promedio de vegetación: 0.0
+------------------------
+Imagen 203:
+Fecha/hora: 2023-04-29 18:41:14.699364
+Latitud: 33.37866316121095
+Longitud: 101.89247552257623
+Temperatura: 33.1429
+Humedad: 54.3143
+Promedio de vegetación: 0.0
+------------------------
+Imagen 204:
+Fecha/hora: 2023-04-29 18:41:45.173365
+Latitud: 34.6900167803837
+Longitud: 103.53826762898122
+Temperatura: 33.3578
+Humedad: 54.3786
+Promedio de vegetación: 0.0
+------------------------
+Imagen 205:
+Fecha/hora: 2023-04-29 18:42:15.644121
+Latitud: 35.97436198243031
+Longitud: 105.23995726341555
+Temperatura: 33.1429
+Humedad: 54.3756
+Promedio de vegetación: 0.0
+------------------------
+Imagen 206:
+Fecha/hora: 2023-04-29 18:42:46.120684
+Latitud: 37.22990852668554
+Longitud: 107.00137497589463
+Temperatura: 33.2683
+Humedad: 54.1855
+Promedio de vegetación: 0.0
+------------------------
+Imagen 207:
+Fecha/hora: 2023-04-29 18:43:16.593806
+Latitud: 38.45396031924459
+Longitud: 108.82530531820318
+Temperatura: 33.1608
+Humedad: 54.3204
+Promedio de vegetación: 0.0
+------------------------
+Imagen 208:
+Fecha/hora: 2023-04-29 18:43:47.043008
+Latitud: 39.643299509374266
+Longitud: 110.71372846961908
+Temperatura: 33.1071
+Humedad: 54.2683
+Promedio de vegetación: 0.0
+------------------------
+Imagen 209:
+Fecha/hora: 2023-04-29 18:44:17.528831
+Latitud: 40.797575590677816
+Longitud: 112.67346530508247
+Temperatura: 33.0892
+Humedad: 53.9526
+Promedio de vegetación: 0.0
+------------------------
+Imagen 210:
+Fecha/hora: 2023-04-29 18:44:47.998986
+Latitud: 41.91206053130009
+Longitud: 114.70429873717639
+Temperatura: 33.0713
+Humedad: 54.2039
+Promedio de vegetación: 0.0
+------------------------
+Imagen 211:
+Fecha/hora: 2023-04-29 18:45:18.459411
+Latitud: 42.98408822941899
+Longitud: 116.80924004389742
+Temperatura: 33.1429
+Humedad: 54.115
+Promedio de vegetación: 0.0
+------------------------
+Imagen 212:
+Fecha/hora: 2023-04-29 18:45:48.935798
+Latitud: 44.01145356217571
+Longitud: 118.9924083302155
+Temperatura: 33.0892
+Humedad: 54.5442
+Promedio de vegetación: 0.0
+------------------------
+Imagen 213:
+Fecha/hora: 2023-04-29 18:46:19.416248
+Latitud: 44.99050102478452
+Longitud: 121.25493602465852
+Temperatura: 33.1071
+Humedad: 54.1733
+Promedio de vegetación: 0.0210524310318549
+------------------------
+Imagen 214:
+Fecha/hora: 2023-04-29 18:46:49.909909
+Latitud: 45.91813699574917
+Longitud: 123.59886852849593
+Temperatura: 33.1966
+Humedad: 54.3664
+Promedio de vegetación: 0.020242722146014327
+------------------------
+Imagen 215:
+Fecha/hora: 2023-04-29 18:47:20.412214
+Latitud: 46.790728245257775
+Longitud: 126.02454124386729
+Temperatura: 33.1071
+Humedad: 54.2192
+Promedio de vegetación: 0.017611168267032466
+------------------------
+Imagen 216:
+Fecha/hora: 2023-04-29 18:47:50.910090
+Latitud: 47.604393508396036
+Longitud: 128.53070448146136
+Temperatura: 33.0713
+Humedad: 54.0476
+Promedio de vegetación: 0.014574759945130316
+------------------------
+Imagen 217:
+Fecha/hora: 2023-04-29 18:48:21.404257
+Latitud: 48.355635686037054
+Longitud: 131.11610697375878
+Temperatura: 33.0534
+Humedad: 54.0445
+Promedio de vegetación: 0.014979614388050603
+------------------------
+Imagen 218:
+Fecha/hora: 2023-04-29 18:48:51.909314
+Latitud: 49.0412978067241
+Longitud: 133.77969016191045
+Temperatura: 33.0176
+Humedad: 54.1671
+Promedio de vegetación: 0.013157769394909313
+------------------------
+Imagen 219:
+Fecha/hora: 2023-04-29 18:49:22.399327
+Latitud: 49.657385988822945
+Longitud: 136.51557815740674
+Temperatura: 33.0892
+Humedad: 54.4767
+Promedio de vegetación: 0.008299516079865874
+------------------------
+Imagen 220:
+Fecha/hora: 2023-04-29 18:49:52.905593
+Latitud: 50.20125460126175
+Longitud: 139.32170159626338
+Temperatura: 33.0534
+Humedad: 54.3909
+Promedio de vegetación: 0.004250971650663009
+------------------------
+Imagen 221:
+Fecha/hora: 2023-04-29 18:50:23.403576
+Latitud: 50.66938202666832
+Longitud: 142.18961206145804
+Temperatura: 33.1071
+Humedad: 54.2805
+Promedio de vegetación: 0.0026315538789818626
+------------------------
+Imagen 222:
+Fecha/hora: 2023-04-29 18:50:53.897932
+Latitud: 51.059120096775665
+Longitud: 145.11218294832702
+Temperatura: 33.0534
+Humedad: 54.5993
+Promedio de vegetación: 1.1516084628867551
+------------------------
+Imagen 223:
+Fecha/hora: 2023-04-29 18:51:24.386238
+Latitud: 51.36806768659402
+Longitud: 148.08033214640875
+Temperatura: 33.1071
+Humedad: 54.4246
+Promedio de vegetación: 88.52709190672154
+------------------------
+Imagen 224:
+Fecha/hora: 2023-04-29 18:51:54.867390
+Latitud: 51.59429301662427
+Longitud: 151.0840090739007
+Temperatura: 33.0355
+Humedad: 54.2989
+Promedio de vegetación: 227.40491874333182
+------------------------
+Imagen 225:
+Fecha/hora: 2023-04-29 18:52:25.358739
+Latitud: 51.736429003179424
+Longitud: 154.11416450623204
+Temperatura: 33.0176
+Humedad: 54.1825
+Promedio de vegetación: 248.4425725880201
+------------------------
+Imagen 226:
+Fecha/hora: 2023-04-29 18:52:55.828861
+Latitud: 51.793417177935716
+Longitud: 157.15598761200613
+Temperatura: 33.125
+Humedad: 54.3051
+Promedio de vegetación: 216.82708428593202
+------------------------
+Imagen 227:
+Fecha/hora: 2023-04-29 18:53:26.304365
+Latitud: 51.76499252120245
+Longitud: 160.20042623219476
+Temperatura: 33.0713
+Humedad: 54.2131
+Promedio de vegetación: 135.48615874104559
+------------------------
+Imagen 228:
+Fecha/hora: 2023-04-29 18:53:56.772804
+Latitud: 51.65136160499655
+Longitud: 163.23427526021496
+Temperatura: 33.0713
+Humedad: 54.4399
+Promedio de vegetación: 150.85848193872886
+------------------------
+Imagen 229:
+Fecha/hora: 2023-04-29 18:54:27.226904
+Latitud: 51.45339974666483
+Longitud: 166.24519018832075
+Temperatura: 33.0355
+Humedad: 54.4307
+Promedio de vegetación: 228.73081704389574
+------------------------
+Imagen 230:
+Fecha/hora: 2023-04-29 18:54:57.693854
+Latitud: 51.172242157867345
+Longitud: 169.2247724797979
+Temperatura: 33.1429
+Humedad: 54.5687
+Promedio de vegetación: 248.48265317786922
+------------------------
+Imagen 231:
+Fecha/hora: 2023-04-29 18:55:28.132406
+Latitud: 50.810138807660046
+Longitud: 172.1588012364974
+Temperatura: 32.9996
+Humedad: 54.2438
+Promedio de vegetación: 227.18852404359092
+------------------------
+Imagen 232:
+Fecha/hora: 2023-04-29 18:55:58.593966
+Latitud: 50.36875722568827
+Longitud: 175.043062410291
+Temperatura: 33.125
+Humedad: 54.2989
+Promedio de vegetación: 189.63220164609052
+------------------------
+Imagen 233:
+Fecha/hora: 2023-04-29 18:56:29.053481
+Latitud: 49.85100360644149
+Longitud: 177.86725028576
+Temperatura: 33.1966
+Humedad: 54.6453
+Promedio de vegetación: 148.00668724279836
+------------------------
+Imagen 234:
+Fecha/hora: 2023-04-29 18:56:59.516920
+Latitud: 49.25973607641025
+Longitud: -179.374829807642
+Temperatura: 33.2145
+Humedad: 54.4093
+Promedio de vegetación: 161.89643347050753
+------------------------
+Imagen 235:
+Fecha/hora: 2023-04-29 18:57:29.945840
+Latitud: 48.59899599011277
+Longitud: -176.6918512761916
+Temperatura: 33.1071
+Humedad: 54.4246
+Promedio de vegetación: 223.69017680231673
+------------------------
+Imagen 236:
+Fecha/hora: 2023-04-29 18:58:00.402076
+Latitud: 47.870828001845226
+Longitud: -174.08234853464674
+Temperatura: 33.1071
+Humedad: 54.5871
+Promedio de vegetación: 234.9694215820759
+------------------------
+Imagen 237:
+Fecha/hora: 2023-04-29 18:58:30.843304
+Latitud: 47.07965803677138
+Longitud: -171.5527247511259
+Temperatura: 33.1966
+Humedad: 54.2376
+Promedio de vegetación: 200.06914675735405
+------------------------
+Imagen 238:
+Fecha/hora: 2023-04-29 18:59:01.276371
+Latitud: 46.22883114100045
+Longitud: -169.10378780696826
+Temperatura: 33.2324
+Humedad: 54.3112
+Promedio de vegetación: 203.6668857643652
+------------------------
+Imagen 239:
+Fecha/hora: 2023-04-29 18:59:31.639444
+Latitud: 45.32395076932198
+Longitud: -166.74123604877144
+Temperatura: 33.2324
+Humedad: 54.6116
+Promedio de vegetación: 239.20845002667275
+------------------------
+Imagen 240:
+Fecha/hora: 2023-04-29 19:00:02.060775
+Latitud: 44.36441084880296
+Longitud: -164.45408583201575
+Temperatura: 33.2504
+Humedad: 54.4277
+Promedio de vegetación: 250.13425687776254
+------------------------
+Imagen 241:
+Fecha/hora: 2023-04-29 19:00:32.416272
+Latitud: 43.35780432455487
+Longitud: -162.25132960450418
+Temperatura: 33.2683
+Humedad: 54.3173
+Promedio de vegetación: 233.59898929279072
+------------------------
+Imagen 242:
+Fecha/hora: 2023-04-29 19:01:02.834246
+Latitud: 42.30286450294296
+Longitud: -160.12136701773315
+Temperatura: 33.3041
+Humedad: 54.3756
+Promedio de vegetación: 165.9328322664228
+------------------------
+Imagen 243:
+Fecha/hora: 2023-04-29 19:01:33.268145
+Latitud: 41.2042163453799
+Longitud: -158.0657434465527
+Temperatura: 33.322
+Humedad: 54.2407
+Promedio de vegetación: 116.21711153025453
+------------------------
+Imagen 244:
+Fecha/hora: 2023-04-29 19:02:03.701433
+Latitud: 40.06541116261332
+Longitud: -156.08307701582024
+Temperatura: 33.3041
+Humedad: 54.4246
+Promedio de vegetación: 95.69180098308185
+------------------------
+Imagen 245:
+Fecha/hora: 2023-04-29 19:02:34.141458
+Latitud: 38.888977904525014
+Longitud: -154.17002394403306
+Temperatura: 33.4115
+Humedad: 54.2744
+Promedio de vegetación: 48.36067291571407
+------------------------
+Imagen 246:
+Fecha/hora: 2023-04-29 19:03:04.589332
+Latitud: 37.677513892219196
+Longitud: -152.3234806027419
+Temperatura: 33.3578
+Humedad: 54.4522
+Promedio de vegetación: 60.95164609053498
+------------------------
+Imagen 247:
+Fecha/hora: 2023-04-29 19:03:35.019377
+Latitud: 36.43457738262206
+Longitud: -150.54177101003947
+Temperatura: 33.2862
+Humedad: 54.7495
+Promedio de vegetación: 104.24090982700808
+------------------------
+Imagen 248:
+Fecha/hora: 2023-04-29 19:04:05.455525
+Latitud: 35.161567067855586
+Longitud: -148.82016911779806
+Temperatura: 33.322
+Humedad: 54.1917
+Promedio de vegetación: 121.14196340115836
+------------------------
+Imagen 249:
+Fecha/hora: 2023-04-29 19:04:35.878393
+Latitud: 33.86151496013643
+Longitud: -147.15644412737058
+Temperatura: 33.4652
+Humedad: 54.443
+Promedio de vegetación: 126.73705180231671
+------------------------
+Imagen 250:
+Fecha/hora: 2023-04-29 19:05:06.317440
+Latitud: 32.53523066992191
+Longitud: -145.54570061440452
+Temperatura: 33.4473
+Humedad: 54.2192
+Promedio de vegetación: 73.18695463725042
+------------------------
+Imagen 251:
+Fecha/hora: 2023-04-29 19:05:36.738292
+Latitud: 31.186149959688194
+Longitud: -143.98650374735655
+Temperatura: 33.5548
+Humedad: 54.2652
+Promedio de vegetación: 108.00443672839506
+------------------------
+Imagen 252:
+Fecha/hora: 2023-04-29 19:06:07.159280
+Latitud: 29.81529194074335
+Longitud: -142.47468939081986
+Temperatura: 33.5011
+Humedad: 54.302
+Promedio de vegetación: 116.60010383325712
+------------------------
+Imagen 253:
+Fecha/hora: 2023-04-29 19:06:37.604012
+Latitud: 28.423268319776216
+Longitud: -141.00604399203
+Temperatura: 33.4832
+Humedad: 54.1365
+Promedio de vegetación: 92.39608339048925
+------------------------
+Imagen 254:
+Fecha/hora: 2023-04-29 19:07:08.039716
+Latitud: 27.013134766294808
+Longitud: -139.57915569409474
+Temperatura: 33.5369
+Humedad: 54.0721
+Promedio de vegetación: 127.74392480185948
+------------------------
+Imagen 255:
+Fecha/hora: 2023-04-29 19:07:38.480856
+Latitud: 25.58573082703561
+Longitud: -138.19044832843974
+Temperatura: 33.519
+Humedad: 53.9066
+Promedio de vegetación: 164.73223641594268
+------------------------
+Imagen 256:
+Fecha/hora: 2023-04-29 19:08:08.910294
+Latitud: 24.143239411522543
+Longitud: -136.837867274882
+Temperatura: 33.6085
+Humedad: 54.1426
+Promedio de vegetación: 229.70489683356195
+------------------------
+Imagen 257:
+Fecha/hora: 2023-04-29 19:08:39.341966
+Latitud: 22.686340263664604
+Longitud: -135.5180974052277
+Temperatura: 33.6801
+Humedad: 54.3081
+Promedio de vegetación: 249.18548049077884
+------------------------
+Imagen 258:
+Fecha/hora: 2023-04-29 19:09:09.768016
+Latitud: 21.21660853520279
+Longitud: -134.22884438799642
+Temperatura: 33.5369
+Humedad: 54.3204
+Promedio de vegetación: 252.3127786351166
+------------------------
+Imagen 259:
+Fecha/hora: 2023-04-29 19:09:40.188071
+Latitud: 19.735259911187406
+Longitud: -132.96763469624688
+Temperatura: 33.6801
+Humedad: 53.6583
+Promedio de vegetación: 216.85420953360767
+------------------------
+Imagen 260:
+Fecha/hora: 2023-04-29 19:10:10.608130
+Latitud: 18.24309528771543
+Longitud: -131.73180120392945
+Temperatura: 33.6801
+Humedad: 54.1426
+Promedio de vegetación: 158.9108343811919
+------------------------
+Imagen 261:
+Fecha/hora: 2023-04-29 19:10:41.034524
+Latitud: 16.740841967088585
+Longitud: -130.51878034195644
+Temperatura: 33.6622
+Humedad: 54.2867
+Promedio de vegetación: 155.45904540085354
+------------------------
+Imagen 262:
+Fecha/hora: 2023-04-29 19:11:11.462140
+Latitud: 15.229734872851916
+Longitud: -129.32654963781772
+Temperatura: 33.7518
+Humedad: 54.1579
+Promedio de vegetación: 145.67452322435605
+------------------------
+Imagen 263:
+Fecha/hora: 2023-04-29 19:11:41.898973
+Latitud: 13.710309454055087
+Longitud: -128.152644200964
+Temperatura: 33.6801
+Humedad: 54.0169
+Promedio de vegetación: 111.55015193949093
+------------------------
+Imagen 264:
+Fecha/hora: 2023-04-29 19:12:12.334884
+Latitud: 12.18399549879511
+Longitud: -126.99539310913025
+Temperatura: 33.6981
+Humedad: 53.8453
+Promedio de vegetación: 124.04132849413199
+------------------------
+Imagen 265:
+Fecha/hora: 2023-04-29 19:12:42.769301
+Latitud: 10.651669670586344
+Longitud: -125.85277597263115
+Temperatura: 33.7876
+Humedad: 53.9005
+Promedio de vegetación: 132.70602328151196
+------------------------
+Imagen 266:
+Fecha/hora: 2023-04-29 19:13:13.203011
+Latitud: 9.114148813887901
+Longitud: -124.72280777980565
+Temperatura: 33.8234
+Humedad: 53.8422
+Promedio de vegetación: 133.28820397043134
+------------------------
+Imagen 267:
+Fecha/hora: 2023-04-29 19:13:43.633587
+Latitud: 7.572360353070362
+Longitud: -123.60365285654504
+Temperatura: 33.9129
+Humedad: 53.9311
+Promedio de vegetación: 124.25994989330894
+------------------------
+Imagen 268:
+Fecha/hora: 2023-04-29 19:14:14.057872
+Latitud: 6.027252630282615
+Longitud: -122.49354565262185
+Temperatura: 33.8771
+Humedad: 53.7411
+Promedio de vegetación: 99.56807984682213
+------------------------
+Imagen 269:
+Fecha/hora: 2023-04-29 19:14:44.489897
+Latitud: 4.478913934886751
+Longitud: -121.3901557362317
+Temperatura: 34.0025
+Humedad: 54.0108
+Promedio de vegetación: 100.06159741274196
+------------------------
+Imagen 270:
+Fecha/hora: 2023-04-29 19:15:14.897220
+Latitud: 2.9296797578609426
+Longitud: -120.2927910442342
+Temperatura: 33.9129
+Humedad: 53.5449
+Promedio de vegetación: 65.03500800182898
+------------------------
+Imagen 271:
+Fecha/hora: 2023-04-29 19:15:45.289379
+Latitud: 1.3798942455879524
+Longitud: -119.19936806834352
+Temperatura: 33.8234
+Humedad: 53.6185
+Promedio de vegetación: 69.4626986168267
+------------------------
+Imagen 272:
+Fecha/hora: 2023-04-29 19:16:15.708658
+Latitud: -0.17190024963917058
+Longitud: -118.10656474525065
+Temperatura: 33.9488
+Humedad: 53.9863
+Promedio de vegetación: 92.52098098613017
+------------------------
+Imagen 273:
+Fecha/hora: 2023-04-29 19:16:46.151711
+Latitud: -1.7247794704117794
+Longitud: -117.01274613727428
+Temperatura: 33.895
+Humedad: 53.6828
+Promedio de vegetación: 75.37924144566377
+------------------------
+Imagen 274:
+Fecha/hora: 2023-04-29 19:17:16.569259
+Latitud: -3.275517328855641
+Longitud: -115.91789418863893
+Temperatura: 34.0025
+Humedad: 53.6001
+Promedio de vegetación: 138.9980686061576
+------------------------
+Imagen 275:
+Fecha/hora: 2023-04-29 19:17:47.028692
+Latitud: -4.826786504712682
+Longitud: -114.81781308706772
+Temperatura: 33.9129
+Humedad: 53.5663
+Promedio de vegetación: 178.95376085962505
+------------------------
+Imagen 276:
+Fecha/hora: 2023-04-29 19:18:17.459286
+Latitud: -6.374240346328945
+Longitud: -113.71325515842874
+Temperatura: 33.8592
+Humedad: 53.6981
+Promedio de vegetación: 110.47303669410151
+------------------------
+Imagen 277:
+Fecha/hora: 2023-04-29 19:18:47.879349
+Latitud: -7.918054603704174
+Longitud: -112.60175108729874
+Temperatura: 33.9309
+Humedad: 53.6093
+Promedio de vegetación: 82.5783631496723
+------------------------
+Imagen 278:
+Fecha/hora: 2023-04-29 19:19:18.290143
+Latitud: -9.457525305803879
+Longitud: -111.4814178532239
+Temperatura: 33.9129
+Humedad: 53.7073
+Promedio de vegetación: 81.8227023319616
+------------------------
+Imagen 279:
+Fecha/hora: 2023-04-29 19:19:48.723462
+Latitud: -10.993460966978562
+Longitud: -110.34920222410305
+Temperatura: 33.9846
+Humedad: 53.597
+Promedio de vegetación: 57.25249104557232
+------------------------
+Imagen 280:
+Fecha/hora: 2023-04-29 19:20:19.146059
+Latitud: -12.523380777822574
+Longitud: -109.20440046667416
+Temperatura: 33.9667
+Humedad: 53.83
+Promedio de vegetación: 100.92575922115532
+------------------------
+Imagen 281:
+Fecha/hora: 2023-04-29 19:20:49.559361
+Latitud: -14.04650636125988
+Longitud: -108.0450100679796
+Temperatura: 33.9309
+Humedad: 53.4805
+Promedio de vegetación: 134.5475037151349
+------------------------
+Imagen 282:
+Fecha/hora: 2023-04-29 19:21:19.969324
+Latitud: -15.562274265061951
+Longitud: -106.86878018844571
+Temperatura: 33.9846
+Humedad: 53.456
+Promedio de vegetación: 135.80923258649597
+------------------------
+Imagen 283:
+Fecha/hora: 2023-04-29 19:21:50.387178
+Latitud: -17.07032760073065
+Longitud: -105.67318490840077
+Temperatura: 33.9309
+Humedad: 53.6644
+Promedio de vegetación: 126.68199159807956
+------------------------
+Imagen 284:
+Fecha/hora: 2023-04-29 19:22:20.819838
+Latitud: -18.570056270273714
+Longitud: -104.45575967351321
+Temperatura: 33.9667
+Humedad: 53.6736
+Promedio de vegetación: 79.98142432556013
+------------------------
+Imagen 285:
+Fecha/hora: 2023-04-29 19:22:51.249269
+Latitud: -20.059566479906426
+Longitud: -103.21497140177081
+Temperatura: 33.9667
+Humedad: 53.5633
+Promedio de vegetación: 88.97081237616217
+------------------------
+Imagen 286:
+Fecha/hora: 2023-04-29 19:23:21.662078
+Latitud: -21.537156463225834
+Longitud: -101.94906963637625
+Temperatura: 33.9488
+Humedad: 53.5755
+Promedio de vegetación: 105.25527263374485
+------------------------
+Imagen 287:
+Fecha/hora: 2023-04-29 19:23:52.101922
+Latitud: -23.003851932889635
+Longitud: -100.6537898843545
+Temperatura: 33.9667
+Humedad: 53.4223
+Promedio de vegetación: 79.28669410150891
+------------------------
+Imagen 288:
+Fecha/hora: 2023-04-29 19:24:22.537068
+Latitud: -24.456933689934782
+Longitud: -99.32794055546319
+Temperatura: 33.9846
+Humedad: 53.2322
+Promedio de vegetación: 78.17071282959914
+------------------------
+Imagen 289:
+Fecha/hora: 2023-04-29 19:24:52.981575
+Latitud: -25.895815013265896
+Longitud: -97.96829680730025
+Temperatura: 33.9846
+Humedad: 53.4376
+Promedio de vegetación: 89.25238864121323
+------------------------
+Imagen 290:
+Fecha/hora: 2023-04-29 19:25:23.425042
+Latitud: -27.318686113021062
+Longitud: -96.57258232810209
+Temperatura: 33.895
+Humedad: 53.3671
+Promedio de vegetación: 100.01848041457094
+------------------------
+Imagen 291:
+Fecha/hora: 2023-04-29 19:25:53.867373
+Latitud: -28.724137353521535
+Longitud: -95.13798299678645
+Temperatura: 34.1278
+Humedad: 53.3395
+Promedio de vegetación: 148.12551202179546
+------------------------
+Imagen 292:
+Fecha/hora: 2023-04-29 19:26:24.269327
+Latitud: -30.10888991414892
+Longitud: -93.6635168617092
+Temperatura: 33.9846
+Humedad: 53.4407
+Promedio de vegetación: 210.96479195244626
+------------------------
+Imagen 293:
+Fecha/hora: 2023-04-29 19:26:54.714452
+Latitud: -31.475141690202125
+Longitud: -92.14211243178455
+Temperatura: 33.9667
+Humedad: 53.2997
+Promedio de vegetación: 216.63700512498096
+------------------------
+Imagen 294:
+Fecha/hora: 2023-04-29 19:27:25.151282
+Latitud: -32.81883573217119
+Longitud: -90.57315687334152
+Temperatura: 34.0204
+Humedad: 53.4866
+Promedio de vegetación: 136.67906235711018
+------------------------
+Imagen 295:
+Fecha/hora: 2023-04-29 19:27:55.582321
+Latitud: -34.138294239640366
+Longitud: -88.95333551349735
+Temperatura: 34.0204
+Humedad: 53.3548
+Promedio de vegetación: 104.64839582380735
+------------------------
+Imagen 296:
+Fecha/hora: 2023-04-29 19:28:26.025095
+Latitud: -35.4322877280392
+Longitud: -87.27847981939749
+Temperatura: 34.0025
+Humedad: 53.5725
+Promedio de vegetación: 102.58424544657827
+------------------------
+Imagen 297:
+Fecha/hora: 2023-04-29 19:28:56.468516
+Latitud: -36.698236679941346
+Longitud: -85.54587894487801
+Temperatura: 34.0741
+Humedad: 53.1311
+Promedio de vegetación: 109.5898467268709
+------------------------
+Imagen 298:
+Fecha/hora: 2023-04-29 19:29:26.889364
+Latitud: -37.93297999480284
+Longitud: -83.7536187585747
+Temperatura: 34.0025
+Humedad: 53.5142
+Promedio de vegetación: 131.83538380201188
+------------------------
+Imagen 299:
+Fecha/hora: 2023-04-29 19:29:57.317890
+Latitud: -39.13538620175899
+Longitud: -81.89670986159642
+Temperatura: 34.0562
+Humedad: 53.8453
+Promedio de vegetación: 128.18541857186403
+------------------------
+Imagen 300:
+Fecha/hora: 2023-04-29 19:30:27.748614
+Latitud: -40.30270462874999
+Longitud: -79.97226228874857
+Temperatura: 34.1099
+Humedad: 53.2751
+Promedio de vegetación: 138.83167343011735
+------------------------
+Imagen 301:
+Fecha/hora: 2023-04-29 19:30:58.187443
+Latitud: -41.43244349289491
+Longitud: -77.97686147618737
+Temperatura: 34.0562
+Humedad: 53.3947
+Promedio de vegetación: 145.5036746494437
+------------------------
+Imagen 302:
+Fecha/hora: 2023-04-29 19:31:28.623053
+Latitud: -42.52133171070006
+Longitud: -75.90842826568232
+Temperatura: 34.1278
+Humedad: 53.1249
+Promedio de vegetación: 141.57010888203018
+------------------------
+Imagen 303:
+Fecha/hora: 2023-04-29 19:31:59.064708
+Latitud: -43.56671765226555
+Longitud: -73.76379510582245
+Temperatura: 34.1457
+Humedad: 53.4161
+Promedio de vegetación: 175.13031550068587
+------------------------
+Imagen 304:
+Fecha/hora: 2023-04-29 19:32:29.507143
+Latitud: -44.56526603790469
+Longitud: -71.5412281888653
+Temperatura: 34.1099
+Humedad: 53.4192
+Promedio de vegetación: 178.3359529797287
+------------------------
+Imagen 305:
+Fecha/hora: 2023-04-29 19:32:59.949483
+Latitud: -45.51368281446582
+Longitud: -69.23923062669708
+Temperatura: 34.1457
+Humedad: 53.223
+Promedio de vegetación: 172.42811452141441
+------------------------
+Imagen 306:
+Fecha/hora: 2023-04-29 19:33:30.396262
+Latitud: -46.40873211394283
+Longitud: -66.85652488745853
+Temperatura: 34.0383
+Humedad: 53.4315
+Promedio de vegetación: 155.28313614540465
+------------------------
+Imagen 307:
+Fecha/hora: 2023-04-29 19:34:00.863477
+Latitud: -47.24737124926823
+Longitud: -64.39161944384863
+Temperatura: 34.1099
+Humedad: 53.2721
+Promedio de vegetación: 125.82795115073921
+------------------------
+Imagen 308:
+Fecha/hora: 2023-04-29 19:34:31.279378
+Latitud: -48.0242293157951
+Longitud: -61.85122026464221
+Temperatura: 34.1457
+Humedad: 53.4958
+Promedio de vegetación: 113.90215382563633
+------------------------
+Imagen 309:
+Fecha/hora: 2023-04-29 19:35:01.729946
+Latitud: -48.738132984252765
+Longitud: -59.229785777148564
+Temperatura: 34.1816
+Humedad: 53.2997
+Promedio de vegetación: 103.6795791418991
+------------------------
+Imagen 310:
+Fecha/hora: 2023-04-29 19:35:32.157476
+Latitud: -49.38407364375445
+Longitud: -56.53598491297669
+Temperatura: 34.0562
+Humedad: 53.5878
+Promedio de vegetación: 62.09596717344917
+------------------------
+Imagen 311:
+Fecha/hora: 2023-04-29 19:36:02.587087
+Latitud: -49.9595400786087
+Longitud: -53.7711493870159
+Temperatura: 34.0383
+Humedad: 53.1556
+Promedio de vegetación: 58.02090477823503
+------------------------
+Imagen 312:
+Fecha/hora: 2023-04-29 19:36:33.052105
+Latitud: -50.461832422278604
+Longitud: -50.93794790295376
+Temperatura: 34.0562
+Humedad: 53.315
+Promedio de vegetación: 205.26747780445055
+------------------------
+Imagen 313:
+Fecha/hora: 2023-04-29 19:37:03.519753
+Latitud: -50.88739368521682
+Longitud: -48.04617577172544
+Temperatura: 34.0383
+Humedad: 53.1954
+Promedio de vegetación: 197.59366426611797
+------------------------
+Imagen 314:
+Fecha/hora: 2023-04-29 19:37:34.027819
+Latitud: -51.234023847555044
+Longitud: -45.10031944166269
+Temperatura: 34.0741
+Humedad: 53.2659
+Promedio de vegetación: 108.35989892927907
+------------------------
+Imagen 315:
+Fecha/hora: 2023-04-29 19:38:04.494589
+Latitud: -51.49862939056903
+Longitud: -42.11766637362015
+Temperatura: 33.9846
+Humedad: 53.3732
+Promedio de vegetación: 37.56401463191587
+------------------------
+Imagen 316:
+Fecha/hora: 2023-04-29 19:38:34.969000
+Latitud: -51.680066022203164
+Longitud: -39.10384699556145
+Temperatura: 34.1457
+Humedad: 53.2322
+Promedio de vegetación: 1.0817710714830056
+------------------------
+Imagen 317:
+Fecha/hora: 2023-04-29 19:39:05.439296
+Latitud: -51.77705224656667
+Longitud: -36.071197302448766
+Temperatura: 34.092
+Humedad: 53.2292
+Promedio de vegetación: 0.04797525148605396
+------------------------
+Imagen 318:
+Fecha/hora: 2023-04-29 19:39:35.944188
+Latitud: -51.78893643438604
+Longitud: -33.02754080595828
+Temperatura: 34.1457
+Humedad: 53.4039
+Promedio de vegetación: 0.04149758039932937
+------------------------
+Imagen 319:
+Fecha/hora: 2023-04-29 19:40:06.450144
+Latitud: -51.71547813969899
+Longitud: -29.988090022028416
+Temperatura: 34.0562
+Humedad: 53.3364
+Promedio de vegetación: 0.043116998171010515
+------------------------
+Imagen 320:
+Fecha/hora: 2023-04-29 19:40:36.946217
+Latitud: -51.55723705636537
+Longitud: -26.96575356970803
+Temperatura: 34.0383
+Humedad: 53.4315
+Promedio de vegetación: 0.06700341030330742
+------------------------
+Imagen 321:
+Fecha/hora: 2023-04-29 19:41:07.419329
+Latitud: -51.31546925140349
+Longitud: -23.9731280232732
+Temperatura: 33.9488
+Humedad: 53.0667
+Promedio de vegetación: 0.12732672229843012
+------------------------
+Imagen 322:
+Fecha/hora: 2023-04-29 19:41:37.915329
+Latitud: -50.991389767323874
+Longitud: -21.016369013389024
+Temperatura: 33.9488
+Humedad: 53.3456
+Promedio de vegetación: 0.1819820720926688
+------------------------
+Imagen 323:
+Fecha/hora: 2023-04-29 19:42:08.404164
+Latitud: -50.58730364371296
+Longitud: -18.10807712253916
+Temperatura: 34.0025
+Humedad: 53.174
+Promedio de vegetación: 0.20424906645328456
+------------------------
+Imagen 324:
+Fecha/hora: 2023-04-29 19:42:38.897534
+Latitud: -50.10553003790336
+Longitud: -15.255658512714751
+Temperatura: 33.9129
+Humedad: 53.4192
+Promedio de vegetación: 0.22793305136412131
+------------------------
+Imagen 325:
+Fecha/hora: 2023-04-29 19:43:09.381075
+Latitud: -49.54912974011791
+Longitud: -12.467729823232501
+Temperatura: 33.9488
+Humedad: 53.2506
+Promedio de vegetación: 0.04878496037189453
+------------------------
+Imagen 326:
+Fecha/hora: 2023-04-29 19:43:39.869434
+Latitud: -48.92093231953164
+Longitud: -9.748849960438212
+Temperatura: 33.8413
+Humedad: 53.3824
+Promedio de vegetación: 0.0
+------------------------
+Imagen 327:
+Fecha/hora: 2023-04-29 19:44:10.366951
+Latitud: -48.224086682238685
+Longitud: -7.103298877865589
+Temperatura: 34.0204
+Humedad: 53.2537
+Promedio de vegetación: 0.0
+------------------------
+Imagen 328:
+Fecha/hora: 2023-04-29 19:44:40.860020
+Latitud: -47.46231363458699
+Longitud: -4.535622917115527
+Temperatura: 33.8413
+Humedad: 53.1893
+Promedio de vegetación: 0.0
+------------------------
+Imagen 329:
+Fecha/hora: 2023-04-29 19:45:11.358686
+Latitud: -46.63885056307539
+Longitud: -2.047109159043681
+Temperatura: 33.8055
+Humedad: 53.3456
+Promedio de vegetación: 0.0
+------------------------
+Imagen 330:
+Fecha/hora: 2023-04-29 19:45:41.855120
+Latitud: -45.75740612116406
+Longitud: 0.3605459335516981
+Temperatura: 33.8055
+Humedad: 53.0912
+Promedio de vegetación: 0.0
+------------------------
+Imagen 331:
+Fecha/hora: 2023-04-29 19:46:12.354418
+Latitud: -44.821315382687715
+Longitud: 2.6876359261868084
+Temperatura: 33.8413
+Humedad: 53.3426
+Promedio de vegetación: 0.0
+------------------------
+Imagen 332:
+Fecha/hora: 2023-04-29 19:46:42.848759
+Latitud: -43.834220829751196
+Longitud: 4.934329407362356
+Temperatura: 33.8055
+Humedad: 53.2077
+Promedio de vegetación: 0.0
+------------------------
+Imagen 333:
+Fecha/hora: 2023-04-29 19:47:13.351051
+Latitud: -42.79902270870377
+Longitud: 7.102946852441844
+Temperatura: 33.716
+Humedad: 53.1587
+Promedio de vegetación: 0.0
+------------------------
+Imagen 334:
+Fecha/hora: 2023-04-29 19:47:43.830451
+Latitud: -41.71996181548129
+Longitud: 9.193376845498076
+Temperatura: 33.716
+Humedad: 53.3456
+Promedio de vegetación: 0.0
+------------------------
+Imagen 335:
+Fecha/hora: 2023-04-29 19:48:14.349991
+Latitud: -40.59783664844497
+Longitud: 11.212260289544666
+Temperatura: 33.7697
+Humedad: 53.1801
+Promedio de vegetación: 0.0
+------------------------
+Imagen 336:
+Fecha/hora: 2023-04-29 19:48:44.843511
+Latitud: -39.43794341400447
+Longitud: 13.1579349214319
+Temperatura: 33.8413
+Humedad: 53.0759
+Promedio de vegetación: 0.0
+------------------------
+Imagen 337:
+Fecha/hora: 2023-04-29 19:49:15.338291
+Latitud: -38.24202884758162
+Longitud: 15.035235176004358
+Temperatura: 33.716
+Humedad: 53.223
+Promedio de vegetación: 0.0
+------------------------
+Imagen 338:
+Fecha/hora: 2023-04-29 19:49:45.828903
+Latitud: -37.01289592019012
+Longitud: 16.846997821656792
+Temperatura: 33.6801
+Humedad: 53.1832
+Promedio de vegetación: 0.0
+------------------------
+Imagen 339:
+Fecha/hora: 2023-04-29 19:50:16.317987
+Latitud: -35.75288048974003
+Longitud: 18.596654460270425
+Temperatura: 33.7339
+Humedad: 53.3855
+Promedio de vegetación: 0.0
+------------------------
+Imagen 340:
+Fecha/hora: 2023-04-29 19:50:46.809649
+Latitud: -34.464090413029126
+Longitud: 20.28774555580282
+Temperatura: 33.6264
+Humedad: 53.2414
+Promedio de vegetación: 0.0
+------------------------
+Imagen 341:
+Fecha/hora: 2023-04-29 19:51:17.304481
+Latitud: -33.148630853172584
+Longitud: 21.92359486259174
+Temperatura: 33.6443
+Humedad: 53.2445
+Promedio de vegetación: 0.0
+------------------------
+Imagen 342:
+Fecha/hora: 2023-04-29 19:51:47.799837
+Latitud: -31.808601721875466
+Longitud: 23.507340003585355
+Temperatura: 33.5906
+Humedad: 53.1035
+Promedio de vegetación: 0.0
+------------------------
+Imagen 343:
+Fecha/hora: 2023-04-29 19:52:18.294982
+Latitud: -30.445916138092336
+Longitud: 25.042150996032657
+Temperatura: 33.6443
+Humedad: 53.2506
+Promedio de vegetación: 0.0
+------------------------
